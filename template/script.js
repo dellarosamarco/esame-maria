@@ -5,7 +5,7 @@ const questions = [
             "a) divido il test in quattro parti ",
             "b) divido il test in tre parti ",
             "c) divido il testa metà ",
-            "c) divido il test in piùcicue parti "
+            "d) divido il test in piùcicue parti "
         ],
         "correctAnswer": "divido a metà il test "
     },
@@ -14,8 +14,8 @@ const questions = [
         "answers": [
             "a) Solo metodo split-half ",
             "b) Solo test-retest ",
-            "c) Split-half tranne per memoriacicifre e ragionamentoaritmeticocalcolatecon test-retest ",
-            "c) Test-retest tranne per memoriacicifre e ragionamentoaritmetico "
+            "c) Split-half tranne per memoria di cifre e ragionamento aritmetico calcolate con test-retest ",
+            "d) Test-retest tranne per memoria di cifre e ragionamento aritmetico "
         ],
         "correctAnswer": ": metodo split-half tranne memoriacicifre e  "
     },
@@ -25,7 +25,7 @@ const questions = [
             "a)civisionecel test in parti non equivalenti ",
             "b)civisionecel test in parti inbaseal gradocicifficoltà ",
             "c)civisionea metàcel testcheconsente un’analisi fattoriale ",
-            "c)civisionecel test inbasealla lunghezzacellecomande "
+            "d)civisionecel test inbasealla lunghezzacellecomande "
         ],
         "correctAnswer": ":civisionea metàcel testcheconsente un’analisi fattoriale  "
     },
@@ -35,7 +35,7 @@ const questions = [
             "a) Spearmanbrown ",
             "b) Pearson ",
             "c) Phi tetracorico ",
-            "c) Puntobiseriale "
+            "d) Puntobiseriale "
         ],
         "correctAnswer": ": Spearmanbrown, pearson, phi tetracorico e  puntobiseriale  "
     },
@@ -165,7 +165,7 @@ const questions = [
             "a) La scrupolosità e la perseveranza. ",
             "b) L'estroversione e l'apertura mentale. ",
             "c) La stabilità emotiva e la gradevolezza. ",
-            "c) L'energia e lacooperatività."
+            "d) L'energia e lacooperatività."
         ],
         "correctAnswer": ": la scrupolosità e la  perseveranza. "
     },
@@ -175,7 +175,7 @@ const questions = [
             "a) Misurano leabilitàcognitive ",
             "b) Misurano leabilità motorie ",
             "c) Misurano i trattici personalità ",
-            "c)cooperatività tra le persone "
+            "d)cooperatività tra le persone "
         ],
         "correctAnswer": ":cooperatività tra le persone. "
     },
@@ -185,7 +185,7 @@ const questions = [
             "a)coinvolge la manipolazionecelle variabilicipendenti ",
             "b)coinvolge lacreazioneci un gruppocicontrollo e un gruppo sperimentale ",
             "c) Non è importante nelle ricerche psicologiche ",
-            "c)coinvolge la manipolazionecelle variabili estranee "
+            "d)coinvolge la manipolazionecelle variabili estranee "
         ],
         "correctAnswer": ":creare un gruppocicontrollo e gruppo sperimentale.  20) Scala Likert: politomica, graduabile "
     },
@@ -195,7 +195,7 @@ const questions = [
             "a) Monotomica ",
             "b) Politomica, graduabile ",
             "c)cicotomica ",
-            "c) Intervallica "
+            "d) Intervallica "
         ],
         "correctAnswer": ""
     },
@@ -205,7 +205,7 @@ const questions = [
             "a) Politomica ",
             "b) Monotomica ",
             "c)cicotomica ",
-            "c) Intervallica "
+            "d) Intervallica "
         ],
         "correctAnswer": ":cicotomica "
     },
@@ -215,7 +215,7 @@ const questions = [
             "a)con rispostecicotomiche (KR-20). ",
             "b)con risposte politomiche (KR-30). ",
             "c)con risposteaperte (KR-10). ",
-            "c)con risposte multiple (KR-50). "
+            "d)con risposte multiple (KR-50). "
         ],
         "correctAnswer": ":con risposte cicotomiche (KR-20). "
     },
@@ -225,7 +225,7 @@ const questions = [
             "a)attendibilità per gli itemcicotomici ",
             "b)attendibilità per gli item politomici ",
             "c)attendibilità per gli itemaperti ",
-            "c)attendibilità per gli item multipli "
+            "d)attendibilità per gli item multipli "
         ],
         "correctAnswer": ":attendibiltà per gli itemcicotomici "
     },
@@ -235,7 +235,7 @@ const questions = [
             "a)ciagrammacicispersione. ",
             "b) Istogramma. ",
             "c) Graficoa torta. ",
-            "c) Tabellacicontingenza."
+            "d) Tabellacicontingenza."
         ],
         "correctAnswer": ":ciagrammacicispersione . 25)ciagrammacicispersione è: unciagrammacartesianoche rappresenta lacorrelazione tra  2 variabili. "
     },
@@ -245,7 +245,7 @@ const questions = [
             "a) Unciagrammacartesianoche rappresenta lacorrelazione tra 2 variabili. ",
             "b) Unciagrammache mostra lacistribuzioneci una singola variabile. ",
             "c) Unciagrammache rappresenta lecorrelazioni tra piùcicue variabili. ",
-            "c) Unciagrammache mostra la relazionecausale tracue variabili. "
+            "d) Unciagrammache mostra la relazionecausale tracue variabili. "
         ],
         "correctAnswer": ""
     },
@@ -285,7 +285,7 @@ const questions = [
             "a) Esistenzaci un fattore generale G e 2 sottolivelli ",
             "b) Esistenzaci un unico fattore generale ",
             "c) Esistenzaci più fattori indipendenti ",
-            "c) Esistenzaci fattori specifici per ogni item "
+            "d) Esistenzaci fattori specifici per ogni item "
         ],
         "correctAnswer": ": esistenzaci un fattore generale G e 2 sottolivelli  "
     },
@@ -295,7 +295,7 @@ const questions = [
             "a)al testchi-quadro ",
             "b)alcoefficienteci Spearman ",
             "c)al test Fci Fisher ",
-            "c)al Tci Student"
+            "d)al Tci Student"
         ],
         "correctAnswer": ": calle variabili per riga ecai fattori generale e specifici percolonna. "
     },
@@ -305,7 +305,7 @@ const questions = [
             "a)calle variabili per riga ecai fattori generale e specifici percolonna. ",
             "b)calle variabili percolonna ecai fattori generale e specifici per riga. ",
             "c)calla matricecellecorrelazioni. ",
-            "c)calla matricecegli errori. "
+            "d)calla matricecegli errori. "
         ],
         "correctAnswer": ": Fattore generale "
     },
@@ -315,7 +315,7 @@ const questions = [
             "a)costrutto psicologico ",
             "b) Variabilecipendente ",
             "c) Variabile indipendente ",
-            "c) Variabilecategorica "
+            "d) Variabilecategorica "
         ],
         "correctAnswer": ":costrutto psicologico "
     },
@@ -325,7 +325,7 @@ const questions = [
             "a)cella varianza ",
             "b)cellacorrelazione ",
             "c)cell’attendibilità ",
-            "c)cellaceviazione standard "
+            "d)cellaceviazione standard "
         ],
         "correctAnswer": ":cell’attendibilità  "
     },
@@ -335,7 +335,7 @@ const questions = [
             "a) Misura lacorrelazione tra singoli predittori ecriterio ",
             "b) Misura la proporzioneci varianza spiegatacal modello ",
             "c) Misura la varianza residuacel modello ",
-            "c) Misura lacevianzacel modello "
+            "d) Misura lacevianzacel modello "
         ],
         "correctAnswer": ":correlazione tra singoli predittori ecriterio  "
     },
@@ -395,7 +395,7 @@ const questions = [
             "a) Vengono utilizzati per eliminare gli itemcel test ",
             "b) Indicano unabassaattendibilitàcel test ",
             "c) Vengono ignorati nell'analisi ",
-            "c) Indicano unacorrelazione perfetta tra gli item "
+            "d) Indicano unacorrelazione perfetta tra gli item "
         ],
         "correctAnswer": ": si utilizzano per eliminare gli itemcel test  "
     },
@@ -405,7 +405,7 @@ const questions = [
             "a)con un minor numeroci item ed un’attendibilità più elevata ",
             "b)con un maggior numeroci item ed un’attendibilità più elevata ",
             "c)con un minor numeroci item ed un’attendibilità piùbassa ",
-            "c)con un maggior numeroci item ed un’attendibilità piùbassa"
+            "d)con un maggior numeroci item ed un’attendibilità piùbassa"
         ],
         "correctAnswer": ":con un minor numeroci item ed un’attendibilità più elevata  "
     },
@@ -425,7 +425,7 @@ const questions = [
             "a) Sicalcolacon ilcoefficienteci Spearman ",
             "b) Sicalcolacon ilcoefficienteci Pearson ",
             "c) Sicalcolacon ilcoefficienteci Kendall ",
-            "c) Sicalcolacon phi tetracorico "
+            "d) Sicalcolacon phi tetracorico "
         ],
         "correctAnswer": ": sicalcolacon phi tetracorico  "
     },
@@ -445,7 +445,7 @@ const questions = [
             "a) 100 soggetti. ",
             "b) 200 soggetti. ",
             "c) 500 soggetti. ",
-            "c) 1000 soggetti. "
+            "d) 1000 soggetti. "
         ],
         "correctAnswer": ": 500 soggetti. "
     },
@@ -455,7 +455,7 @@ const questions = [
             "a) La forma fisicacei partecipanticurante il test. ",
             "b) Il modo incui la somministrazionecel test stimola lacollaborazionecei soggetti. ",
             "c) La strutturacel test. ",
-            "c) Lacuratacel test."
+            "d) Lacuratacel test."
         ],
         "correctAnswer": ": il modo incui la somministrazionecel test stimola la  "
     },
@@ -465,7 +465,7 @@ const questions = [
             "a) È irrilevanteai finicella validitàcel test. ",
             "b) Riguarda il modo incui la somministrazionecel test stimola lacollaborazione tra soggetti. ",
             "c) Riguarda lacoerenza internacelle forme. ",
-            "c) Riguarda il modo incui le forme sono equivalenti in terminicicifficoltà econtenuto. "
+            "d) Riguarda il modo incui le forme sono equivalenti in terminicicifficoltà econtenuto. "
         ],
         "correctAnswer": ": Il modo incui la  "
     },
@@ -475,7 +475,7 @@ const questions = [
             "a) 25% ",
             "b) 41,8% ",
             "c) 50% ",
-            "c) 75% "
+            "d) 75% "
         ],
         "correctAnswer": ": 41,8 °/o  "
     },
@@ -485,7 +485,7 @@ const questions = [
             "a) 5 item ",
             "b) 7 item ",
             "c) 9 item ",
-            "c) 12 item "
+            "d) 12 item "
         ],
         "correctAnswer": ": 9 item  "
     },
@@ -495,7 +495,7 @@ const questions = [
             "a) Solo lecimensioni Svalutazione, Logorio,cisagio ",
             "b) Solo lacimensione Svalutazione ",
             "c) Solo lacimensione Logorio ",
-            "c) Nessunacellecimensioni "
+            "d) Nessunacellecimensioni "
         ],
         "correctAnswer": ": solo lecimensioni  Svalutazione, Logorio,cisagio "
     },
@@ -505,7 +505,7 @@ const questions = [
             "a) Pocoattendibile ",
             "b) Moderatamenteattendibile ",
             "c) Moltoattendibile ",
-            "c) Nonattendibile "
+            "d) Nonattendibile "
         ],
         "correctAnswer": ": moltoattendibile "
     },
@@ -515,7 +515,7 @@ const questions = [
             "a)con ilcoefficienteci Spearman-Brown ",
             "b)con l'indiceci Kuder-Richardson ",
             "c)con l’alfacicronbach ",
-            "c)con ilcoefficienteci Pearson"
+            "d)con ilcoefficienteci Pearson"
         ],
         "correctAnswer": ":con l’alfacicronbach; "
     },
@@ -525,7 +525,7 @@ const questions = [
             "a) Inferioria 0.50 ",
             "b)compresi tra 0.50 e 0.70 ",
             "c)compresi tra 0.70 e 0.90 ",
-            "c) Superioria 0.90 "
+            "d) Superioria 0.90 "
         ],
         "correctAnswer": ": superioria 0.90 "
     },
@@ -535,7 +535,7 @@ const questions = [
             "a) 50 e 10 in tutte lecimensioni ",
             "b) 100 e 15 in tutte lecimensioni ",
             "c) 75 e 5 in tutte lecimensioni ",
-            "c) 60 e 20 in tutte lecimensioni "
+            "d) 60 e 20 in tutte lecimensioni "
         ],
         "correctAnswer": ": "
     },
@@ -545,7 +545,7 @@ const questions = [
             "a) 100 soggetti ",
             "b) 225 soggetti ",
             "c) 350 soggetti ",
-            "c) 500 soggetti "
+            "d) 500 soggetti "
         ],
         "correctAnswer": ": 225 soggetti "
     },
@@ -555,7 +555,7 @@ const questions = [
             "a) ��0 = ��̅(media Y)− ��1��̅(media X); ",
             "b) ��0 = ��̅(media Y) + ��1��̅(media X); ",
             "c) ��0 = ��̅(media X)− ��1��̅(media Y); ",
-            "c) ��0 = ��̅(media X) + ��1��̅(media Y); "
+            "d) ��0 = ��̅(media X) + ��1��̅(media Y); "
         ],
         "correctAnswer": "58) Il modelloci regressione semplice, una voltacalcolata la pendenza (����) e una voltacalcolate le medie celcriterio (Y) ecel predittore (X), qual è la formulacorretta percalcolare l’intercetta (����)cel modello? ��0 = ��̅(media Y)− ��1��̅(media X); "
     },
@@ -1495,12 +1495,12 @@ const questions = [
             "a) Un puntocebolecella WAIS-R ",
             "b) Un puntoci forzacella WAIS-R ",
             "c) Irrelavante per la WAIS-R ",
-            "d) Un erroreci misurazione "
+            "d) Un errore di misurazione "
         ],
         "correctAnswer": ": un puntocebolecella WAIS-R "
     },
     {
-        "title": "153)come sicalcola la significativitàcel QI inassenzaci equazioneci regressione: ",
+        "title": "153)come sicalcola la significativitàcel QI inassenza di equazione di regressione: ",
         "answers": [
             "a) Sicalcolano i QIV e QIP e si sommano ",
             "b) Si usa l'analisicei ranghi percentili ",
@@ -1530,7 +1530,7 @@ const questions = [
         "correctAnswer": ":cifferenza tra QIV E QIP. "
     },
     {
-        "title": "156) Per il testcella norma statistica se ilcampione ha piccolecimensioni e la varianzacella popolazione è ignotaallora si ricorre: ",
+        "title": "156) Per il testcella norma statistica se ilcampione ha piccole dimensioni e la varianza della popolazione è ignota allora si ricorre: ",
         "answers": [
             "a)al tci Student ",
             "b)allacevianza standard ",
@@ -1544,7 +1544,7 @@ const questions = [
         "answers": [
             "a) Vengono entrambi eliminatical test ",
             "b) Viene scartato quellocon minorecorrelazionecel test intero/campione ",
-            "c) Vengono entrambiconsideratiaffidabili ",
+            "c) Vengono entrambi considerati affidabili ",
             "d) Viene sceltocasualmente quale scartare "
         ],
         "correctAnswer": ""
@@ -1557,15 +1557,15 @@ const questions = [
             "c) 4 s^2 ",
             "d) s^2/2 "
         ],
-        "correctAnswer": ": viene scartato quellocon minorecorrelazionecel test  intero/campione.  "
+        "correctAnswer": ": viene scartato quellocon minore correlazione del test intero/campione.  "
     },
     {
         "title": "159) Varianzacomune Orsini e Laicardi? ",
         "answers": [
-            "a) Percentualeci varianzache è incomuneaciverse variabili ",
+            "a) Percentualeci varianzache è in comune a diverse variabili ",
             "b) Percentualeci varianza unicaa una singola variabile ",
             "c) Indiceciattendibilitàcel test ",
-            "d) Varianza totalecelcampione "
+            "d) Varianza totale del campione "
         ],
         "correctAnswer": ": 4 s^2 "
     },
