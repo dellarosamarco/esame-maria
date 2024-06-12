@@ -1279,10 +1279,13 @@ a) Due sezioni ed è composto da 50 item
 b) Tre sezioni ed è composto da 70 item 
 c) Una sezione ed è composto da 30 item 
 d) Quattro sezioni ed è composto da 100 item 
-276) Per i modelli transazionali dello stress, lo stress è considerato come: a) Una risposta specifica agli stimoli esterni 
+276) Per i modelli transazionali dello stress, lo stress è considerato come: 
+a) Una risposta specifica agli stimoli esterni 
 b) Uno stato psicologico positivo 
-c) Uno stato psicologico negativo che comprende aspetti cognitivi ed emotivi d) Una reazione solo fisica agli stimoli esterni 
-277) Nei lavoratori bancari il tasso di mentalizzazione dei processi deve essere: a) Basso 
+c) Uno stato psicologico negativo che comprende aspetti cognitivi ed emotivi 
+d) Una reazione solo fisica agli stimoli esterni 
+277) Nei lavoratori bancari il tasso di mentalizzazione dei processi deve essere: 
+a) Basso 
 b) Medio 
 c) Alto 
 d) Dipende dall'età 
@@ -1291,7 +1294,11 @@ a) Equilibrio
 b) Bilancio 
 c) Imbalance 
 d) Controllo 
-279) Il modello Demand-Control di Karasek concepisce lo stress come: a) Causato da un’alta domanda lavorativa e un alto controllo del lavoro b) Causato da un’alta domanda lavorativa e un basso controllo del lavoro c) Causato da un basso controllo del lavoro indipendentemente dalla domanda lavorativa d) Causato da un basso controllo del lavoro e una bassa soddisfazione lavorativa 
+279) Il modello Demand-Control di Karasek concepisce lo stress come: 
+a) Causato da un’alta domanda lavorativa e un alto controllo del lavoro 
+b) Causato da un’alta domanda lavorativa e un basso controllo del lavoro 
+c) Causato da un basso controllo del lavoro indipendentemente dalla domanda lavorativa 
+d) Causato da un basso controllo del lavoro e una bassa soddisfazione lavorativa 
 280) Nel modello della sindrome generale di adattamento di Selye la risposta dell’organismo deve essere: 
 a) Specifica e limitata 
 b) Aspecifica e qualsiasi 
