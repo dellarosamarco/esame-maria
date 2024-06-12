@@ -3778,7 +3778,7 @@ for(let n=0;n<questions.length;n++) {
 
 console.log(questions)
 
-let currentAnswerIndex = 189;
+let currentAnswerIndex = 0;
 
 window.onload = () => {
     setQuestion()
