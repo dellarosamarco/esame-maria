@@ -46,6 +46,10 @@ body {
     }
 }
 
+input {
+    cursor: pointer;
+}
+
 
 .buttons-container {
     margin-top: 20px;
