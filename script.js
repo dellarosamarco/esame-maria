@@ -1881,8 +1881,6 @@ const genQuestions = () => {
 
 window.onload = () => {
     genQuestions()
-    const questionsContainer = document.getElementById('questions-container');
-
     const rdQuestion = questions[(Math.floor(Math.random() * questions.length))];
 
     document.getElementById('question-title').innerHTML = rdQuestion.title;
@@ -1892,10 +1890,380 @@ window.onload = () => {
         txt += `
             <div style="display:flex;">
                 <p>`+rdQuestion.answers[n]+`</p>
-                <input type="radio">
+                <input type="radio" name=x>
             </div>
         `
     }
 
     document.getElementById('questions-container').innerHTML = txt;
 }
+
+const onConfirm = () => {
+
+    const currentAnswerNumber = document.getElementById('question-title').innerHTML.substring(0, document.getElementById('question-title').innerHTML.indexOf(')'));
+
+    for(let n=0;n<answers.length;n++) {
+        console.log(answers[n])
+        if(answers[n].includes(currentAnswerNumber)) {
+            window.alert(answers[n])
+        }
+    }
+    console.log(currentAnswerNumber)
+}
+
+
+const answers = `
+1) PROCEDURA SPLIT-HALF: Divido a metà il test 
+2) L’ attendibilità nella WAIS-R è data da: metodo split-half tranne memoria di cifre e  
+ragionamento aritmetico calcolate con test-retest  
+3) Esempio di procedura split-half: divisione a metà del test che consente un’analisi fattoriale  
+4) Quali fattori misurano la correlazione tra 2 test: Spearman brown, pearson, phi tetracorico e  punto biseriale  
+5) FORMULA CON CUI STABILIRE UN NUMERO MINIMO DI ITEM PER AVERE UN TEST VALIDO È  UNA VARIANTE: Della formula di spearman brown 
+6) Quale test si usa per la significatività del coefficiente bravais-person? T di Student  
+7) Formula t di student con r pearson: 
+1. Per verificare la significatività del coefficiente di correlazione di Bravais-Person, si ricorre: al T di  
+Student; 
+8) COS’E’ L’IMPULSIONE? UN RESPONSE TEST 
+9) COME SI RIDUCE UN RESPONSE TEST? Rendere il test di facile esecuzione 
+10) Nell’analisi di regressione semplice la proporzione di varianza spiegata dal modello è data  dalla correlazione: al quadrato tra predittori moltiplicata per cento . 
+11) Nell’analisi di regressione semplice la proporzione di varianza spiegata dal modello è data: dalla correlazione al quadrato dei predittori moltiplicata per cento = ��2��100 
+12) Sottodimensioni della scala della stabilità emotiva del Big Five A parità di varianza si  scartano item: con indici di fedeltà bassi  
+13) Il Big five Questionnaire è: un reattivo composto da 132 item che misura 5 fattori di  personalità: estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale; 14) Nel big five Questionnaire, la scala dell’energia misura: Il livello di dinamismo del  comportamento. 
+15) Scala Scrupolosità dei BIG FIVE cosa misura? Il Senso dell’Ordine del soggetto  
+(Coscienziosità) 
+16) La scala della stabilità emotiva la ritroviamo: nel big five questionaire  
+17) Nel Big Five Questionnaire, le sotto scale della coscienziosità sono: la scrupolosità e la  perseveranza. 
+18) Le attività del Big Five: Cooperatività tra le persone. 
+19) Manipolazione indipendente: Creare un gruppo di controllo e gruppo sperimentale.  20) Scala Likert: politomica, graduabile 
+21) SCALA THURSTONE: Dicotomica 
+22) La formula di Kunder Richardson serve a calcolare l’attendibilità di un test: con risposte  dicotomiche (KR-20). 
+23) KR-20: attendibiltà per gli item dicotomici 
+24) La dipendenza tra 2 variabili può essere rappresentata tramite: diagramma di dispersione . 25) Diagramma di dispersione è: un diagramma cartesiano che rappresenta la correlazione tra  2 variabili. 
+26) La validità orientata al criterio indica: il grado di corrispondenza tra una misura e il criterio  di riferimento.  
+27) Cos’è il fattore G nell’analisi fattoriale? È un fattore generale che determina il punteggio  del test (componente invariabile intelligenza) 
+28) Fattore Guttman: eigenvalue maggiore di 1  
+29) ICarroll ipotizza: esistenza di un fattore generale G e 2 sottolivelli  
+30) Nel modello a due fattori, in analisi fattoriale, la matrice delle saturazioni è composta:  Dalle variabili per riga e dai fattori generale e specifici per colonna. 
+31) Fattore g: Fattore generale 
+32) Nelle equazioni matricolari cos’è la variabile latente: costrutto psicologico 
+33) L’errore di stima del punteggio vero è dato dal prodotto dell’errore standard di misura con  la radice quadrata: Dell’attendibilità  
+34)  
+1. Indica la formula dell’Errore di Stima del punteggio vero: 
+35) Nell’analisi di regressione multipla R2: correlazione tra singoli predittori e criterio  
+36) Nell’analisi di regressione multipla, i coefficienti beta dei predittori del modello di  
+regressione corrispondono: Al prodotto tra i beta standardizzati per il rapporto tra la  
+deviazione standard del criterio e la deviazione standard del predittore. 
+37) L’errore di stima del punteggio osservato è: dato dalla deviazione standard dei punteggi  osservati del test moltiplicata per la radice quadrata di uno meno il quadrato del coefficiente di  attendibilità del test 
+38)  
+1. Indicando con “r” l’attendibilità del test e “����” la deviazione standard dei punteggi osservati, la  formula dell’errore di stima del punteggio osservato è: ������ ��; 
+39) Cosa significa U nella formula profetica di Spearman-Brown? a/p (item) 
+40) Quale metodo permette di misurare la dimensionalità degli item di un test: A parità di  varianza si eliminano item con indici di fedeltà bassi  
+41)Con indici di fedeltà uguali vengono scartati: item con varianza più elevata  
+42) Indici di fedeltà quasi nulli: si utilizzano per eliminare gli item del test  
+43) Se da un test elimino gli item con indici di fedeltà bassi o con deviazioni standard elevate  posso ottenere un test: con un minor numero di item ed un’attendibilità più elevata  
+44) Aumentando la lunghezza del test di ‘’m’’ volte: la varianza dei punteggi veri aumenta in  progressione geometrica (m alla seconda volte) mentre la varianza dell’errore di misura  
+aumenta in progressione aritmetica (m volte) 
+45) Correlazione scala nominale: si calcola con phi tetracorico  
+46) Date le variabili 1 2 3 la correlazione parziale consente di calcolare: la vera correlazione tra  1 e 2 indipendentemente da 3. 
+47) UN CAMPIONE È MOLTO BUONO CON: 500 soggetti. 
+48) Validità di forma riguarda: il modo in cui la somministrazione del test stimola la  
+collaborazione dei soggetti . 
+49) LA CORRISPONDENZA TRA LE DIVERSE FORME DI DIVERSI TEST: Il modo in cui la  
+somministrazione del test stimola la collaborazione tra soggetti  
+50) Il campione usato per la validazione della forma finale della scala SOS aveva una percentuale di  soggetti maschili pari a: 41,8 °/o  
+51) La scala di Marlowe Crowne usata per il campione nella validazione del questionario SOS era composta  da: 9 item  
+52) Le dimensioni della scala SOS correlano con la scala di Marlowe-Crowne: solo le dimensioni  Svalutazione, Logorio, disagio 
+53) La scala SOS rivela di essere uno strumento: molto attendibile 
+54) In che modo è stata calcolata l’attendibilità della scala SOS: con l’alfa di Cronbach; 
+55) Nell’analisi fattoriale confermativa della scala SOS, GFI, NNFI, CFI sono considerati significativi per  valori: superiori a 0.90 
+56) I punti T delle dimensioni della scala SOS hanno media e deviazione standard pari a, rispettivamente: 
+50 e 10 in tutte le dimensioni 
+57) Il campione usato per la validazione della forma finale della scala SOS: 225 soggetti 
+58) Il modello di regressione semplice, una volta calcolata la pendenza (����) e una volta calcolate le medie  del criterio (Y) e del predittore (X), qual è la formula corretta per calcolare l’intercetta (����) del modello? ��0 = ��̅(media Y)− ��1��̅(media X); 
+59) La trasformazione di Fisher genera una funzione: caratterizzata da una distribuzione più uniforme che  asimmetrica 
+60) Indicando con r la correlazione, la trasformazione di Fisher z’ di “r” è data dall’equazione: ��′ = 1 ln 1+��2  1−�� 
+61)La trasformazione di Fisher consente: di trasformare i coefficienti correlazionali in punti z1 che hanno  una varianza più omogenea. 
+62) Nella regressione multipla abbiamo: un criterio e più predittori;  
+63a) Nel modello di regressione multipla, per stabilire la significatività dei singoli predittori si deve  eseguire: t test per i coefficienti beta del modello 
+63b) Nel modello di regressione multipla, per stabilire la significatività modello completo si deve eseguire:  un F test per la varianza spiegata dal modello 
+64) Nel calcolo di regressione multipla esistono: numerosi coefficienti B da calcolare  65) Nel modello di regressione multipla a 5 predittori con un campione di 20 soggetti i gradi di libertà  sono: 14  
+66) r2 nella regressione multipla corrisponde: al coefficiente di determinazione che a volte coincide con la  pendenza della retta  
+67) Cos’è la saturazione della variabile? Un indice che esprime la correlazione tra la variabile e il fattore  latente. 
+68) La formula ���� ������������, in cui S�� è la deviazione standard dei punteggi osservati, costituisce:  la deviazione standard dell’errore di misura;  
+69) In analisi fattoriale come si ottiene la percentuale di varianza spiegata dal fattore? dal rapporto tra  eigenvalue del fattore e dal numero di fattori estratti moltiplicato per 100  
+70) La formula del punteggio ottenuto: PUNTEGGIO REALE + ERRORE DI MISURA  
+71) Qual è l’item che ha il valore medio più basso nella parte 3 del questionario SOS?: L’item 70; 
+72) Nella versione definitiva del questionario SOS, quanti sono gli item della parte 3 del questionario? 9 
+73) Il rango è una misura su scala: ordinale  
+74) LA DISORGANIZZAZIONE TEMPORALE DEL QUESTIONARIO SOS FORNISCE INFO INERENTI A: Gestione  del tempo lavorativo ed extra-lavorativo  
+75) L’attendibilità della scala di disorganizzazione temporale, nella forma definitiva del questionario SOS,  corrisponde ad valore pari a? 0.78 
+76) La scala Disorganizzazione temporale, nella forma definitiva del questionario SOS, da quanti item è  composta? 9 
+77) L’A.F. CONFERMATIVA: Stabilisce quanto efficacemente i fattori riproducono la matrice delle  correlazioni. 
+78) NELL’A.F LE VARIABILI COMPLESSE SONO: Variabili che misurano più fattori contemporaneamente 
+79) NELL’A.F. SI DEVE EVITARE L’USO DI: Variabili empiricamente non indipendenti 80) COSA MISURA IL COEFFICIENTE R PUNTO B SERIALE? Risposte su una quantitativa, una dicotomica 81) In analisi fattoriale cos’è una rotazione ortogonale?: una tecnica di rotazione degli assi fattoriali  applicabile quando i fattori sono tra loro indipendenti; 
+82) Nell’analisi fattoriale per varimax si intende una tecnica di : rotazione ortogonale degli assi fattoriali 
+83) In analisi fattoriale il metodo di quartimax: è una tecnica di rotazione ortogonale che massimizza la  varianza della saturazione al quadrato per riga. 
+84) RICERCA D’ARCHIVIO: Ricerca non sperimentale 
+85) SCALA A INTERVALLO O A RAPPORTO: Coefficiente di Bravais- Pearson 
+86) Nelle scale primarie (principale) del CBA sono inclusi i seguenti test: lo state trait anxiety inventory e il  questionario D. 
+87) Quando lo sforzo psicologico per raggiungere un obiettivo porta a risultati costruttivi, positivi e  appaganti, si parla di: eustress  
+88) La fatica soggettiva è: fatica fisiologica e fatica patologica 
+89) Chi è stato a studiare negli anni ’30, le risposte fisiologiche degli animali di laboratorio? R. Selye  
+90) Nel modello ERI sforzo-ricompensa (Siegrist 2002) quale è la componente indicata come fonte di  sforzo intrinseca in opposizione alle richieste del lavoro che ne raffigurano quella estrinseca? la  motivazione individuale 
+91) LA SCALA DEL DISAGIO SOS FORNISCE INFO RIGUARDO: INADEGUATEZZA PERSONALE CIRCA LO  SVOLGIMENTO DEL PROPRIO LAVORO 
+92) QUANTI ITEM HA LA SCALA DEL DISAGIO? 11 
+93) Quale è la fascia con frequenza più alta riguardo l’anzianità di servizio? 26-30 94) Che problemi può generare l’uso di variabili troppo simili nell’analisi fattoriale: fattori di basso livello  95) La scala a rapporto si differenzia dalla scala a intervallo perchè? Ha uno zero assoluto 96) Come diminuisce la fatica fisiologica? sonno e pause  
+97) La fatica patologica del lavoratore sorge: quando la fatica dura oltre i tentativi fisiologici di recupero  
+98) Secondo un punto di vista fisiologico, alla presenza di fatica corrisponde un oggettivo modificarsi: dei  parametri biochimici e fisiologici. 
+99) La dimensione Disagio lavorativo del questionario SOS correla con le scale cliniche della SCL90R? Si  con tutte e le correlazioni sono positive; 
+344) La dimensione svalutazione del questionario SOS correla con le scale cliniche della SLC-90R? si con  tutte e le correlazioni sono positive 
+100) Dimensione svalutazione questionario SOS corrisponde con la scala dsel sonno nel SCL90? Si  positivamente 
+101) Nelle tabelle delle scale troviamo: totali di scala, ranghi percentili e punti T. 
+102) L’analisi della varianza è stata effettuata su: punti Z  
+103) Campione di soggetti per la validazione del questionario:225  
+104) Che cosa misura la scala Marlowe-Crowne (MC)? la desiderabilità sociale (misurare la tendenza dei  soggetti a mentire per dare un’immagine di sé positiva e socialmente accettabile. 105) La situazione di stress psicosociale se ripetuta e prolungata nel tempo aumenta il logoramento  dell’individuo e produce danni: funzionali e strutturali. 
+106) Coefficiente di attendibilità: Indica la proporzione di varianza dei punteggi veri in relazione alla  varianza dei punteggi osservati  
+107) Il coefficiente di attendibilità di un test corrisponde: Al rapporto tra la varianza dei punteggi veri e la  varianza dei punteggi osservati 
+108)  
+a L’errore standard di misura corrisponde: al prodotto della deviazione standard dei punteggi  osservati per la radice quadrata di uno meno il coefficiente di attendibilità s:  
+; 
+109) Per le scale a rapporto si usa il coefficiente: r Breavis-Pearson 
+110) Cos'è la validità divergente? grado di disaccordo tra due misure riguardo 2 costrutti diversi 111) Quanti item ha un test per essere definito basso? 50  
+112) Un’intervista psicologica va trascritta: in maniera integrale  
+113) NELLA RICERCA SPERIMENTALE SI CERCA: IL RAPPORTO CAUSA EFFETTO TRA VARIABILI 114) Cosa sono i GDL? gradi di libertà di una variabile aleatoria o di una statistica in genere esprimono il  numero minimo di dati sufficienti a valutare la quantità d'informazione contenuta nella statistica. 
+115) Nell’analisi fattoriale in dati di partenza sono costituiti: dalla matrice di correlazione o covarianza tra  le variabili 
+116) L’indice di efficienza E indica l’efficacia della stima: del punteggio vero sulla base del coefficiente di  alienazione K. 
+117) Nel modello di equazioni strutturali LISREL di Jokeskog e Sorbom, la matrice dei residui è:  la differenza tra la covarianza osservata nei dati e la covarianza attesa. 
+118) Nel modello di equazioni strutturali LISREL di Joreskog e Sorbom, i valori t calcolati per ciascun  parametro libero servono per stabilire: Se il parametro è significativamente diverso da 0. 119) Equazioni strutturali LISREL di Joreskog, il Goodness of Fit Index è: un valore che indica la bontà di  adattamento dell’intero modello. 
+120) I calcoli matematici per eseguire un’analisi fattoriale confermativa si basano su modelli: equazioni  strutturali 
+121) Un modello completo di equazioni strutturali include: Sia variabili latenti che osservate. 
+122) L’approccio ingegneristico o tecnico definisce lo stress come uno stato di: sollecitazione contraria e  nociva derivante dall’ambiente. 
+123) La scala disagio lavorativo nella forma definitiva del questionario SOS da quanti item è composta?  11; 
+124) Uno degli assunti base del modello psicometrico è che la correlazione tra: la distribuzione di errori  casuali e quella dei punteggi veri sia nulla. 
+125) Un modo semplice di manipolare la variabile indipendente: creare un gruppo di controllo e uno  sperimentale. 
+126) Quale funzione regola la trasformazione da una scala all’altra? biunivoca  
+127) Due scale di misura ad intervallo sono equivalenti: se esiste una funzione biunivoca che le lega 
+128) Le trasformazioni permissibili nella scala nominale sono: quelle che lasciano intatte le proprietà della  scala originaria quindi il numero di categorie King e king: short form viene utilizzata solo per fini di ricerca . 129) I ranghi su che scala possiamo trovarli? ordinale  
+130) Se non hai i ranghi percentili come fai a trovarli: basta moltiplicare per 100 il nostro dato, trasformi i  punteggi dei soggetti o del QI. 
+131) Cos'è un test soggettivo? Esecuzione di prove e completamento di frasi  
+132) Un’ INTERVISTA STRUTTURALE PREVEDE: CONTENUTO E SEQUENZA DELLE DOMANDE. 
+133) Definizione di saturazione: correlazione di ciascuna variabile con il fattore 
+134) Quale analisi fattoriale se si conoscono in partenza i fattori e il numero: (AFC) analisi fattoriale  confermativa 
+135) L’obiettivo principale dell’analisi fattoriale confermativa (AFC) è quello di: stabilire quanto  efficacemente i fattori latenti riproducano la matrice delle correlazioni tra le variabili osservate 136) La Root Mean Squared Residuals è: la media dei residui al quadrato dell’analisi fattoriale  confermativa. 
+137) Se lo psicologo sa precisamente quanti e quali sono i fattori latenti, cosa gli conviene fare? Un’analisi  fattoriale confermativa. 
+138) Si usano rotazioni ortogonali: per fattori indipendenti  
+139) Nell’analisi fattoriale cosa si intende per saturazione doppia? quando più variabili saturano più  fattori 
+140) QI di rapporto: è il risultato dell’età mentale (EM) diviso l’età cronologica (EC); 
+141) L’ analisi del profilo è: ipsativo  
+142) Il fattore PPCO di Bannaytine si basa su: comprensione, vocabolario, analogie. 
+143) Cos’è il concretismo? scarsa capacità di generalizzazione e astrazione. 
+144) Indica le capacità psichiche tipiche negli individui, differenziale semantico, su che scala: bipolare. 
+145) Cos'è l’Alpha di Cronbach? Indicatore statistico per misurare l’attendibilità su scala a  intervalli/rapporti, in genere valori alti di attendibilità sono da considerarsi quelli che vanno da 0.70 in su. 146) Quale delle seguenti opzioni non è una procedura per la stima dell’attendibilità del test? Alfa di  Cronbach
+147) Riordinamento di storie figurate dove si trova? Scala di performance della WAIS. 
+148) Dove troviamo il test "casa degli animali"? WPPSI (3-9 anni) 
+149) Cos'è l'analisi fattoriale? analisi dei dati  
+150) Il coefficiente R cosa rappresenta in caso di analisi multifattoriale? correlazione tra criterio e tutti i  predittori 
+151) La scala ad intervallo permette di: Quantificare le distanze tra gli elementi 
+152) Non poter misurare QI maggiori di 160 e inferiori a 40 è: un punto debole della WAIS-R 
+153) Come si calcola la significatività del QI in assenza di equazione di regressione: si calcolano i QIV e QIP  e si sommano. 
+154) Se ritroviamo che i punteggi ponderati vocabolario, costruzione di oggetti, associazioni di simboli a  numeri, i valori si spostano significativamente dalla media e i suoi punti di significatività sono superati  rispettivamente da 28%, 12%, 29%, si può affermare che: solo lo scatter relativo a ricostruzione di oggetti  risulta non particolarmente frequente nella popolazione normale. 
+155) Il calcolo dello scatter si basa su: differenza tra QIV E QIP. 
+156) Per il test della norma statistica se il campione ha piccole dimensioni e la varianza della popolazione  è ignota allora si ricorre: al t di student  
+158) Se due item di un test hanno uguale varianza: viene scartato quello con minore correlazione del test  intero/campione.  
+159) Indicando con s^2x la varianza dei punteggi veri, se raddoppio la lunghezza del test tale varianza  diventa: 4 s^2 
+160) Varianza comune Orsini e Laicardi? % di varianza che è in comune a diverse variabili. 
+161) Orsini e Laicardi utilizzano un metodo di analisi fattoriale: a 3 fattori  
+162) Orsini e Laicardi nella taratura sugli anziani riportano nel subtest di costruzione di oggetti che  presenta specificità adeguata in tutti i gruppi d’ età laddove: i subtest dell’ordinamento di storie figurate  ha specificità inadeguata solo nel gruppo 80-84.  
+163) La taratura italiana di Orsini e Laicardi è stata fatta su un campione del: centro sud. 
+164) La formula con cui stabilire il numero minimo di item necessari per avere un test valido è una  variante: della formula di Spearman-Brown 
+165) Formula del punteggio osservato? X=V+E 
+166) L’ERRORE STANDARD è: L’ ERRORE CASUALE  
+167) La diminuzione dell’errore: è dovuta solo all’ errore casuale  
+168) Se abbiamo le misure di un test di abilità verbale, di un test di abilità numerica e di un test che è la  somma dei primi due, che rischio di errore si corre se si vuole fare l’analisi fattoriale sui tre test? Si rischia  di avere variabili che non sono indipendenti tra loro. 
+169) La deviazione standard indica: quanto un soggetto si scosta dalla media. 
+170) Media e deviazione standard nei punteggi standardizzati: u=0; ò=1 
+171) In analisi fattoriale cos’è una rotazione obliqua: una tecnica di rotazione degli assi fattoriali  applicabile quando i fattori sono tra loro correlati. 
+172) Cosa si intende per "comunalità" nell'analisi fattoriale: è la somma delle saturazioni fattoriali di uno  specifico test  
+173) Nella tecnica R dell’analisi fattoriale la matrice dati è composta: dalle variabili per riga e dai fattori  per colonna 
+174) In analisi fattoriale il teorema fondamentale di Thurstone stabilisce che: la matrice delle correlazioni  tra variabili è data dal prodotto tra la matrice delle saturazioni fattoriali e la sua trasposta. 175) Quali sono le Scale di Atteggiamento? Likert, Thurstone e Guttman (scalogramma). 176) Nell’analisi fattoriale, la matrice R è: una matrice quadrata simmetrica con i valori della diagonale  principale pari a 0. 
+177) Nell’analisi fattoriale con fattori ortogonali si presuppone che? Le dimensioni fattoriali siano  reciprocamente indipendenti. 
+178) In analisi fattoriale nel metodo delle componenti principali la procedura di iterazione delle 
+comunanze: X^2 = nr^2ᶲ  
+179) Fattori latenti riguardano: i fattori psichici che guidano il comportamento processi che non possono  essere direttamente osservati. 
+180) Nell’analisi fattoriale lo Scree-plot e la procedura di Kaiser -Guttman possono indicare un numero  diverso di fattori da estrarre? solo quando il numero di fattori equivale a quello delle variabili 181) Cos’è lo Scree-plot e quali sono i valori che prendiamo: è un grafico, fattori in ascissa e eigenvalue in  ordinata. 
+182) I fattori di Horn sono: intelligenza fluida, cristallizzata, velocita e recupero 
+183) Il Subtest associazione di simboli a numeri presenta? Elevata saturazione sul fattore velocità del  modello di Horn 
+184) Horn e Cattell cosa intendono per PPRI: informazione, memoria di cifre, ragionamento aritmetico  
+185) Analisi fattoriale sugli adulti è stata calcolata con: metodo dei Fattori Principali a Rotazione di  varimax (ortogonale) 
+186)fattori non intellettivi dell’intelligenza generale sono: fattori indipendenti da qualunque abilità  cognitiva  
+187)Per quanto riguarda i valori di asimmetria delle risposte al questionario, si può dire che la  distribuzione delle risposte è: simmetrica per tutti i fattori  
+188)Perché le tetradi si annullano? perché esprimono la differenza tra le composizioni delle saturazioni  fattoriali 
+189)Nella ricerca Q dell’analisi fattoriale l’obiettivo è: raggruppare i soggetti in pochi fattori  
+190)Il test di Kaiser-Meyer-Olkin (KMO) indica che il campione usato per la costruzione del questionario  SOS è: adeguato per l’analisi fattoriale  
+191)Beta con zero a cosa equivale nei punteggi standardizzati: Sempre a 0 perché B0= u1-B1u2, poiché  u1=u2=0 B0= 0-B1 0 = 0  
+192)Il metodo che consente di calcolare Bo e B1: metodo minimi quadrati  
+193)Con i punteggi standardizzati il coefficiente Bo: è sempre uguale a 0 e il numero dei coefficienti da  calcolare è uguale al numero di predittori  
+194)Un campione è considerato molto buono per l’analisi fattoriale…: 500 soggetti  195)Nell’analisi fattoriale si deve evitare l’uso: di variabili empiricamente non indipendenti 
+196)Nell’analisi fattoriale le variabili complesse sono: variabili che misurano più fattori  contemporaneamente  
+197)Quale di queste NON calcola la stima dell'attendibilità:, formula profetica Spearman-brown  
+198)Cosa indica un coefficiente di correlazione pari a 0?• NON VI è CORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla)  
+•nulla tra le variabili considerate  
+199)Quando si usa il coefficiente di correlazione "rphi": QUANDO ENTRAMBE LE VARIABILI SONO SU  SCALA NOMINALE  
+200)Il coefficiente di correlazione r di Spearman si calcola con punteggi su scala: ordinale 201)La formula �� − �������� costituisce: il coefficiente di correlazione K  
+202)R^2? Coefficiente di Determinazione R^2=r^2 
+203)La correlazione lineare positiva: all’ aumentare dei valori x aumentano i valori y 204)La correlazione lineare negativa: all’aumentare di x si osserva una diminuzione di y  205)Beta con 1 a cosa equivale: Coefficiente angolare (pendenza)
+206)Il punteggio x è da ritenersi nella media se: è uguale a 100  
+207)y=ax corrisponde a: funzione declinata con β=0, poiché varia l’inclinazione della retta. 208)correlazione di Pearson (������������) è (n=num di soggetti 209)Quale scala ha il livello più completo di operazioni possibili? SCALA A RAPPORTI  210)Cosa servono le scale L, F, K, nell’MMPI: ITEM VALIDAZIONE  
+211)Quale di queste non è una scala di atteggiamento: WPPSI  
+212)Il quoziente intellettivo totale aumenta di circa 3 punti ogni 10 anni: Effetto Flynn 
+213)La validità di costrutto dipende: •dalla definizione operativa delle proprietà del costrutto misurato  tramite il reattivo  
+• dalla definizione operazionale del costrutto 
+214)Cos'è la validità di contenuto? si riferisce alla popolazione a partire dalla quale sono stati selezionati  gli item del reattivo. Un reattivo ha validità di contenuto se il campione finale di item è stato estratto  dell’intera popolazione di item che possono essere validi indicatori del costrutto psicologico indagato.  
+215)Cos'è la validità PREDITTIVA? I punteggi del reattivo sono stati ottenuti in un secondo momento  precedente rispetto ai valori del criterio  
+216)Si chiama validità concorrente se: i valori del criterio e i punteggi del reattivo sono stati ottenuti nello  stesso momento o periodo di tempo 
+217)r-pearson si usa su scala: a intervalli o rapporti, entrambe su scala quantitativa 218)Nella scala nominale: i soggetti sono ripartiti in categorie in base a determinate caratteristiche  219)La scala dell’amicalità: misura il grado di socievolezza ed empatia  
+220)La scala D misura: la depressione  
+221)La scala a intervallo permette: di quantificare la distanza tra gli elementi  
+222)I subtest ordinamento di storie figurate…: scala performance 
+223)Un item con risposta di tipo Likert è un item con risposta? Chiusa e politomica 
+224)Nell’ MMPI la scala Back F serve per: misurare il mantenimento dell’attenzione durante la  compilazione del test  
+225)Quando si usa l'r-pears: entrambe scale quantitative 
+226)Con le scale whechsler: i QI hanno lo stesso significato di base a prescindere dall’ età 
+227)Per variabile indipendente si intende: quell’oggetto o evento manipolato dallo sperimentatore per  suscitare una reazione nelle persone  
+228)Il disegno correlazionale si applica? Quando risulta impossibile stabilire quale variabile assume il ruolo  di variabile indipendente e quale quello di variabile dipendente. Unico compito del ricercatore è stabilire se  esiste una qualche forma di relazione tra le variabili di interesse 
+229)La psicologia sperimentale ha lo scopo di: determinare la relazione causa-effetto tra la variabile  indipendente e variabile dipendente  
+230)Indicare quale può essere un inconveniente della procedura Test-Retest: I soggetti apprendono le  risposte aumentando l’attendibilità  
+231)Il test disegno con i cubi appartiene: QIP (prove di performance)  
+232)Item Likert: L F K  
+233)I punteggi della WAIS subiscono decremento: con l’aumentare dell’età 
+234)L’intervista qualitativa è: meno direttiva della quantitativa, meno standardizzata 
+235)Il colloquio permette di: raccogliere dati relativi al contenuto e dati relativi al personale  
+236)Il termine Mastering indica: una situazione di padronanza, di controllo e potere dell’individua sulla  situazione 
+237)Quali caratteristiche prende in considerazione il modello JD-R di Bakker e Demerouti? Le dimensioni  positive e negative che caratterizzano il benessere e il disagio lavorativo 
+238)Cos’e l’impulsione? Una forma di Response set  
+239)Il ricercatore deve: mostrare il materiale solo al momento della prova  
+240)Il campionamento stratificato prevede che gli individui siano estratti dalla popolazione? In modo da  presentare in misura equivalente determinate caratteristiche, che si suppone possano influenzare il  punteggio del singolo al reattivo  
+241)Che tipo di test è il TAT? TEST PROIETTIVI DI NARRATIVA O CONTENUTO  
+242)Che tipo di test sono le matrici progressive: QI intelligenza fluida  
+243)Cos'è un test minima performance? Indica le capacità psichiche tipiche del soggetto  244)QI verbale comprende il seguente test: ragionamento aritmetico  
+245)Cos’è un test di massima performance? Test di intelligenza, attitudinali e di rendimento  246)Il test – retest cos’è? somministrare in 2 sessioni diverse lo stesso test  
+247)I test proiettivi: presentare stimoli ambigui ed evocare risposte inconsce  
+248)Cosa si intende per norma di un test psicologico: costruzione dei parametri di applicazione  249)Test di Rorshach: test proiettivo  
+250)Il test oggettivo è: un test in cui prevedono risposte a scelta multipla  
+251)Il test di intelligenza è: un test cognitivo  
+252)I punteggi grezzi della WAIS vanno da 0 a un massimo di: diverso da subtest a subtest  
+253)Il subtest di comprensione appartiene: QIV (verbale) 
+254)Cos'è il KR20? La formula di Kuder-Richardsonè viene applicata ai test con item omogenei, è adatta a  valutare la coerenza interna di test formati da item dicotomici (misura attendibilità) 
+255)Qual è la caratteristica delle interviste strutturate? il contenuto e la struttura delle domande sono  decise dall'inizio 
+256)Indicano con “r att” la correlazione del test di arrivo, con “r part” la correlazione del test di partenza  e con “u” il numero di parti in cui è stato diviso il test, la formula corretta dell’equazione di Spearman Brown è: ������������ �������� = 1+(��−1) ���������� 
+257)Un test di tipica performance misura: ciò che è tipico nei soggetti  
+258)Un test ha validità esterna se: può essere applicato in diversi contesti spaziali e temporali  
+259)Il test di velocità prevede: un intervallo di tempo prestabilito ed uguale per tutti i soggetti 
+260)Differenza dei punteggi dell'intelligenza calcolati da Binet e dalla WAIS: QI rapporto mente, l’altro QI  deviazione  
+261)Il grado di intelligenza di una persona è una variabile discreta o continua? Continua 
+262)Come si definisce il gruppo di controllo: situazione neutra  
+263)Il punteggio spaziale PPSP è dato da: completamento di figure, disegno con i cubi e ricostruzione di  oggetti  
+264)Un difetto della WM: problem solving si attribuisce a: danno neurologico  
+265)QIV misura: intelligenza cristallizzata 
+266)I cubi nella WAIS misurano: intelligenza generale o fluida  
+267)Nel calcolo del QI: (trasformazioni di punteggi grezzi in ponderati) 
+268)La dimensione Disagio del questionario SOS correla con le scale cliniche della SCL-90R? Si con tutte e  le correlazioni sono positive  
+269)Il modello più utilizzato, tra i modelli interazionali dello stress (SOS), è quello di: Karasek (modello  domanda controllo)  
+270)Quale metodo è stato utilizzato per la costruzione del questionario SOS? Il metodo empirico 
+271)Alla fine della somministrazione del questionario SOS cosa si chiede al soggetto? Se gli è sembrato  interessante  
+272)La scala di svalutazione del questionario SOS fornisce informazioni riguardanti:  l’organizzazione del lavoro all’interno dell’azienda  
+273)La Scala di Disagio del questionario SOS fornisce informazioni riguardo: l’inadeguatezza personale  circa lo svolgimento del proprio lavoro  
+274)…temporale del questionario SOS fornisce informazioni inerenti alla: gestione del tempo lavorativo ed  extra-lavorativo  
+275)Il questionario Stress Organizzativo e Salute (SOS), nella forma finale, p suddiviso in: tre sezioni ed è  composto da 70 item  
+276)Per i modelli transazionali dello stress, lo stress è considerato come: Uno stato psicologico negativo  che comprende sia aspetti cognitivi che emotivi  
+277)Nei lavoratori bancari il tasso di mentalizzazione dei processi deve essere: Alto  
+278)L’insorgenza dello stress si verificherebbe quando c’è uno squilibrio tra la domanda percepita e la  percezione delle proprie capacità di reagire ad essa; questa condizione è definita dal termine: imbalance  (non bilancio) 
+279)Il modello Demand-Control di Karasek concepisce lo stress come: causato da un’alta domanda  lavorativa da parte dell’organizzazione e un basso controllo del lavoro da parte del lavoratore 
+280)Nel modello della sindrome generale di adattamento di Selye la risposta dell’organismo deve essere:  Aspecifica e qualsiasi 
+281)Cosa si intende per job resources? Risorse del lavoro  
+282)La psicologia del lavoro ha come fine nella WAIS: la scelta del personale  
+283)Il coping è definito come: Un cambiamento dell’ambiente da parte del soggetto che non si identifica  nel risultato ma negli sforzi attuati per il suo raggiungimento 
+284)Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezione delle  risorse possedute, tanto più alta sarà la motivazione  
+285)Xanthopolou, Bakker, Demerouti e Shaufeli (2007) hanno esaminato il ruolo di tre risorse personali  nel predire l’esaurimento ed il coinvolgimento lavorativo, esse sono: autostima, ottimismo e self-efficacy 
+286)Secondo la teoria della risposta d’organo appresa da Favretto, la malattia psicosomatica è  determinata da: Uno stimolo appreso  
+287)Differenza tra punteggio ipsativo e normativo: Il primo è il punteggio del soggetto, il secondo indica il  rapporto tra il suo punteggio e la popolazione  
+288)La ricerca nei dati d’ archivio è un metodo: disegno di ricerca NON sperimentale  
+289)Un’intervista strutturata prevede: domande prestabilite sia nella forma che nel contenuto fin  dall’inizio  
+290)Response set: la tendenza del soggetto a fornire risposte uguali in maniera meccanica  291)PPAC cosa rappresenta: punti ponderati di attenzione e concentrazione 
+292)Item con target distrattori prevedono: risposte politomiche  
+293)Per la taratura anziani si usano: punteggi ponderati per età 
+294)Tra gli effetti più significativi determinati dall’azione condivisa dei lavoratori e dell’azienda vi sono: un miglioramento dell’immagine aziendale  
+295)L’errore standard indica: la varianza della distribuzione campionaria delle medie 
+296)La trasformata di Fisher consente di trasformare: i coefficienti di correlazioni in punti z’ che hanno  varianza più omogenea 
+297)Il questionario SOS è stato costituito specificatamente per: gli operatori bancari 
+298)Nella tecnica P dell’analisi fattoriale la matrice dei dati è data dai punteggi dello stesso soggetto: misurati in momenti diversi su più variabili 
+299)In analisi fattoriale, l’eingevaule è la somma: delle saturazioni al quadrato dei diversi fattori 300)Le scale di controllo nell’MMPI servono: per valutare la validità delle risposte dei soggetti 301)Il test di velocità prevede : un intervallo di tempo prestabilito ed uguale per tutti i soggetti 302)Funzione corticotropina: inibisce le funzioni vegetative quali l’alimentazione e la riproduzione  303)Il ragionamento aritmetico è un sottoscala: della WAIS 
+304)L’errore di sostituzione è dato dal prodotto dell’errore standard di misura con la radice quadrata: dell’attendibilità 
+305)Lo stress è considerato come uno stato caratterizzato da: alti livelli di eccitazione e ansia spesso  accompagnati da senso di inadeguatezza 
+306)Gli item con target e distrattori prevedono risposte di tipo: politomico 
+307)La formula per con cui stabilire il numero minimo di item necessari per avere un test valido è una  variante? Della formula di Spearman-Brown  
+308)Il teorema di rappresentazione, nell’ambito della teoria di misurazione, stabilisce che: è possibile  associare una struttura empirica, con determinate proprietà, ad una numerica con uguali proprietà 309)Se devo stabilire l’esistenza di una differenza significativa tra le medie di due campioni tramite il test  dei punti z quale tra le seguenti formule devo applicare? 
+: 
+Formula corretta a Cronbach:  
+La corretta relazione tra il coefficiente phi  
+Item che ha ricevuto più risposte nella sezione 3 
+312)Un test di massima performance serve per: Misurare le caratteristiche psicologiche spingendo i  soggetti a dare il meglio di se. 
+313) La dimensione Logorio del questionario SOS correla con le scale cliniche della SCL-90R? Si con tutte e  le correlazioni sono positive. 
+314) Quale metodo è stato utilizzato per la costruzione del questionario SOS? Il metodo empirico 315)La maggior parte dei soggetti ha come titolo di studio: media superiore 
+316)Il test di Rorschach è: un test proiettivo 
+317)Trasformazione permissibile a rapporto: descrivono l’equazione y=ax 
+318)Matrice di saturazione: riporta i valori di ciascuna variabile con i costrutti 
+319)Test-retest: somministrare in 2 sessioni diverse lo stesso test 
+320)R-phi: entrambe le variabili su scala nominale  
+321)Confronto del punteggio con la media del gruppo dei soggetti da un punteggio: normativo 
+322)Teoria della rappresentazione: stabilisce che l’assegnazione dei numeri agli elementi empirici deve  essere tale da preservare la proprietà delle relazioni o delle operazioni 
+323)Quale metodo permette di misurare la dimensionalità degli item di un test: forme parallele 324)I valori dell’Adjusted Goodness Fit Index variano: da 0 ad 1  
+325)Cos’è la matrice dei residui, in analisi fattoriale? La matrice delle differenze tra correlazioni osservate e  correlazioni ricavate dalle saturazioni  
+326)Per stabilire se un soggetto rientra nella norma statistica, occorre fare un test statistico…grandi  dimensioni, allora si può ricorrere: Al test dei punti z  
+327)Le scale di controllo nell’MMPI servono: Per valutare la validità delle risposte dei soggetti  328)Nell’analisi fattoriale esplorativa del questionario SOS, quanti fattori latenti: 3  329)L’impulsione è una forma di: Response set  
+330)Il coping è definito come: Un cambiamento dell’ambiente da parte del soggetto…il suo raggiungimento  
+331)Il modello JD-R di Bakker e Demerouti deriva: Dall’unione del modello Demand-Control di Karasek e dal  modello Effort-Reward Imbalance di Siegrist  
+332)Un modo per ridurre i response set è: Rendere il test di facile esecuzione  
+333)In analisi fattoriale, se si divide l’eigenvalue di un dato fattore per il numero di tutti: La proporzione di  varianza spiegata solo da quel fattore  
+334)Se abbiamo le misure di un test di abilità verbale, di un test di abilità numerica e di un test che è la  somma dei primi due, che rischio di errore si corre se si vuole fare l’analisi fattoriale sui tre test?: Si  rischia di avere variabili che non sono indipendenti tra loro;  
+335)Quale delle seguenti opzioni non è una procedura per la stima dell’attendibilità del test?: la  procedura di Sperman-Brown;  
+336)Il test – retest cos’è?: somministrare in 2 sessioni diverse lo stesso test per confermarne l’attendibilità;  
+337)I test proiettivi: presentare stimoli ambigui ed evocare risposte creative per attivare meccanismi di  difesa ed ottenere risposte più “genuine”;  
+338)Il test di intelligenza è: un test cognitivo;  
+339)Il test oggettivo è: un test in cui prevedono risposte a scelta multipla;  
+340)Test di Rorshach: test proiettivo;  
+341)I cubi nella WAIS misurano: l’intelligenza generale o fluida;  
+342)Alla fine della somministrazione del questionario SOS cosa si chiede al soggetto?: Se gli è sembrato  interessante;  
+343)Nella versione definitiva del questionario SOS, quanti sono gli item della parte 3 del questionario?: 9;  
+345)Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezione delle  risorse possedute, tanto più alta sarà la motivazione;  
+346)Item che ha ricevuto più risposte nella parte 3 del questionario SOS: 64; 
+347)Calcolo di R trasformazione: punteggi grezzi in punti ponderati  
+348)Secondo il modello Effort-Reward Imbalance di Siergrist, cosa causa lo stress lavorativo? Lo squilibrio  tra lo sforzo lavorativo richiesto dall’organizzazione e la ricompensa data al lavoratore. 349)Le tetradi, in analisi fattoriale, si annullano perché corrispondono: alla differenza tra i prodotti delle  stesse saturazioni.  
+350)Nell’intervista psicologica le domande primarie sono: quelle che introducono un nuovo tema durante  l’intervista. 
+351)In base ai dati ottenuti dall’analisi fattoriale esplorativa, il numero di item della Parte 1 del  questionario SOS è stato ridotto a: 50  
+352)Un elevato livello di mindfulness è associato a: alti livelli cognitivi ed emotivi di sensibilità all’errore. 353)In analisi fattoriale, la procedura per l’estrazione di fattori basata sulle saturazioni maggiori di 0,30  stabilisce che il numero di fattori corrisponde a tutti i fattori che hanno: almeno una saturazione >0,30. 354)L’intervista strutturata si caratterizza per: il fatto che i contenuti e la sequenza delle domande sono  prefissati all’inizio. 
+355) Nel modello delle equazioni di LISREL di Joreskog e Sorbom a differenza delle equazioni dell’EQS di  Bentler, sono previsti quanti tipi variabili? 4 variabili. 
+356) Cos’è il metodo del centroide di Thurstone: è un metodo di estrazione dei fattori che si presta ai  calcoli manuali 
+357) è sempre corretto interpretare il primo fattore estratto nell’analisi fattoriale come il fattore  generale? NO 
+358) Indicando con y il valore della nuova scala e con x quello della vecchia scala la trasformazione  possibile tra la scala a rapporto è… y=ax 
+359) i test non-verbali sono test predisposti… per analfabeti 
+360) in analisi fattoriale la comunanza indica… la saturazione al quadrato (???) 
+361) il processo di operazionalizzazione di un costrutto consiste: nell’individuare gli indicatori  comportamentali che sono considerati, sulla base di una teoria psicologica, le sue manifestazioni operative 362)Nei modelli di equazioni strutturali, per parametro libero si intende che il valore del… parametro può  variare 
+363)La validità convergente indica il grado di accordo tra due o piu misure dello stesso costrutto 364) esiste una correlazione significativa tra le dimensioni del questionario SOS? Si, e le correlazioni sono  tutte positive e significative  
+365) se il punteggio di un test che misura la “ruminazione” ha un’elevata correlazione positiva con il  punteggio ad un altro test che misura…. Validità convergente  
+366) la dimensione svalutazione del questionario SOS correla significativamente con la scala del sonno nella SCL-90R? Si, e positivamente  
+367)il differenziale semantico è un item che prevede: scale bipolari 
+368) in cosa consiste la procedura split-half? Un test viene suddiviso a metà per calcolare la correlazione  tra le due parti 
+369) Che cos’è lo Scree-plot di Cattell? Un grafico che in ordinata ha gli eigenvalue e in ascissa il numero di  fattori generali 
+370) uno dei problemi nel calcolo dell’attendibilità test-retest, è stabilire la lunghezza dell’intervallo tra  la prima e la seconda somministrazione de reattivo. Perché? Perché i soggetti possono ricordare le  risposte  
+371) Il punteggio vero è dato da: il PRODOTTO del punteggio osservato e dell’errore 372) il test di Rorschach è: un test proiettivo 
+373) cos’è una comunanza o comunalità, in analisi fattoriale? È la somma delle saturazioni al quadrato per  le diverse variabili
+374) una trasformazione permissibile è: una nuova scala che mantiene inalterate le proprietà della scala  originaria 
+375) la stima del punteggio vero è data dalla somma dei punteggi osservati: e del coefficiente di  attendibilità  
+376) in analisi fattoriale, il metodo di Procuste è una tecnica di rotazione: obliqua che si basa su una  matrice bersaglio 
+377) tra i vari response set, la semantica è un bias (domanda non completa)…. Il soggetto interpreta  l’item 
+378) nell’analisi di regressione multipla con punteggi standardizzati, il coefficiente beta: sempre uguale a  zero 
+379) nell’analisi fattoriale confermativa, l’indice RMSEA: compreso tra 0,05 e 0,10 380) quale tra queste definizioni di fatica soggettiva è quella corretta? Il lavoratore esprime una caduta di  efficienza sebbene non manifesti nessun criterio oggettivo di affaticamento  
+381) nel questionario del Big-Five, la dimensione dell’amicalità misura: il livello di cooperatività delle  persone 
+382) nell’analisi fattoriale, un dato di partenza è costituito da: dalla matrice delle correlazioni o covarianze  tra le variabili
+`.split('\n');
