@@ -22,30 +22,6 @@ body {
     }
 }
 
-@media only screen and (max-width: 1500px) {
-    #main-container {
-        width: 40%;
-    }
-}
-
-@media only screen and (max-width: 1200px) {
-    #main-container {
-        width: 50%;
-    }
-}
-
-@media only screen and (max-width: 900px) {
-    #main-container {
-        width: 60%;
-    }
-}
-
-@media only screen and (max-width: 650px) {
-    #main-container {
-        width: 70%;
-    }
-}
-
 input {
     cursor: pointer;
 }
@@ -72,4 +48,57 @@ input {
 
 .forward-button {
     background-color: green;
+}
+
+@media only screen and (max-width: 1500px) {
+    #main-container {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    #main-container {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    #main-container {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        height: 100%;
+    }
+
+    body {
+        display: flex;
+        align-items: start;
+    }
+
+    .buttons-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .default-button {
+        border: none;
+        outline: none;
+        color: white;
+        padding: 15px 25px;
+        border-radius: 7.5px;
+        cursor: pointer;
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    #main-container {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 20px;
+    }
 }

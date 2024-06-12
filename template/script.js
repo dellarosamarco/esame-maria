@@ -3776,8 +3776,6 @@ for(let n=0;n<questions.length;n++) {
     questions[n]['correctAnswer'] = list[n]
 }
 
-console.log(questions)
-
 let currentAnswerIndex = 0;
 
 window.onload = () => {
