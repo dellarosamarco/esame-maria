@@ -2026,7 +2026,9 @@ somministrazione del test stimola la collaborazione tra soggetti
 76) La scala Disorganizzazione temporale, nella forma definitiva del questionario SOS, da quanti item è  composta? 9 
 77) L’A.F. CONFERMATIVA: Stabilisce quanto efficacemente i fattori riproducono la matrice delle  correlazioni. 
 78) NELL’A.F LE VARIABILI COMPLESSE SONO: Variabili che misurano più fattori contemporaneamente 
-79) NELL’A.F. SI DEVE EVITARE L’USO DI: Variabili empiricamente non indipendenti 80) COSA MISURA IL COEFFICIENTE R PUNTO B SERIALE? Risposte su una quantitativa, una dicotomica 81) In analisi fattoriale cos’è una rotazione ortogonale?: una tecnica di rotazione degli assi fattoriali  applicabile quando i fattori sono tra loro indipendenti; 
+79) NELL’A.F. SI DEVE EVITARE L’USO DI: Variabili empiricamente non indipendenti 
+80) COSA MISURA IL COEFFICIENTE R PUNTO B SERIALE? Risposte su una quantitativa, una dicotomica 
+81) In analisi fattoriale cos’è una rotazione ortogonale?: una tecnica di rotazione degli assi fattoriali  applicabile quando i fattori sono tra loro indipendenti; 
 82) Nell’analisi fattoriale per varimax si intende una tecnica di : rotazione ortogonale degli assi fattoriali 
 83) In analisi fattoriale il metodo di quartimax: è una tecnica di rotazione ortogonale che massimizza la  varianza della saturazione al quadrato per riga. 
 84) RICERCA D’ARCHIVIO: Ricerca non sperimentale 
@@ -2038,7 +2040,10 @@ somministrazione del test stimola la collaborazione tra soggetti
 90) Nel modello ERI sforzo-ricompensa (Siegrist 2002) quale è la componente indicata come fonte di  sforzo intrinseca in opposizione alle richieste del lavoro che ne raffigurano quella estrinseca? la  motivazione individuale 
 91) LA SCALA DEL DISAGIO SOS FORNISCE INFO RIGUARDO: INADEGUATEZZA PERSONALE CIRCA LO  SVOLGIMENTO DEL PROPRIO LAVORO 
 92) QUANTI ITEM HA LA SCALA DEL DISAGIO? 11 
-93) Quale è la fascia con frequenza più alta riguardo l’anzianità di servizio? 26-30 94) Che problemi può generare l’uso di variabili troppo simili nell’analisi fattoriale: fattori di basso livello  95) La scala a rapporto si differenzia dalla scala a intervallo perchè? Ha uno zero assoluto 96) Come diminuisce la fatica fisiologica? sonno e pause  
+93) Quale è la fascia con frequenza più alta riguardo l’anzianità di servizio? 26-30 
+94) Che problemi può generare l’uso di variabili troppo simili nell’analisi fattoriale: fattori di basso livello  
+95) La scala a rapporto si differenzia dalla scala a intervallo perchè? Ha uno zero assoluto 
+96) Come diminuisce la fatica fisiologica? sonno e pause  
 97) La fatica patologica del lavoratore sorge: quando la fatica dura oltre i tentativi fisiologici di recupero  
 98) Secondo un punto di vista fisiologico, alla presenza di fatica corrisponde un oggettivo modificarsi: dei  parametri biochimici e fisiologici. 
 99) La dimensione Disagio lavorativo del questionario SOS correla con le scale cliniche della SCL90R? Si  con tutte e le correlazioni sono positive; 
@@ -2047,20 +2052,23 @@ somministrazione del test stimola la collaborazione tra soggetti
 101) Nelle tabelle delle scale troviamo: totali di scala, ranghi percentili e punti T. 
 102) L’analisi della varianza è stata effettuata su: punti Z  
 103) Campione di soggetti per la validazione del questionario:225  
-104) Che cosa misura la scala Marlowe-Crowne (MC)? la desiderabilità sociale (misurare la tendenza dei  soggetti a mentire per dare un’immagine di sé positiva e socialmente accettabile. 105) La situazione di stress psicosociale se ripetuta e prolungata nel tempo aumenta il logoramento  dell’individuo e produce danni: funzionali e strutturali. 
+104) Che cosa misura la scala Marlowe-Crowne (MC)? la desiderabilità sociale (misurare la tendenza dei  soggetti a mentire per dare un’immagine di sé positiva e socialmente accettabile. 
+105) La situazione di stress psicosociale se ripetuta e prolungata nel tempo aumenta il logoramento  dell’individuo e produce danni: funzionali e strutturali. 
 106) Coefficiente di attendibilità: Indica la proporzione di varianza dei punteggi veri in relazione alla  varianza dei punteggi osservati  
 107) Il coefficiente di attendibilità di un test corrisponde: Al rapporto tra la varianza dei punteggi veri e la  varianza dei punteggi osservati 
 108)  
 a L’errore standard di misura corrisponde: al prodotto della deviazione standard dei punteggi  osservati per la radice quadrata di uno meno il coefficiente di attendibilità s:  
 ; 
 109) Per le scale a rapporto si usa il coefficiente: r Breavis-Pearson 
-110) Cos'è la validità divergente? grado di disaccordo tra due misure riguardo 2 costrutti diversi 111) Quanti item ha un test per essere definito basso? 50  
+110) Cos'è la validità divergente? grado di disaccordo tra due misure riguardo 2 costrutti diversi 
+111) Quanti item ha un test per essere definito basso? 50  
 112) Un’intervista psicologica va trascritta: in maniera integrale  
 113) NELLA RICERCA SPERIMENTALE SI CERCA: IL RAPPORTO CAUSA EFFETTO TRA VARIABILI 114) Cosa sono i GDL? gradi di libertà di una variabile aleatoria o di una statistica in genere esprimono il  numero minimo di dati sufficienti a valutare la quantità d'informazione contenuta nella statistica. 
 115) Nell’analisi fattoriale in dati di partenza sono costituiti: dalla matrice di correlazione o covarianza tra  le variabili 
 116) L’indice di efficienza E indica l’efficacia della stima: del punteggio vero sulla base del coefficiente di  alienazione K. 
 117) Nel modello di equazioni strutturali LISREL di Jokeskog e Sorbom, la matrice dei residui è:  la differenza tra la covarianza osservata nei dati e la covarianza attesa. 
-118) Nel modello di equazioni strutturali LISREL di Joreskog e Sorbom, i valori t calcolati per ciascun  parametro libero servono per stabilire: Se il parametro è significativamente diverso da 0. 119) Equazioni strutturali LISREL di Joreskog, il Goodness of Fit Index è: un valore che indica la bontà di  adattamento dell’intero modello. 
+118) Nel modello di equazioni strutturali LISREL di Joreskog e Sorbom, i valori t calcolati per ciascun  parametro libero servono per stabilire: Se il parametro è significativamente diverso da 0. 
+119) Equazioni strutturali LISREL di Joreskog, il Goodness of Fit Index è: un valore che indica la bontà di  adattamento dell’intero modello. 
 120) I calcoli matematici per eseguire un’analisi fattoriale confermativa si basano su modelli: equazioni  strutturali 
 121) Un modello completo di equazioni strutturali include: Sia variabili latenti che osservate. 
 122) L’approccio ingegneristico o tecnico definisce lo stress come uno stato di: sollecitazione contraria e  nociva derivante dall’ambiente. 
@@ -2069,7 +2077,8 @@ a L’errore standard di misura corrisponde: al prodotto della deviazione standa
 125) Un modo semplice di manipolare la variabile indipendente: creare un gruppo di controllo e uno  sperimentale. 
 126) Quale funzione regola la trasformazione da una scala all’altra? biunivoca  
 127) Due scale di misura ad intervallo sono equivalenti: se esiste una funzione biunivoca che le lega 
-128) Le trasformazioni permissibili nella scala nominale sono: quelle che lasciano intatte le proprietà della  scala originaria quindi il numero di categorie King e king: short form viene utilizzata solo per fini di ricerca . 129) I ranghi su che scala possiamo trovarli? ordinale  
+128) Le trasformazioni permissibili nella scala nominale sono: quelle che lasciano intatte le proprietà della  scala originaria quindi il numero di categorie King e king: short form viene utilizzata solo per fini di ricerca . 
+129) I ranghi su che scala possiamo trovarli? ordinale  
 130) Se non hai i ranghi percentili come fai a trovarli: basta moltiplicare per 100 il nostro dato, trasformi i  punteggi dei soggetti o del QI. 
 131) Cos'è un test soggettivo? Esecuzione di prove e completamento di frasi  
 132) Un’ INTERVISTA STRUTTURALE PREVEDE: CONTENUTO E SEQUENZA DELLE DOMANDE. 
