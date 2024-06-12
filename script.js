@@ -45,7 +45,7 @@ const questions = [
             "a) Formulaci Pearson ",
             "b) Formulacicronbach ",
             "c) Formulaci Spearmanbrown ",
-            "c) Formulaci Kuder-Richardson (KR-20) "
+            "d) Formulaci Kuder-Richardson (KR-20) "
         ],
         "correctAnswer": "5) FORMULAcONcUI STABILIRE UN NUMERO MINIMOcI ITEM PERaVERE UN TEST VALIDO È  UNA VARIANTE:cella formulaci spearmanbrown "
     },
@@ -55,7 +55,7 @@ const questions = [
             "a)aNOVA ",
             "b) Tci Student ",
             "c)chi-quadro ",
-            "c) Test F"
+            "d) Test F"
         ],
         "correctAnswer": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? Tci Student  "
     },
@@ -65,7 +65,7 @@ const questions = [
             "a) t=rn−2t = \frac{r}{sqrt{n-2}}t=n−2r ",
             "b) t=rnt = \frac{r}{sqrt{n}}t=nr ",
             "c) t=rn−2t = \frac{r}{n-2}t=n−2r ",
-            "c) t=n−2rt = \frac{n-2}{r}t=rn−2 "
+            "d) t=n−2rt = \frac{n-2}{r}t=rn−2 "
         ],
         "correctAnswer": "7) Formula tci studentcon r pearson: "
     },
@@ -75,7 +75,7 @@ const questions = [
             "a) Una misuraci stabilità emotiva ",
             "b) Un tipoci test psicologico ",
             "c) Un'analisi statistica ",
-            "c) Un response test "
+            "d) Un response test "
         ],
         "correctAnswer": "8)cOS’E’ L’IMPULSIONE? UN RESPONSE TEST "
     },
@@ -85,7 +85,7 @@ const questions = [
             "a)aumentando lacomplessitàcel test ",
             "b)accorciando il tempoci esecuzione ",
             "c) Rendere il testci facile esecuzione ",
-            "c) Utilizzando più partecipanti "
+            "d) Utilizzando più partecipanti "
         ],
         "correctAnswer": "9)cOME SI RIDUCE UN RESPONSE TEST? Rendere il testci facile esecuzione "
     },
@@ -105,7 +105,7 @@ const questions = [
             "a)callacorrelazioneal quadratocei predittori moltiplicata percento = ��2��100 ",
             "b)calla radice quadratacellacorrelazione tra predittori ",
             "c)calla sommacellacorrelazione tra predittori e la lorocifferenza ",
-            "c)al quadrato tra predittori moltiplicata percento "
+            "d)al quadrato tra predittori moltiplicata percento "
         ],
         "correctAnswer": "11) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata:callacorrelazioneal quadratocei predittori moltiplicata percento = ��2��100 "
     },
@@ -115,7 +115,7 @@ const questions = [
             "a)con indicici fedeltàbassi ",
             "b)con indicici fedeltàalti ",
             "c)concorrelazioni elevate ",
-            "c)concorrelazionibasse"
+            "d)concorrelazionibasse"
         ],
         "correctAnswer": "12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si  scartano item:con indicici fedeltàbassi  "
     },
@@ -125,7 +125,7 @@ const questions = [
             "a) Un reattivocompostoca 132 itemche misura 5 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale ",
             "b) Un reattivocompostoca 50 itemche misura 3 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale ",
             "c) Un reattivocompostoca 200 itemche misura 7 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale ",
-            "c) Un reattivocompostoca 80 itemche misura 4 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale "
+            "d) Un reattivocompostoca 80 itemche misura 4 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale "
         ],
         "correctAnswer": "13) Ilbig five Questionnaire è: un reattivocompostoca 132 itemche misura 5 fattorici  personalità: estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale; 14) Nelbig five Questionnaire, la scalacell’energia misura: Il livellocicinamismocel comportamento. "
     },
@@ -135,7 +135,7 @@ const questions = [
             "a) Il livellocicinamismocelcomportamento. ",
             "b) Il livelloci intelligenza emotiva. ",
             "c) Il gradoci estroversione. ",
-            "c) Il gradoci stabilità emotiva. "
+            "d) Il gradoci stabilità emotiva. "
         ]
     },
     {
@@ -144,7 +144,7 @@ const questions = [
             "a) Il Sensocell’Ordinecel soggetto (Coscienziosità) ",
             "b) L'apertura mentale ",
             "c) L'estroversione ",
-            "c) La stabilità emotiva "
+            "d) La stabilità emotiva "
         ],
         "correctAnswer": "15) Scala ScrupolositàceibIG FIVEcosa misura? Il Sensocell’Ordinecel soggetto  "
     },
@@ -154,7 +154,7 @@ const questions = [
             "a) Nelbig five questionnaire ",
             "b) Inaltri testci personalità ",
             "c) Nelle scaleci intelligenza ",
-            "c) Nei testciabilità motorie "
+            "d) Nei testciabilità motorie "
         ],
         "correctAnswer": "16) La scalacella stabilità emotiva la ritroviamo: nelbig five questionaire  "
     },
@@ -3751,7 +3751,17 @@ const setQuestion = () => {
 }
 
 const onConfirm = () => {
-    window.alert(questions[currentAnswerIndex].correctAnswer);
+    if(getUserAnswer() == false) {
+        window.alert('Inserire una risposta');
+        return;
+    }
+    // else if(!questions[currentAnswerIndex].correctAnswer.includes(getUserAnswer())) {
+    //     window.alert('Risposta sbagliata');
+    //     return;
+    // }
+
+    window.alert('La risposta giusta è : ' + questions[currentAnswerIndex].correctAnswer)
+
     currentAnswerIndex++;
     setQuestion();
 }
@@ -3761,6 +3771,18 @@ const onBack = () => {
 
     currentAnswerIndex--;
     setQuestion();
+}
+
+const getUserAnswer = () => {
+    const radios = document.getElementsByTagName('input');
+
+    for(let n=0;n<radios.length;n++) {
+        if(radios[n].checked == true) {
+            return radios[n].parentElement.getElementsByTagName('p')[0].innerHTML;
+        }
+    }
+
+    return false;
 }
 
 // window.onload = () => {
