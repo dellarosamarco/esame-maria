@@ -3751,7 +3751,7 @@ const questions = [
     }
 ]
 
-let currentAnswerIndex = 80;
+let currentAnswerIndex = 0;
 
 window.onload = () => {
     setQuestion()
