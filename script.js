@@ -7,7 +7,7 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● A) Solo metodo split-half 
 ● B) Solo test-retest 
 ● C) Split-half tranne per memoria di cifre e ragionamento aritmetico calcolate con test-retest 
-● D) Test-retest tranne per memoria di cifre e ragionamento aritmetico 3) Esempio di procedura split-half: 
+● D) Test-retest tranne per memoria di cifre e ragionamento aritmetico 
 3) Esempio di procedura split-half: 
 ● A) Divisione del test in parti non equivalenti 
 ● B) Divisione del test in parti in base al grado di difficoltà 
@@ -49,8 +49,10 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● C) Alla radice quadrata della correlazione tra predittori 
 ● D) Alla somma della correlazione tra predittori e la loro differenza 
 11) Nell’analisi di regressione semplice la proporzione di varianza spiegata dal modello è data: 
-● A) Dalla correlazione al quadrato dei predittori moltiplicata per cento = ��2��100 ● B) Dalla radice quadrata della correlazione tra predittori 
-● C) Dalla somma della correlazione tra predittori e la loro differenza ● D) Al quadrato tra predittori moltiplicata per cento 
+● A) Dalla correlazione al quadrato dei predittori moltiplicata per cento = ��2��100 
+● B) Dalla radice quadrata della correlazione tra predittori 
+● C) Dalla somma della correlazione tra predittori e la loro differenza 
+● D) Al quadrato tra predittori moltiplicata per cento 
 12) Sottodimensioni della scala della stabilità emotiva del Big Five A parità di varianza si scartano item: 
 ● A) Con indici di fedeltà bassi 
 ● B) Con indici di fedeltà alti 
@@ -85,7 +87,8 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● D) Cooperatività tra le persone 
 19) Manipolazione indipendente: 
 ● A) Coinvolge la manipolazione delle variabili dipendenti 
-● B) Coinvolge la creazione di un gruppo di controllo e un gruppo sperimentale ● C) Non è importante nelle ricerche psicologiche 
+● B) Coinvolge la creazione di un gruppo di controllo e un gruppo sperimentale 
+● C) Non è importante nelle ricerche psicologiche 
 ● D) Coinvolge la manipolazione delle variabili estranee 
 20) Scala Likert: 
 ● A) Monotomica 
@@ -113,9 +116,13 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● C) Grafico a torta. 
 ● D) Tabella di contingenza.
 25) Diagramma di dispersione è: 
-● A) Un diagramma cartesiano che rappresenta la correlazione tra 2 variabili. ● B) Un diagramma che mostra la distribuzione di una singola variabile. ● C) Un diagramma che rappresenta le correlazioni tra più di due variabili. ● D) Un diagramma che mostra la relazione causale tra due variabili. 
+● A) Un diagramma cartesiano che rappresenta la correlazione tra 2 variabili. 
+● B) Un diagramma che mostra la distribuzione di una singola variabile. 
+● C) Un diagramma che rappresenta le correlazioni tra più di due variabili. 
+● D) Un diagramma che mostra la relazione causale tra due variabili. 
 26) La validità orientata al criterio indica: 
-● A) Il grado di corrispondenza tra una misura e il criterio di riferimento. ● B) Il grado di coerenza interna di un test. 
+● A) Il grado di corrispondenza tra una misura e il criterio di riferimento. 
+● B) Il grado di coerenza interna di un test. 
 ● C) Il grado di generalizzazione dei risultati. 
 ● D) Il grado di accuratezza della misura. 
 27) Cos’è il fattore G nell’analisi fattoriale? 
@@ -139,7 +146,9 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● C) Al test F di Fisher 
 ● D) Al T di Student
 31) Nel modello a due fattori, in analisi fattoriale, la matrice delle saturazioni è composta: 
-● A) Dalle variabili per riga e dai fattori generale e specifici per colonna. ● B) Dalle variabili per colonna e dai fattori generale e specifici per riga. ● C) Dalla matrice delle correlazioni. 
+● A) Dalle variabili per riga e dai fattori generale e specifici per colonna. 
+● B) Dalle variabili per colonna e dai fattori generale e specifici per riga. 
+● C) Dalla matrice delle correlazioni. 
 ● D) Dalla matrice degli errori. 
 32) Nelle equazioni matricolari cos’è la variabile latente: 
 ● A) Costrutto psicologico 
@@ -158,7 +167,8 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● C) Misura la varianza residua del modello 
 ● D) Misura la devianza del modello 
 36) Nell’analisi di regressione multipla, i coefficienti beta dei predittori del modello di regressione corrispondono: 
-● A) Al prodotto tra i beta standardizzati per la deviazione standard del criterio ● B) Al prodotto tra i beta standardizzati per il rapporto tra la deviazione standard del criterio e la deviazione standard del predittore. 
+● A) Al prodotto tra i beta standardizzati per la deviazione standard del criterio 
+● B) Al prodotto tra i beta standardizzati per il rapporto tra la deviazione standard del criterio e la deviazione standard del predittore. 
 ● C) Alla correlazione tra predittori e criterio 
 ● D) Alla varianza spiegata dai predittori
 37) L’errore di stima del punteggio osservato è: 
@@ -173,7 +183,8 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● D) a/p Item 
 40) Quale metodo permette di misurare la dimensionalità degli item di un test: 
 ● A) Analisi fattoriale 
-● B) A parità di varianza si eliminano item con indici di fedeltà bassi C) Analisi della devianza 
+● B) A parità di varianza si eliminano item con indici di fedeltà bassi 
+C) Analisi della devianza 
 ● D) Analisi delle correlazioni 
 41) Con indici di fedeltà uguali vengono scartati: 
 ● A) Item con deviazione standard più elevata 
@@ -201,8 +212,10 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● C) Si calcola con il coefficiente di Kendall 
 ● D) Si calcola con phi tetracorico 
 46) Date le variabili 1 2 3 la correlazione parziale consente di calcolare: 
-● A) La correlazione tra le variabili 1 e 2 controllando l'effetto della variabile 3 ● B) La correlazione tra tutte le coppie di variabili 
-● C) La correlazione tra le variabili 1 e 2 escludendo l'effetto della variabile 3 ● D) La vera correlazione tra 1 e 2 indipendentemente da 3 
+● A) La correlazione tra le variabili 1 e 2 controllando l'effetto della variabile 3 
+● B) La correlazione tra tutte le coppie di variabili 
+● C) La correlazione tra le variabili 1 e 2 escludendo l'effetto della variabile 3 
+● D) La vera correlazione tra 1 e 2 indipendentemente da 3 
 47) UN CAMPIONE È MOLTO BUONO CON: 
 ● A) 100 soggetti. 
 ● B) 200 soggetti. 
@@ -210,7 +223,8 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● D) 1000 soggetti. 
 48) Validità di forma riguarda: 
 ● A) La forma fisica dei partecipanti durante il test. 
-● B) Il modo in cui la somministrazione del test stimola la collaborazione dei soggetti. ● C) La struttura del test. 
+● B) Il modo in cui la somministrazione del test stimola la collaborazione dei soggetti. 
+● C) La struttura del test. 
 ● D) La durata del test.
 49) LA CORRISPONDENZA TRA LE DIVERSE FORME DI DIVERSI TEST: 
 ● A) È irrilevante ai fini della validità del test. 
@@ -264,7 +278,8 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● D) ��0 = ��̅(media X) + ��1��̅(media Y); 
 59) La trasformazione di Fisher genera una funzione: 
 ● A) Caratterizzata da una distribuzione normale 
-● B) Caratterizzata da una distribuzione più uniforme che asimmetrica ● C) Caratterizzata da una distribuzione uniforme 
+● B) Caratterizzata da una distribuzione più uniforme che asimmetrica 
+● C) Caratterizzata da una distribuzione uniforme 
 ● D) Caratterizzata da una distribuzione asimmetrica 
 60) Indicando con r la correlazione, la trasformazione di Fisher z’ di “r” è data dall’equazione: 
 ● A) ��′ = 1 ln(1 + ��^2) 
@@ -302,11 +317,14 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● D) 19
 66) r2 nella regressione multipla corrisponde: 
 ● A) Alla devianza spiegata dal modello 
-● B) Al coefficiente di determinazione che a volte coincide con la pendenza della retta ● C) Alla varianza residua del modello 
+● B) Al coefficiente di determinazione che a volte coincide con la pendenza della retta 
+● C) Alla varianza residua del modello 
 ● D) Alla correlazione tra criterio e predittore 
 67) Cos’è la saturazione della variabile? 
-● A) Un indice che esprime la correlazione tra la variabile e il fattore latente. ● B) Un indice che esprime 
-C) Un indice che esprime la correlazione tra la variabile e altre variabili nel modello. ● D) Un indice che esprime la correlazione tra la variabile e il predittore. 
+● A) Un indice che esprime la correlazione tra la variabile e il fattore latente. 
+● B) Un indice che esprime 
+C) Un indice che esprime la correlazione tra la variabile e altre variabili nel modello. 
+● D) Un indice che esprime la correlazione tra la variabile e il predittore. 
 68) La formula ���� ������������, in cui S�� è la deviazione standard dei punteggi osservati, costituisce: 
 ● A) La deviazione standard dell'errore di misura 
 ● B) La correlazione di Pearson 
@@ -353,7 +371,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● C) 9 
 ● D) 11 
 77) L’A.F. CONFERMATIVA: 
-● A) Stabilisce quanto efficacemente i fattori riproducono la matrice delle correlazioni. ● B) Serve per esaminare l'affidabilità del test. 
+● A) Stabilisce quanto efficacemente i fattori riproducono la matrice delle correlazioni. 
+● B) Serve per esaminare l'affidabilità del test. 
 ● C) Serve per esaminare la validità del test. 
 ● D) Serve per esaminare l'omogeneità del campione.
 78) NELL’A.F LE VARIABILI COMPLESSE SONO: 
@@ -423,7 +442,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● D) Motivazione individuale 
 91) LA SCALA DEL DISAGIO SOS FORNISCE INFO RIGUARDO: 
 ● A) Grado di soddisfazione lavorativa 
-● B) Inadeguatezza personale circa lo svolgimento del proprio lavoro ● C) Relazioni interpersonali sul luogo di lavoro 
+● B) Inadeguatezza personale circa lo svolgimento del proprio lavoro 
+● C) Relazioni interpersonali sul luogo di lavoro 
 ● D) Qualità della leadership aziendale 
 92) QUANTI ITEM HA LA SCALA DEL DISAGIO? 
 ● A) 7 
@@ -503,7 +523,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 107) Il coefficiente di attendibilità di un test corrisponde: 
 ● A) Alla media dei punteggi 
 ● B) Alla moda della distribuzione 
-● C) Al rapporto tra la varianza dei punteggi veri e la varianza dei punteggi osservati ● D) Alla deviazione standard dei punteggi veri 
+● C) Al rapporto tra la varianza dei punteggi veri e la varianza dei punteggi osservati 
+● D) Alla deviazione standard dei punteggi veri 
 108) 
 ● A) Attendibilità del test 
 ● B) Validità del test 
@@ -552,7 +573,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 117) Nel modello di equazioni strutturali LISREL di Jokeskog e Sorbom, la matrice dei residui è: 
 ● A) La somma dei residui 
 ● B) La media dei residui 
-● C) La differenza tra la covarianza osservata nei dati e la covarianza attesa ● D) La deviazione standard dei residui 
+● C) La differenza tra la covarianza osservata nei dati e la covarianza attesa 
+● D) La deviazione standard dei residui 
 118) Nel modello di equazioni strutturali LISREL di Joreskog e Sorbom, i valori t calcolati per ciascun parametro libero servono per stabilire: 
 ● A) Il livello di attendibilità 
 ● B) Se il parametro è significativamente diverso da 0 
@@ -585,7 +607,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● D) 11 
 124) Uno degli assunti base del modello psicometrico è che la correlazione tra: 
 ● A) Punteggi veri e punteggi osservati sia alta 
-● B) La distribuzione di errori casuali e quella dei punteggi veri sia nulla ● C) La media e la deviazione standard sia costante 
+● B) La distribuzione di errori casuali e quella dei punteggi veri sia nulla 
+● C) La media e la deviazione standard sia costante 
 ● D) La deviazione standard e la varianza sia bassa 
 125) Un modo semplice di manipolare la variabile indipendente è: 
 ● A) Cambiare la distribuzione dei punteggi 
@@ -604,7 +627,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● D) Se hanno la stessa varianza
 128) Le trasformazioni permesse nella scala nominale sono: 
 ● A) Quelle che cambiano la forma della distribuzione 
-● B) Quelle che non lasciano intatte le proprietà della scala originaria ● C) Quelle che trasformano i punteggi in percentili 
+● B) Quelle che non lasciano intatte le proprietà della scala originaria 
+● C) Quelle che trasformano i punteggi in percentili 
 ● D) Quelle che lasciano intatte le proprietà della scala originaria quindi il numero di categorie King e king: short form viene utilizzata solo per fini di ricerca 
 129) I ranghi si trovano su che scala? 
 ● A) Nominale 
