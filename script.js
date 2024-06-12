@@ -819,7 +819,8 @@ b) È dovuta solo all'errore sistematico
 c) È dovuta all'errore umano 
 d) È dovuta a fattori casuali 
 167) Se abbiamo le misure di un test di abilità verbale, di un test di abilità numerica e di un test che è la somma dei primi due, che rischio di errore si corre se si vuole fare l’analisi fattoriale sui tre test? 
-a) Si rischia di avere variabili che non sono indipendenti tra loro b) Non si corre alcun rischio 
+a) Si rischia di avere variabili che non sono indipendenti tra loro 
+b) Non si corre alcun rischio 
 c) Si otterrà un'analisi accurata 
 d) Le misure saranno completamente indipendenti 
 168) La deviazione standard indica: 
@@ -827,7 +828,9 @@ a) Quando un soggetto si scosta dalla media
 b) Il valore medio della distribuzione 
 c) La varianza dei dati 
 d) La tendenza centrale dei dati 
-169) Media e deviazione standard nei punteggi standardizzati: a) Uguale a 1 b) Uguale a 0 
+169) Media e deviazione standard nei punteggi standardizzati: 
+a) Uguale a 1 
+b) Uguale a 0 
 c) U = 0; ò = 1 
 d) U = 1; ò = 0
 170) In analisi fattoriale cos’è una rotazione obliqua: 
@@ -856,10 +859,12 @@ b) Likert, Spearman e Pearson
 c) Cronbach, Thurstone e Guttman (scalogramma) 
 d) Likert, Cronbach e Guttman (scalogramma) 
 175) Nell’analisi fattoriale, la matrice R è: 
-a) Una matrice quadrata simmetrica con i valori della diagonale principale pari a 0 b) Una matrice rettangolare 
+a) Una matrice quadrata simmetrica con i valori della diagonale principale pari a 0 
+b) Una matrice rettangolare 
 c) Una matrice diagonale 
 d) Una matrice triangolare 
-176) Nell’analisi fattoriale con fattori ortogonali si presuppone che? a) Le dimensioni fattoriali siano reciprocamente indipendenti 
+176) Nell’analisi fattoriale con fattori ortogonali si presuppone che? 
+a) Le dimensioni fattoriali siano reciprocamente indipendenti 
 b) Le dimensioni fattoriali siano tra loro correlati 
 c) I fattori siano indipendenti dalle variabili 
 d) I fattori siano correlati alle variabili
@@ -943,7 +948,8 @@ a) È sempre uguale a 0 e il numero dei coefficienti da calcolare è uguale al n
 b) È sempre uguale a 1 e il numero dei coefficienti da calcolare è uguale al numero di predittori 
 c) È sempre uguale al valore medio del campione 
 d) È sempre uguale al coefficiente B1 
-193) Un campione è considerato molto buono per l’analisi fattoriale…: a) Con meno di 100 soggetti 
+193) Un campione è considerato molto buono per l’analisi fattoriale…: 
+a) Con meno di 100 soggetti 
 b) Con 500 soggetti 
 c) Con 1000 soggetti 
 d) Con 50 soggetti 
@@ -1010,7 +1016,8 @@ d) Di rapporto
 207) y=ax corrisponde a: 
 ● A) Funzione esponenziale 
 ● B) Funzione logaritmica 
-● C) Funzione declinata con B=0, poiché varia l’inclinazione della retta ● D) Funzione lineare 
+● C) Funzione declinata con B=0, poiché varia l’inclinazione della retta 
+● D) Funzione lineare 
 208) correlazione di Pearson (������������) 
 ● A) Un indice di validità 
 ● B) Un indice di attendibilità 
@@ -1592,7 +1599,8 @@ a) Per valutare la validità delle risposte dei soggetti
 b) Per valutare la coerenza delle risposte 
 c) Per valutare la consistenza delle risposte 
 d) Per valutare la variabilità delle risposte 
-328) Nell’analisi fattoriale esplorativa del questionario SOS, quanti fattori latenti: a) 3 
+328) Nell’analisi fattoriale esplorativa del questionario SOS, quanti fattori latenti: 
+a) 3 
 b) 4 
 c) 5 
 d) 6 
@@ -1602,7 +1610,8 @@ b) Risposta sociale
 c) Disturbo psicologico 
 d) Comportamento aggressivo
 330) Il coping è definito come: 
-a) Un cambiamento dell’ambiente da parte del soggetto…il suo raggiungimento b) Una reazione automatica ad uno stimolo stressante 
+a) Un cambiamento dell’ambiente da parte del soggetto…il suo raggiungimento 
+b) Una reazione automatica ad uno stimolo stressante 
 c) Un processo di adattamento psicologico allo stress 
 d) Una risposta istintiva ai fattori di stress 
 331) Il modello JD-R di Bakker e Demerouti deriva: 
@@ -1623,14 +1632,16 @@ d) Si ottiene l'indice di bontà di adattamento
 334) Se abbiamo le misure di un test di abilità verbale, di un test di abilità numerica e di un test che è la somma dei primi due, che rischio di errore si corre se si vuole fare l’analisi fattoriale sui tre test?: 
 a) Si rischia di avere variabili che non sono indipendenti tra loro 
 b) Si rischia di ottenere risultati sbagliati nella somma dei punteggi 
-c) Si rischia di ottenere un'eccessiva complessità nell'analisi fattoriale d) Si rischia di ottenere un'eccessiva semplicità nell'analisi fattoriale 
+c) Si rischia di ottenere un'eccessiva complessità nell'analisi fattoriale 
+d) Si rischia di ottenere un'eccessiva semplicità nell'analisi fattoriale 
 335) Quale delle seguenti opzioni non è una procedura per la stima dell’attendibilità del test?: 
 a) La procedura di Sperman-Brown 
 b) L'analisi della consistenza interna 
 c) Il confronto tra gruppi equivalenti 
 d) Il confronto tra punteggi alternativi 
 336) Il test – retest cos’è?: 
-a) Somministrare in 2 sessioni diverse lo stesso test per confermarne l’attendibilità b) Somministrare un test per misurare la velocità cognitiva 
+a) Somministrare in 2 sessioni diverse lo stesso test per confermarne l’attendibilità 
+b) Somministrare un test per misurare la velocità cognitiva 
 c) Somministrare un test per misurare la memoria di lavoro 
 d) Somministrare un test per misurare l'attenzione
 337) I test proiettivi: 
@@ -1668,9 +1679,13 @@ a) 7
 b) 9 
 c) 11 
 d) 12
-344) Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: a) Maggiore è la percezione delle risorse possedute, tanto più alta sarà la motivazione b) Maggiore è il carico lavorativo, tanto più bassa sarà la motivazione c) La motivazione dipende esclusivamente dal carico lavorativo 
+344) Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: 
+a) Maggiore è la percezione delle risorse possedute, tanto più alta sarà la motivazione 
+b) Maggiore è il carico lavorativo, tanto più bassa sarà la motivazione 
+c) La motivazione dipende esclusivamente dal carico lavorativo 
 d) Il carico lavorativo non influisce sulla motivazione 
-345) Item che ha ricevuto più risposte nella parte 3 del questionario SOS: a) 52 
+345) Item che ha ricevuto più risposte nella parte 3 del questionario SOS: 
+a) 52 
 b) 64 
 c) 47 
 d) 56 
@@ -1684,7 +1699,8 @@ a) L'elevato senso di soddisfazione professionale
 b) L'equilibrio tra sforzo lavorativo e ricompensa 
 c) Lo squilibrio tra lo sforzo lavorativo richiesto dall'organizzazione e la ricompensa data al lavoratore 
 d) La presenza di un ambiente lavorativo tranquillo 
-348) Le tetradi, in analisi fattoriale, si annullano perché corrispondono a: a) Fattori non significativi 
+348) Le tetradi, in analisi fattoriale, si annullano perché corrispondono a: 
+a) Fattori non significativi 
 b) Variabili correlate 
 c) La differenza tra i prodotti delle stesse saturazioni 
 d) Errori di misurazione 
@@ -1709,7 +1725,8 @@ b) Almeno due saturazioni >0,30
 c) Almeno tre saturazioni >0,30 
 d) Tutte le saturazioni >0,30 
 353) L’intervista strutturata si caratterizza per: 
-a) Il fatto che i contenuti e la sequenza delle domande sono prefissati all’inizio b) La libertà di argomento durante l'intervista 
+a) Il fatto che i contenuti e la sequenza delle domande sono prefissati all’inizio 
+b) La libertà di argomento durante l'intervista 
 c) La mancanza di un protocollo stabilito 
 d) La presenza di domande aperte 
 354) Nel modello delle equazioni di LISREL di Joreskog e Sorbom a differenza delle equazioni dell’EQS di Bentler, sono previsti quanti tipi variabili? 
@@ -1756,7 +1773,8 @@ a) Il grado di accordo tra due o più misure dello stesso costrutto
 b) Il grado di accordo tra costrutti diversi 
 c) La coerenza interna del test 
 d) La validità esterna del test 
-363) Esiste una correlazione significativa tra le dimensioni del questionario SOS? a) Sì, e le correlazioni sono tutte positive e significative 
+363) Esiste una correlazione significativa tra le dimensioni del questionario SOS? 
+a) Sì, e le correlazioni sono tutte positive e significative 
 b) No, le correlazioni sono tutte negative 
 c) Le correlazioni sono casuali e non significative 
 d) Le correlazioni sono tutte positive ma non significative 
@@ -1776,14 +1794,17 @@ b) Scale unipolari
 c) Scale bipolari 
 d) Risposte a scelta multipla 
 367) In cosa consiste la procedura split-half? 
-a) Un test viene suddiviso a metà per calcolare la correlazione tra le due parti b) Si confrontano i risultati di due gruppi divisi a metà 
+a) Un test viene suddiviso a metà per calcolare la correlazione tra le due parti 
+b) Si confrontano i risultati di due gruppi divisi a metà 
 c) Si sommano i punteggi delle due metà di un test 
 d) Si confronta il risultato di un test con quello di un altro test 
 368) Che cos’è lo Scree-plot di Cattell? 
 a) Un grafico che mostra l'andamento della curva ROC 
 b) Un grafico che mostra la distribuzione delle frequenze 
-c) Un grafico che ha in ordinata gli eigenvalue e in ascissa il numero di fattori generali d) Un grafico che mostra la varianza spiegata dai fattori 
-369) Uno dei problemi nel calcolo dell’attendibilità test-retest è stabilire la lunghezza dell’intervallo tra la prima e la seconda somministrazione del reattivo. Perché? a) Perché i soggetti possono ricordare le risposte 
+c) Un grafico che ha in ordinata gli eigenvalue e in ascissa il numero di fattori generali 
+d) Un grafico che mostra la varianza spiegata dai fattori 
+369) Uno dei problemi nel calcolo dell’attendibilità test-retest è stabilire la lunghezza dell’intervallo tra la prima e la seconda somministrazione del reattivo. Perché? 
+a) Perché i soggetti possono ricordare le risposte 
 b) Perché si può influenzare la validità del test 
 c) Perché si possono verificare cambiamenti nei soggetti 
 d) Perché si possono verificare errori nella somministrazione 
@@ -1828,14 +1849,19 @@ a) Compreso tra 0 e 1
 b) Compreso tra -1 e 1 
 c) Compreso tra 0,05 e 0,10 
 d) Compreso tra 0 e 0.5 
-379) Quale tra queste definizioni di fatica soggettiva è quella corretta? a) Il lavoratore esprime una caduta di efficienza sebbene non manifesti nessun criterio oggettivo di affaticamento 
-b) Il lavoratore esprime una caduta di efficienza solo quando è oggettivamente affaticato c) Il lavoratore non esprime mai una caduta di efficienza 
+379) Quale tra queste definizioni di fatica soggettiva è quella corretta? 
+a) Il lavoratore esprime una caduta di efficienza sebbene non manifesti nessun criterio oggettivo di affaticamento 
+b) Il lavoratore esprime una caduta di efficienza solo quando è oggettivamente affaticato 
+c) Il lavoratore non esprime mai una caduta di efficienza 
 d) Il lavoratore esprime una caduta di efficienza solo quando è sottoposto a stress
-380) Nel questionario del Big-Five, la dimensione dell’amicalità misura: a) Il livello di cooperatività delle persone 
+380) Nel questionario del Big-Five, la dimensione dell’amicalità misura: 
+a) Il livello di cooperatività delle persone 
 b) Il grado di emotività delle persone 
 c) Il grado di intelligenza sociale delle persone 
 d) Il livello di assertività delle persone 
-381) Nell’analisi fattoriale, un dato di partenza è costituito da: a) Dalla matrice delle correlazioni o covarianze tra le variabili b) Dalla matrice delle medie dei punteggi 
+381) Nell’analisi fattoriale, un dato di partenza è costituito da: 
+a) Dalla matrice delle correlazioni o covarianze tra le variabili 
+b) Dalla matrice delle medie dei punteggi 
 c) Dalla matrice degli errori standard 
 d) Dalla matrice delle modalità di risposta
 `;
@@ -2103,7 +2129,8 @@ comunanze: X^2 = nr^2ᶲ
 191)Beta con zero a cosa equivale nei punteggi standardizzati: Sempre a 0 perché B0= u1-B1u2, poiché  u1=u2=0 B0= 0-B1 0 = 0  
 192)Il metodo che consente di calcolare Bo e B1: metodo minimi quadrati  
 193)Con i punteggi standardizzati il coefficiente Bo: è sempre uguale a 0 e il numero dei coefficienti da  calcolare è uguale al numero di predittori  
-194)Un campione è considerato molto buono per l’analisi fattoriale…: 500 soggetti  195)Nell’analisi fattoriale si deve evitare l’uso: di variabili empiricamente non indipendenti 
+194)Un campione è considerato molto buono per l’analisi fattoriale…: 500 soggetti  
+195)Nell’analisi fattoriale si deve evitare l’uso: di variabili empiricamente non indipendenti 
 196)Nell’analisi fattoriale le variabili complesse sono: variabili che misurano più fattori  contemporaneamente  
 197)Quale di queste NON calcola la stima dell'attendibilità:, formula profetica Spearman-brown  
 198)Cosa indica un coefficiente di correlazione pari a 0?• NON VI è CORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla)  
@@ -2121,7 +2148,8 @@ comunanze: X^2 = nr^2ᶲ
 214)Cos'è la validità di contenuto? si riferisce alla popolazione a partire dalla quale sono stati selezionati  gli item del reattivo. Un reattivo ha validità di contenuto se il campione finale di item è stato estratto  dell’intera popolazione di item che possono essere validi indicatori del costrutto psicologico indagato.  
 215)Cos'è la validità PREDITTIVA? I punteggi del reattivo sono stati ottenuti in un secondo momento  precedente rispetto ai valori del criterio  
 216)Si chiama validità concorrente se: i valori del criterio e i punteggi del reattivo sono stati ottenuti nello  stesso momento o periodo di tempo 
-217)r-pearson si usa su scala: a intervalli o rapporti, entrambe su scala quantitativa 218)Nella scala nominale: i soggetti sono ripartiti in categorie in base a determinate caratteristiche  219)La scala dell’amicalità: misura il grado di socievolezza ed empatia  
+217)r-pearson si usa su scala: a intervalli o rapporti, entrambe su scala quantitativa 
+218)Nella scala nominale: i soggetti sono ripartiti in categorie in base a determinate caratteristiche  219)La scala dell’amicalità: misura il grado di socievolezza ed empatia  
 220)La scala D misura: la depressione  
 221)La scala a intervallo permette: di quantificare la distanza tra gli elementi  
 222)I subtest ordinamento di storie figurate…: scala performance 
@@ -2145,10 +2173,13 @@ comunanze: X^2 = nr^2ᶲ
 240)Il campionamento stratificato prevede che gli individui siano estratti dalla popolazione? In modo da  presentare in misura equivalente determinate caratteristiche, che si suppone possano influenzare il  punteggio del singolo al reattivo  
 241)Che tipo di test è il TAT? TEST PROIETTIVI DI NARRATIVA O CONTENUTO  
 242)Che tipo di test sono le matrici progressive: QI intelligenza fluida  
-243)Cos'è un test minima performance? Indica le capacità psichiche tipiche del soggetto  244)QI verbale comprende il seguente test: ragionamento aritmetico  
-245)Cos’è un test di massima performance? Test di intelligenza, attitudinali e di rendimento  246)Il test – retest cos’è? somministrare in 2 sessioni diverse lo stesso test  
+243)Cos'è un test minima performance? Indica le capacità psichiche tipiche del soggetto  
+244)QI verbale comprende il seguente test: ragionamento aritmetico  
+245)Cos’è un test di massima performance? Test di intelligenza, attitudinali e di rendimento  
+246)Il test – retest cos’è? somministrare in 2 sessioni diverse lo stesso test  
 247)I test proiettivi: presentare stimoli ambigui ed evocare risposte inconsce  
-248)Cosa si intende per norma di un test psicologico: costruzione dei parametri di applicazione  249)Test di Rorshach: test proiettivo  
+248)Cosa si intende per norma di un test psicologico: costruzione dei parametri di applicazione  
+249)Test di Rorshach: test proiettivo  
 250)Il test oggettivo è: un test in cui prevedono risposte a scelta multipla  
 251)Il test di intelligenza è: un test cognitivo  
 252)I punteggi grezzi della WAIS vanno da 0 a un massimo di: diverso da subtest a subtest  
@@ -2189,7 +2220,8 @@ comunanze: X^2 = nr^2ᶲ
 287)Differenza tra punteggio ipsativo e normativo: Il primo è il punteggio del soggetto, il secondo indica il  rapporto tra il suo punteggio e la popolazione  
 288)La ricerca nei dati d’ archivio è un metodo: disegno di ricerca NON sperimentale  
 289)Un’intervista strutturata prevede: domande prestabilite sia nella forma che nel contenuto fin  dall’inizio  
-290)Response set: la tendenza del soggetto a fornire risposte uguali in maniera meccanica  291)PPAC cosa rappresenta: punti ponderati di attenzione e concentrazione 
+290)Response set: la tendenza del soggetto a fornire risposte uguali in maniera meccanica  
+291)PPAC cosa rappresenta: punti ponderati di attenzione e concentrazione 
 292)Item con target distrattori prevedono: risposte politomiche  
 293)Per la taratura anziani si usano: punteggi ponderati per età 
 294)Tra gli effetti più significativi determinati dall’azione condivisa dei lavoratori e dell’azienda vi sono: un miglioramento dell’immagine aziendale  
@@ -2197,7 +2229,10 @@ comunanze: X^2 = nr^2ᶲ
 296)La trasformata di Fisher consente di trasformare: i coefficienti di correlazioni in punti z’ che hanno  varianza più omogenea 
 297)Il questionario SOS è stato costituito specificatamente per: gli operatori bancari 
 298)Nella tecnica P dell’analisi fattoriale la matrice dei dati è data dai punteggi dello stesso soggetto: misurati in momenti diversi su più variabili 
-299)In analisi fattoriale, l’eingevaule è la somma: delle saturazioni al quadrato dei diversi fattori 300)Le scale di controllo nell’MMPI servono: per valutare la validità delle risposte dei soggetti 301)Il test di velocità prevede : un intervallo di tempo prestabilito ed uguale per tutti i soggetti 302)Funzione corticotropina: inibisce le funzioni vegetative quali l’alimentazione e la riproduzione  303)Il ragionamento aritmetico è un sottoscala: della WAIS 
+299)In analisi fattoriale, l’eingevaule è la somma: delle saturazioni al quadrato dei diversi fattori 
+300)Le scale di controllo nell’MMPI servono: per valutare la validità delle risposte dei soggetti 
+301)Il test di velocità prevede : un intervallo di tempo prestabilito ed uguale per tutti i soggetti 
+302)Funzione corticotropina: inibisce le funzioni vegetative quali l’alimentazione e la riproduzione  303)Il ragionamento aritmetico è un sottoscala: della WAIS 
 304)L’errore di sostituzione è dato dal prodotto dell’errore standard di misura con la radice quadrata: dell’attendibilità 
 305)Lo stress è considerato come uno stato caratterizzato da: alti livelli di eccitazione e ansia spesso  accompagnati da senso di inadeguatezza 
 306)Gli item con target e distrattori prevedono risposte di tipo: politomico 
@@ -2209,7 +2244,8 @@ La corretta relazione tra il coefficiente phi
 Item che ha ricevuto più risposte nella sezione 3 
 312)Un test di massima performance serve per: Misurare le caratteristiche psicologiche spingendo i  soggetti a dare il meglio di se. 
 313) La dimensione Logorio del questionario SOS correla con le scale cliniche della SCL-90R? Si con tutte e  le correlazioni sono positive. 
-314) Quale metodo è stato utilizzato per la costruzione del questionario SOS? Il metodo empirico 315)La maggior parte dei soggetti ha come titolo di studio: media superiore 
+314) Quale metodo è stato utilizzato per la costruzione del questionario SOS? Il metodo empirico 
+315)La maggior parte dei soggetti ha come titolo di studio: media superiore 
 316)Il test di Rorschach è: un test proiettivo 
 317)Trasformazione permissibile a rapporto: descrivono l’equazione y=ax 
 318)Matrice di saturazione: riporta i valori di ciascuna variabile con i costrutti 
@@ -2217,10 +2253,13 @@ Item che ha ricevuto più risposte nella sezione 3
 320)R-phi: entrambe le variabili su scala nominale  
 321)Confronto del punteggio con la media del gruppo dei soggetti da un punteggio: normativo 
 322)Teoria della rappresentazione: stabilisce che l’assegnazione dei numeri agli elementi empirici deve  essere tale da preservare la proprietà delle relazioni o delle operazioni 
-323)Quale metodo permette di misurare la dimensionalità degli item di un test: forme parallele 324)I valori dell’Adjusted Goodness Fit Index variano: da 0 ad 1  
+323)Quale metodo permette di misurare la dimensionalità degli item di un test: forme parallele 
+324)I valori dell’Adjusted Goodness Fit Index variano: da 0 ad 1  
 325)Cos’è la matrice dei residui, in analisi fattoriale? La matrice delle differenze tra correlazioni osservate e  correlazioni ricavate dalle saturazioni  
 326)Per stabilire se un soggetto rientra nella norma statistica, occorre fare un test statistico…grandi  dimensioni, allora si può ricorrere: Al test dei punti z  
-327)Le scale di controllo nell’MMPI servono: Per valutare la validità delle risposte dei soggetti  328)Nell’analisi fattoriale esplorativa del questionario SOS, quanti fattori latenti: 3  329)L’impulsione è una forma di: Response set  
+327)Le scale di controllo nell’MMPI servono: Per valutare la validità delle risposte dei soggetti  
+328)Nell’analisi fattoriale esplorativa del questionario SOS, quanti fattori latenti: 3  
+329)L’impulsione è una forma di: Response set  
 330)Il coping è definito come: Un cambiamento dell’ambiente da parte del soggetto…il suo raggiungimento  
 331)Il modello JD-R di Bakker e Demerouti deriva: Dall’unione del modello Demand-Control di Karasek e dal  modello Effort-Reward Imbalance di Siegrist  
 332)Un modo per ridurre i response set è: Rendere il test di facile esecuzione  
@@ -2241,7 +2280,8 @@ Item che ha ricevuto più risposte nella sezione 3
 348)Secondo il modello Effort-Reward Imbalance di Siergrist, cosa causa lo stress lavorativo? Lo squilibrio  tra lo sforzo lavorativo richiesto dall’organizzazione e la ricompensa data al lavoratore. 349)Le tetradi, in analisi fattoriale, si annullano perché corrispondono: alla differenza tra i prodotti delle  stesse saturazioni.  
 350)Nell’intervista psicologica le domande primarie sono: quelle che introducono un nuovo tema durante  l’intervista. 
 351)In base ai dati ottenuti dall’analisi fattoriale esplorativa, il numero di item della Parte 1 del  questionario SOS è stato ridotto a: 50  
-352)Un elevato livello di mindfulness è associato a: alti livelli cognitivi ed emotivi di sensibilità all’errore. 353)In analisi fattoriale, la procedura per l’estrazione di fattori basata sulle saturazioni maggiori di 0,30  stabilisce che il numero di fattori corrisponde a tutti i fattori che hanno: almeno una saturazione >0,30. 354)L’intervista strutturata si caratterizza per: il fatto che i contenuti e la sequenza delle domande sono  prefissati all’inizio. 
+352)Un elevato livello di mindfulness è associato a: alti livelli cognitivi ed emotivi di sensibilità all’errore. 
+353)In analisi fattoriale, la procedura per l’estrazione di fattori basata sulle saturazioni maggiori di 0,30  stabilisce che il numero di fattori corrisponde a tutti i fattori che hanno: almeno una saturazione >0,30. 354)L’intervista strutturata si caratterizza per: il fatto che i contenuti e la sequenza delle domande sono  prefissati all’inizio. 
 355) Nel modello delle equazioni di LISREL di Joreskog e Sorbom a differenza delle equazioni dell’EQS di  Bentler, sono previsti quanti tipi variabili? 4 variabili. 
 356) Cos’è il metodo del centroide di Thurstone: è un metodo di estrazione dei fattori che si presta ai  calcoli manuali 
 357) è sempre corretto interpretare il primo fattore estratto nell’analisi fattoriale come il fattore  generale? NO 
@@ -2249,14 +2289,16 @@ Item che ha ricevuto più risposte nella sezione 3
 359) i test non-verbali sono test predisposti… per analfabeti 
 360) in analisi fattoriale la comunanza indica… la saturazione al quadrato (???) 
 361) il processo di operazionalizzazione di un costrutto consiste: nell’individuare gli indicatori  comportamentali che sono considerati, sulla base di una teoria psicologica, le sue manifestazioni operative 362)Nei modelli di equazioni strutturali, per parametro libero si intende che il valore del… parametro può  variare 
-363)La validità convergente indica il grado di accordo tra due o piu misure dello stesso costrutto 364) esiste una correlazione significativa tra le dimensioni del questionario SOS? Si, e le correlazioni sono  tutte positive e significative  
+363)La validità convergente indica il grado di accordo tra due o piu misure dello stesso costrutto 
+364) esiste una correlazione significativa tra le dimensioni del questionario SOS? Si, e le correlazioni sono  tutte positive e significative  
 365) se il punteggio di un test che misura la “ruminazione” ha un’elevata correlazione positiva con il  punteggio ad un altro test che misura…. Validità convergente  
 366) la dimensione svalutazione del questionario SOS correla significativamente con la scala del sonno nella SCL-90R? Si, e positivamente  
 367)il differenziale semantico è un item che prevede: scale bipolari 
 368) in cosa consiste la procedura split-half? Un test viene suddiviso a metà per calcolare la correlazione  tra le due parti 
 369) Che cos’è lo Scree-plot di Cattell? Un grafico che in ordinata ha gli eigenvalue e in ascissa il numero di  fattori generali 
 370) uno dei problemi nel calcolo dell’attendibilità test-retest, è stabilire la lunghezza dell’intervallo tra  la prima e la seconda somministrazione de reattivo. Perché? Perché i soggetti possono ricordare le  risposte  
-371) Il punteggio vero è dato da: il PRODOTTO del punteggio osservato e dell’errore 372) il test di Rorschach è: un test proiettivo 
+371) Il punteggio vero è dato da: il PRODOTTO del punteggio osservato e dell’errore 
+372) il test di Rorschach è: un test proiettivo 
 373) cos’è una comunanza o comunalità, in analisi fattoriale? È la somma delle saturazioni al quadrato per  le diverse variabili
 374) una trasformazione permissibile è: una nuova scala che mantiene inalterate le proprietà della scala  originaria 
 375) la stima del punteggio vero è data dalla somma dei punteggi osservati: e del coefficiente di  attendibilità  
