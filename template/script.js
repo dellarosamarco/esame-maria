@@ -2,12 +2,12 @@ const questions = [
     {
         "title": "1) PROCEDURA SPLIT-HALF: ",
         "answers": [
-            "a)civido il test in quattro parti ",
-            "b)civido il test in tre parti ",
-            "c)civido il testa metà ",
-            "c)civido il test in piùcicue parti "
+            "a) divido il test in quattro parti ",
+            "b) divido il test in tre parti ",
+            "c) divido il testa metà ",
+            "c) divido il test in piùcicue parti "
         ],
-        "correctAnswer": "1) PROCEDURA SPLIT-HALF:cividoa metà il test "
+        "correctAnswer": "divido a metà il test "
     },
     {
         "title": "2) L’attendibilità nella WAIS-R ècataca: ",
@@ -52,9 +52,9 @@ const questions = [
     {
         "title": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? ",
         "answers": [
-            "a)aNOVA ",
+            "a) aNOVA ",
             "b) Tci Student ",
-            "c)chi-quadro ",
+            "c) chi-quadro ",
             "d) Test F"
         ],
         "correctAnswer": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? Tci Student  "
@@ -82,12 +82,12 @@ const questions = [
     {
         "title": "9)cOME SI RIDUCE UN RESPONSE TEST? ",
         "answers": [
-            "a)aumentando lacomplessitàcel test ",
-            "b)accorciando il tempoci esecuzione ",
+            "a) aumentando lacomplessitàcel test ",
+            "b) accorciando il tempoci esecuzione ",
             "c) Rendere il testci facile esecuzione ",
             "d) Utilizzando più partecipanti "
         ],
-        "correctAnswer": "9)cOME SI RIDUCE UN RESPONSE TEST? Rendere il testci facile esecuzione "
+        "correctAnswer": "9)COME SI RIDUCE UN RESPONSE TEST? Rendere il testci facile esecuzione "
     },
     {
         "title": "10) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècatacallacorrelazione: ",
@@ -112,12 +112,12 @@ const questions = [
     {
         "title": "12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si scartano item: ",
         "answers": [
-            "a)con indicici fedeltàbassi ",
-            "b)con indicici fedeltàalti ",
-            "c)concorrelazioni elevate ",
-            "d)concorrelazionibasse"
+            "a) con indicici fedeltà bassi ",
+            "b) con indicici fedeltàalti ",
+            "c) con correlazioni elevate ",
+            "d) con correlazioni basse"
         ],
-        "correctAnswer": "12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si  scartano item:con indicici fedeltàbassi  "
+        "correctAnswer": "con indicici fedeltà bassi  "
     },
     {
         "title": "13) Ilbig five Questionnaire è: ",
