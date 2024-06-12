@@ -2246,7 +2246,8 @@ comunanze: X^2 = nr^2ᶲ
 305)Lo stress è considerato come uno stato caratterizzato da: alti livelli di eccitazione e ansia spesso  accompagnati da senso di inadeguatezza 
 306)Gli item con target e distrattori prevedono risposte di tipo: politomico 
 307)La formula per con cui stabilire il numero minimo di item necessari per avere un test valido è una  variante? Della formula di Spearman-Brown  
-308)Il teorema di rappresentazione, nell’ambito della teoria di misurazione, stabilisce che: è possibile  associare una struttura empirica, con determinate proprietà, ad una numerica con uguali proprietà 309)Se devo stabilire l’esistenza di una differenza significativa tra le medie di due campioni tramite il test  dei punti z quale tra le seguenti formule devo applicare? 
+308)Il teorema di rappresentazione, nell’ambito della teoria di misurazione, stabilisce che: è possibile  associare una struttura empirica, con determinate proprietà, ad una numerica con uguali proprietà 
+309)Se devo stabilire l’esistenza di una differenza significativa tra le medie di due campioni tramite il test  dei punti z quale tra le seguenti formule devo applicare? 
 : 
 Formula corretta a Cronbach:  
 La corretta relazione tra il coefficiente phi  
