@@ -22,15 +22,15 @@ const questions = [
     {
         "title": "3) Esempioci procedura split-half: ",
         "answers": [
-            "a)civisionecel test in parti non equivalenti ",
-            "b)civisionecel test in parti inbaseal gradocicifficoltà ",
-            "c)civisionea metàcel testcheconsente un’analisi fattoriale ",
-            "d)civisionecel test inbasealla lunghezzacellecomande "
+            "a)divisione del test in parti non equivalenti ",
+            "b)divisione del test in parti in base al gradocicifficoltà ",
+            "c)divisione a metà del test che consente un’analisi fattoriale ",
+            "d)divisione del test in base alla lunghezza delle domande "
         ],
         "correctAnswer": ":civisionea metàcel testcheconsente un’analisi fattoriale  "
     },
     {
-        "title": "4) Quali fattori misurano lacorrelazione tra 2 test: ",
+        "title": "4) Quali fattori misurano la correlazione tra 2 test: ",
         "answers": [
             "a) Spearmanbrown ",
             "b) Pearson ",
@@ -40,7 +40,7 @@ const questions = [
         "correctAnswer": ": Spearmanbrown, pearson, phi tetracorico e  puntobiseriale  "
     },
     {
-        "title": "5) FORMULAcONcUI STABILIRE UN NUMERO MINIMOcI ITEM PERaVERE UN TEST VALIDO È UNA VARIANTE: ",
+        "title": "5) FORMULAcONcUI STABILIRE UN NUMERO MINIMO DI ITEM PER AVERE UN TEST VALIDO È UNA VARIANTE: ",
         "answers": [
             "a) Formulaci Pearson ",
             "b) Formulacicronbach ",
@@ -50,11 +50,11 @@ const questions = [
         "correctAnswer": ":cella formulaci spearmanbrown "
     },
     {
-        "title": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? ",
+        "title": "6) Quale test si usa per la significatività del coefficiente bravais-person? ",
         "answers": [
-            "a) aNOVA ",
-            "b) Tci Student ",
-            "c) chi-quadro ",
+            "a) ANOVA ",
+            "b) T di Student ",
+            "c) Chi-quadro ",
             "d) Test F"
         ],
         "correctAnswer": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? Tci Student  "
