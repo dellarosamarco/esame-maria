@@ -1440,7 +1440,8 @@ b) Della varianza
 c) Della correlazione 
 d) Del punteggio grezzo
 305) Lo stress è considerato come uno stato caratterizzato da: 
-a) Alti livelli di eccitazione e ansia spesso accompagnati da senso di inadeguatezza b) Bassi livelli di attenzione e concentrazione 
+a) Alti livelli di eccitazione e ansia spesso accompagnati da senso di inadeguatezza 
+b) Bassi livelli di attenzione e concentrazione 
 c) Bassi livelli di ansia e preoccupazione 
 d) Senso di soddisfazione e realizzazione personale 
 306) Gli item con target e distrattori prevedono risposte di tipo: 
@@ -1459,7 +1460,8 @@ b) Non è possibile rappresentare dati empirici in forma numerica
 c) È possibile rappresentare dati numerici in forma empirica 
 d) Le proprietà empiriche non possono essere rappresentate numericamente 
 310) Un test di massima performance serve per: 
-a) Misurare le caratteristiche psicologiche spingendo i soggetti a dare il meglio di sé b) Valutare le abilità cognitive in condizioni di stress 
+a) Misurare le caratteristiche psicologiche spingendo i soggetti a dare il meglio di sé 
+b) Valutare le abilità cognitive in condizioni di stress 
 c) Misurare le performance di base senza stimoli esterni 
 d) Valutare la stabilità emotiva dei soggetti 
 311) La dimensione Logorio del questionario SOS correla con le scale cliniche della SCL-90R? 
@@ -1467,7 +1469,8 @@ a) Sì, con tutte e le correlazioni sono positive
 b) No, non vi è correlazione tra queste dimensioni 
 c) Solo con alcune scale cliniche, ma non con tutte 
 d) La correlazione è negativa 
-312) Quale metodo è stato utilizzato per la costruzione del questionario SOS? a) Il metodo empirico 
+312) Quale metodo è stato utilizzato per la costruzione del questionario SOS? 
+a) Il metodo empirico 
 b) Il metodo deduttivo 
 c) Il metodo statistico 
 d) Il metodo fenomenologico
@@ -1501,14 +1504,17 @@ a) Entrambe le variabili su scala nominale
 b) Entrambe le variabili su scala ordinale 
 c) Una variabile su scala nominale e l'altra su scala ordinale 
 d) Una variabile su scala ordinale e l'altra su scala intervallo 
-321) Confronto del punteggio con la media del gruppo dei soggetti da un punteggio: a) Normativo 
+321) Confronto del punteggio con la media del gruppo dei soggetti da un punteggio: 
+a) Normativo 
 b) Ipsativo 
 c) Standardizzato 
 d) Percentile 
 322) Teoria della rappresentazione: 
 a) Stabilisce che l’assegnazione dei numeri agli elementi empirici deve essere tale da preservare la proprietà delle relazioni o delle operazioni 
-b) Stabilisce che i test devono rappresentare accuratamente la popolazione di riferimento c) Afferma che i numeri assegnati agli elementi empirici sono arbitrari d) Sostiene che i test devono essere rappresentativi solo di una parte della popolazione
-323) Quale metodo permette di misurare la dimensionalità degli item di un test: a) Analisi fattoriale 
+b) Stabilisce che i test devono rappresentare accuratamente la popolazione di riferimento 
+c) Afferma che i numeri assegnati agli elementi empirici sono arbitrari d) Sostiene che i test devono essere rappresentativi solo di una parte della popolazione
+323) Quale metodo permette di misurare la dimensionalità degli item di un test: 
+a) Analisi fattoriale 
 b) Analisi discriminante 
 c) Regressione multipla 
 d) Forme parallele 
