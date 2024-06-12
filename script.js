@@ -1313,7 +1313,8 @@ b) Un cambiamento dell'ambiente lavorativo da parte del soggetto che non si iden
 c) Uno stato di benessere psicologico 
 d) Gli sforzi attuati per gestire lo stress e risolvere i problemi 
 284) Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: a) Maggiore è il carico lavorativo, minore sarà la motivazione 
-b) Maggiore è la percezione delle risorse possedute, tanto più alta sarà la motivazione c) Il carico lavorativo e la motivazione non sono correlati 
+b) Maggiore è la percezione delle risorse possedute, tanto più alta sarà la motivazione 
+c) Il carico lavorativo e la motivazione non sono correlati 
 d) Maggiore è la competizione, maggiore sarà la motivazione 
 285) Xanthopolou, Bakker, Demerouti e Shaufeli (2007) hanno esaminato il ruolo di tre risorse personali nel predire l’esaurimento ed il coinvolgimento lavorativo, esse sono: a) Capacità cognitive, competenze tecniche, esperienza lavorativa 
 b) Autostima, intelligenza emotiva, assertività 
@@ -1335,11 +1336,15 @@ b) Disegno di ricerca longitudinale
 c) Disegno di ricerca non sperimentale 
 d) Disegno di ricerca correlazionale
 289) Un’intervista strutturata prevede: 
-a) Domande prestabilite sia nella forma che nel contenuto fin dall’inizio b) Domande spontanee e non strutturate 
+a) Domande prestabilite sia nella forma che nel contenuto fin dall’inizio 
+b) Domande spontanee e non strutturate 
 c) Domande aperte senza un ordine specifico 
 d) Domande prestabilite solo nella forma 
 290) Response set: 
-a) La tendenza del soggetto a fornire risposte diverse in maniera casuale b) La tendenza del soggetto a fornire risposte uguali in maniera meccanica c) La tendenza del soggetto a rispondere solo a una parte delle domande d) La tendenza del soggetto a rispondere solo alle domande più difficili 
+a) La tendenza del soggetto a fornire risposte diverse in maniera casuale 
+b) La tendenza del soggetto a fornire risposte uguali in maniera meccanica 
+c) La tendenza del soggetto a rispondere solo a una parte delle domande 
+d) La tendenza del soggetto a rispondere solo alle domande più difficili 
 291) PPAC cosa rappresenta: 
 a) Punteggi ponderati di attenzione e concentrazione 
 b) Parametri psicologici di adattamento al cambiamento 
@@ -1366,10 +1371,12 @@ b) La media delle distribuzioni campionarie
 c) La deviazione standard della popolazione 
 d) La varianza della popolazione 
 296) La trasformata di Fisher consente di trasformare: 
-a) I coefficienti di correlazioni in punti z’ che hanno varianza più omogenea b) I dati grezzi in punteggi standard 
+a) I coefficienti di correlazioni in punti z’ che hanno varianza più omogenea 
+b) I dati grezzi in punteggi standard 
 c) I punteggi ponderati in punteggi normalizzati 
 d) I punteggi grezzi in punteggi standardizzati
-297) Il questionario SOS è stato costituito specificatamente per: a) Gli operatori bancari 
+297) Il questionario SOS è stato costituito specificatamente per: 
+a) Gli operatori bancari 
 b) Gli insegnanti 
 c) Gli studenti universitari 
 d) I lavoratori sociali 
@@ -1390,10 +1397,12 @@ c) Per valutare la personalità dei soggetti
 d) Per valutare l'intelligenza dei soggetti 
 301) Il test di velocità prevede: 
 a) Un intervallo di tempo prestabilito ed uguale per tutti i soggetti 
-b) Un intervallo di tempo variabile a seconda delle capacità del soggetto c) Nessun intervallo di tempo specifico 
+b) Un intervallo di tempo variabile a seconda delle capacità del soggetto 
+c) Nessun intervallo di tempo specifico 
 d) Un intervallo di tempo diverso per ogni soggetto 
 302) Funzione corticotropina: 
-a) Inibisce le funzioni vegetative quali l’alimentazione e la riproduzione b) Stimola la produzione di cortisolo 
+a) Inibisce le funzioni vegetative quali l’alimentazione e la riproduzione 
+b) Stimola la produzione di cortisolo 
 c) Regola la pressione sanguigna 
 d) Controlla la produzione di insulina 
 303) Il ragionamento aritmetico è un sottoscala: 
