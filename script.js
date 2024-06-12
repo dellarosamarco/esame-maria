@@ -6,7 +6,8 @@ const questions = [
             "b)civido il test in tre parti ",
             "c)civido il testa metà ",
             "c)civido il test in piùcicue parti "
-        ]
+        ],
+        "correctAnswer": "1) PROCEDURA SPLIT-HALF:cividoa metà il test "
     },
     {
         "title": "2) L’attendibilità nella WAIS-R ècataca: ",
@@ -15,7 +16,8 @@ const questions = [
             "b) Solo test-retest ",
             "c) Split-half tranne per memoriacicifre e ragionamentoaritmeticocalcolatecon test-retest ",
             "c) Test-retest tranne per memoriacicifre e ragionamentoaritmetico "
-        ]
+        ],
+        "correctAnswer": "2) L’attendibilità nella WAIS-R ècataca: metodo split-half tranne memoriacicifre e  "
     },
     {
         "title": "3) Esempioci procedura split-half: ",
@@ -24,7 +26,8 @@ const questions = [
             "b)civisionecel test in parti inbaseal gradocicifficoltà ",
             "c)civisionea metàcel testcheconsente un’analisi fattoriale ",
             "c)civisionecel test inbasealla lunghezzacellecomande "
-        ]
+        ],
+        "correctAnswer": "3) Esempioci procedura split-half:civisionea metàcel testcheconsente un’analisi fattoriale  "
     },
     {
         "title": "4) Quali fattori misurano lacorrelazione tra 2 test: ",
@@ -33,7 +36,8 @@ const questions = [
             "b) Pearson ",
             "c) Phi tetracorico ",
             "c) Puntobiseriale "
-        ]
+        ],
+        "correctAnswer": "4) Quali fattori misurano lacorrelazione tra 2 test: Spearmanbrown, pearson, phi tetracorico e  puntobiseriale  "
     },
     {
         "title": "5) FORMULAcONcUI STABILIRE UN NUMERO MINIMOcI ITEM PERaVERE UN TEST VALIDO È UNA VARIANTE: ",
@@ -42,7 +46,8 @@ const questions = [
             "b) Formulacicronbach ",
             "c) Formulaci Spearmanbrown ",
             "c) Formulaci Kuder-Richardson (KR-20) "
-        ]
+        ],
+        "correctAnswer": "5) FORMULAcONcUI STABILIRE UN NUMERO MINIMOcI ITEM PERaVERE UN TEST VALIDO È  UNA VARIANTE:cella formulaci spearmanbrown "
     },
     {
         "title": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? ",
@@ -51,7 +56,8 @@ const questions = [
             "b) Tci Student ",
             "c)chi-quadro ",
             "c) Test F"
-        ]
+        ],
+        "correctAnswer": "6) Quale test si usa per la significativitàcelcoefficientebravais-person? Tci Student  "
     },
     {
         "title": "7) Formula tci studentcon r pearson: ",
@@ -60,7 +66,8 @@ const questions = [
             "b) t=rnt = \frac{r}{sqrt{n}}t=nr ",
             "c) t=rn−2t = \frac{r}{n-2}t=n−2r ",
             "c) t=n−2rt = \frac{n-2}{r}t=rn−2 "
-        ]
+        ],
+        "correctAnswer": "7) Formula tci studentcon r pearson: "
     },
     {
         "title": "8)cOS’È L’IMPULSIONE? ",
@@ -69,7 +76,8 @@ const questions = [
             "b) Un tipoci test psicologico ",
             "c) Un'analisi statistica ",
             "c) Un response test "
-        ]
+        ],
+        "correctAnswer": "8)cOS’E’ L’IMPULSIONE? UN RESPONSE TEST "
     },
     {
         "title": "9)cOME SI RIDUCE UN RESPONSE TEST? ",
@@ -78,7 +86,8 @@ const questions = [
             "b)accorciando il tempoci esecuzione ",
             "c) Rendere il testci facile esecuzione ",
             "c) Utilizzando più partecipanti "
-        ]
+        ],
+        "correctAnswer": "9)cOME SI RIDUCE UN RESPONSE TEST? Rendere il testci facile esecuzione "
     },
     {
         "title": "10) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècatacallacorrelazione: ",
@@ -87,7 +96,8 @@ const questions = [
             "b)allacorrelazione tra predittori moltiplicata percento ",
             "c)alla radice quadratacellacorrelazione tra predittori ",
             "c)alla sommacellacorrelazione tra predittori e la lorocifferenza "
-        ]
+        ],
+        "correctAnswer": "10) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata callacorrelazione:al quadrato tra predittori moltiplicata percento . "
     },
     {
         "title": "11) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata: ",
@@ -96,7 +106,8 @@ const questions = [
             "b)calla radice quadratacellacorrelazione tra predittori ",
             "c)calla sommacellacorrelazione tra predittori e la lorocifferenza ",
             "c)al quadrato tra predittori moltiplicata percento "
-        ]
+        ],
+        "correctAnswer": "11) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata:callacorrelazioneal quadratocei predittori moltiplicata percento = ��2��100 "
     },
     {
         "title": "12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si scartano item: ",
@@ -105,7 +116,8 @@ const questions = [
             "b)con indicici fedeltàalti ",
             "c)concorrelazioni elevate ",
             "c)concorrelazionibasse"
-        ]
+        ],
+        "correctAnswer": "12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si  scartano item:con indicici fedeltàbassi  "
     },
     {
         "title": "13) Ilbig five Questionnaire è: ",
@@ -114,7 +126,8 @@ const questions = [
             "b) Un reattivocompostoca 50 itemche misura 3 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale ",
             "c) Un reattivocompostoca 200 itemche misura 7 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale ",
             "c) Un reattivocompostoca 80 itemche misura 4 fattorici personalità estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale "
-        ]
+        ],
+        "correctAnswer": "13) Ilbig five Questionnaire è: un reattivocompostoca 132 itemche misura 5 fattorici  personalità: estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale; 14) Nelbig five Questionnaire, la scalacell’energia misura: Il livellocicinamismocel comportamento. "
     },
     {
         "title": "14) Nelbig five Questionnaire, la scalacell’energia misura: ",
@@ -132,7 +145,8 @@ const questions = [
             "b) L'apertura mentale ",
             "c) L'estroversione ",
             "c) La stabilità emotiva "
-        ]
+        ],
+        "correctAnswer": "15) Scala ScrupolositàceibIG FIVEcosa misura? Il Sensocell’Ordinecel soggetto  "
     },
     {
         "title": "16) La scalacella stabilità emotiva la ritroviamo: ",
@@ -141,7 +155,8 @@ const questions = [
             "b) Inaltri testci personalità ",
             "c) Nelle scaleci intelligenza ",
             "c) Nei testciabilità motorie "
-        ]
+        ],
+        "correctAnswer": "16) La scalacella stabilità emotiva la ritroviamo: nelbig five questionaire  "
     },
     {
         "title": "17) Nelbig Five Questionnaire, le sotto scalecellacoscienziosità sono: ",
@@ -150,7 +165,8 @@ const questions = [
             "b) L'estroversione e l'apertura mentale. ",
             "c) La stabilità emotiva e la gradevolezza. ",
             "c) L'energia e lacooperatività."
-        ]
+        ],
+        "correctAnswer": "17) Nelbig Five Questionnaire, le sotto scalecellacoscienziosità sono: la scrupolosità e la  perseveranza. "
     },
     {
         "title": "18) Leattivitàcelbig Five: ",
@@ -159,7 +175,8 @@ const questions = [
             "b) Misurano leabilità motorie ",
             "c) Misurano i trattici personalità ",
             "c)cooperatività tra le persone "
-        ]
+        ],
+        "correctAnswer": "18) Leattivitàcelbig Five:cooperatività tra le persone. "
     },
     {
         "title": "19) Manipolazione indipendente: ",
@@ -168,7 +185,8 @@ const questions = [
             "b)coinvolge lacreazioneci un gruppocicontrollo e un gruppo sperimentale ",
             "c) Non è importante nelle ricerche psicologiche ",
             "c)coinvolge la manipolazionecelle variabili estranee "
-        ]
+        ],
+        "correctAnswer": "19) Manipolazione indipendente:creare un gruppocicontrollo e gruppo sperimentale.  20) Scala Likert: politomica, graduabile "
     },
     {
         "title": "20) Scala Likert: ",
@@ -186,7 +204,8 @@ const questions = [
             "b) Monotomica ",
             "c)cicotomica ",
             "c) Intervallica "
-        ]
+        ],
+        "correctAnswer": "21) SCALA THURSTONE:cicotomica "
     },
     {
         "title": "22) La formulaci Kunder Richardson serveacalcolare l’attendibilitàci un test: ",
@@ -195,7 +214,8 @@ const questions = [
             "b)con risposte politomiche (KR-30). ",
             "c)con risposteaperte (KR-10). ",
             "c)con risposte multiple (KR-50). "
-        ]
+        ],
+        "correctAnswer": "22) La formulaci Kunder Richardson serveacalcolare l’attendibilitàci un test:con risposte cicotomiche (KR-20). "
     },
     {
         "title": "23) KR-20: ",
@@ -204,7 +224,8 @@ const questions = [
             "b)attendibilità per gli item politomici ",
             "c)attendibilità per gli itemaperti ",
             "c)attendibilità per gli item multipli "
-        ]
+        ],
+        "correctAnswer": "23) KR-20:attendibiltà per gli itemcicotomici "
     },
     {
         "title": "24) Lacipendenza tra 2 variabili può essere rappresentata tramite: ",
@@ -213,7 +234,8 @@ const questions = [
             "b) Istogramma. ",
             "c) Graficoa torta. ",
             "c) Tabellacicontingenza."
-        ]
+        ],
+        "correctAnswer": "24) Lacipendenza tra 2 variabili può essere rappresentata tramite:ciagrammacicispersione . 25)ciagrammacicispersione è: unciagrammacartesianoche rappresenta lacorrelazione tra  2 variabili. "
     },
     {
         "title": "25)ciagrammacicispersione è: ",
@@ -231,7 +253,8 @@ const questions = [
             "b) Il gradocicoerenza internaci un test. ",
             "c) Il gradoci generalizzazionecei risultati. ",
             "c) Il gradociaccuratezzacella misura. "
-        ]
+        ],
+        "correctAnswer": "26) La validità orientataalcriterio indica: il gradocicorrispondenza tra una misura e ilcriterio ci riferimento.  "
     },
     {
         "title": "27)cos’è il fattore G nell’analisi fattoriale? ",
@@ -240,7 +263,8 @@ const questions = [
             "b) È un fattore specificoci un test ",
             "c) È un fattoreche misura la validitàcel test ",
             "c) È un fattoreche indica la variabilitàcella risposta "
-        ]
+        ],
+        "correctAnswer": "27)cos’è il fattore G nell’analisi fattoriale? È un fattore generalechecetermina il punteggio cel test (componente invariabile intelligenza) "
     },
     {
         "title": "28) Fattore Guttman: ",
@@ -249,7 +273,8 @@ const questions = [
             "b) Eigenvalue minoreci 1 ",
             "c) Fattore specificoci un test ",
             "c) Fattoreche misura l'affidabilitàcel test "
-        ]
+        ],
+        "correctAnswer": "28) Fattore Guttman: eigenvalue maggioreci 1  "
     },
     {
         "title": "29) ICarroll ipotizza: ",
@@ -258,7 +283,8 @@ const questions = [
             "b) Esistenzaci un unico fattore generale ",
             "c) Esistenzaci più fattori indipendenti ",
             "c) Esistenzaci fattori specifici per ogni item "
-        ]
+        ],
+        "correctAnswer": "29) ICarroll ipotizza: esistenzaci un fattore generale G e 2 sottolivelli  "
     },
     {
         "title": "30) Per verificare la significativitàcelcoefficientecicorrelazionecibravais-Person, si ricorre: ",
@@ -267,7 +293,8 @@ const questions = [
             "b)alcoefficienteci Spearman ",
             "c)al test Fci Fisher ",
             "c)al Tci Student"
-        ]
+        ],
+        "correctAnswer": "30) Nel modelloacue fattori, inanalisi fattoriale, la matricecelle saturazioni ècomposta: calle variabili per riga ecai fattori generale e specifici percolonna. "
     },
     {
         "title": "31) Nel modelloacue fattori, inanalisi fattoriale, la matricecelle saturazioni ècomposta: ",
@@ -276,7 +303,8 @@ const questions = [
             "b)calle variabili percolonna ecai fattori generale e specifici per riga. ",
             "c)calla matricecellecorrelazioni. ",
             "c)calla matricecegli errori. "
-        ]
+        ],
+        "correctAnswer": "31) Fattore g: Fattore generale "
     },
     {
         "title": "32) Nelle equazioni matricolaricos’è la variabile latente: ",
@@ -285,7 +313,8 @@ const questions = [
             "b) Variabilecipendente ",
             "c) Variabile indipendente ",
             "c) Variabilecategorica "
-        ]
+        ],
+        "correctAnswer": "32) Nelle equazioni matricolaricos’è la variabile latente:costrutto psicologico "
     },
     {
         "title": "33) L’erroreci stimacel punteggio vero ècatocal prodottocell’errore standardci misuracon la radice quadrata: ",
@@ -294,7 +323,8 @@ const questions = [
             "b)cellacorrelazione ",
             "c)cell’attendibilità ",
             "c)cellaceviazione standard "
-        ]
+        ],
+        "correctAnswer": "33) L’erroreci stimacel punteggio vero ècatocal prodottocell’errore standardci misuracon  la radice quadrata:cell’attendibilità  "
     },
     {
         "title": "35) Nell’analisici regressione multipla R2: ",
@@ -303,7 +333,8 @@ const questions = [
             "b) Misura la proporzioneci varianza spiegatacal modello ",
             "c) Misura la varianza residuacel modello ",
             "c) Misura lacevianzacel modello "
-        ]
+        ],
+        "correctAnswer": "35) Nell’analisici regressione multipla R2:correlazione tra singoli predittori ecriterio  "
     },
     {
         "title": "36) Nell’analisici regressione multipla, icoefficientibetacei predittoricel modelloci regressionecorrispondono: ",
@@ -312,7 +343,8 @@ const questions = [
             "b)al prodotto tra ibeta standardizzati per il rapporto tra laceviazione standardcelcriterio e laceviazione standardcel predittore. ",
             "c)allacorrelazione tra predittori ecriterio ",
             "c)alla varianza spiegatacai predittori"
-        ]
+        ],
+        "correctAnswer": "36) Nell’analisici regressione multipla, icoefficientibetacei predittoricel modelloci  "
     },
     {
         "title": "37) L’erroreci stimacel punteggio osservato è: ",
@@ -321,7 +353,8 @@ const questions = [
             "b)catocallaceviazione standardcei punteggi osservaticel test moltiplicata per la radice quadratacellacorrelazione ",
             "c)catocallaceviazione standardcei punteggi osservaticel test moltiplicata per la radice quadrataci uno meno il quadratocelcoefficienteciattendibilitàcel test c)catocallaceviazione standardcei punteggi osservaticel test moltiplicata per la radice quadratacellaceviazione standardcelcriterio ",
             "38) "
-        ]
+        ],
+        "correctAnswer": "37) L’erroreci stimacel punteggio osservato è:catocallaceviazione standardcei punteggi  osservaticel test moltiplicata per la radice quadrataci uno meno il quadratocelcoefficienteci attendibilitàcel test "
     },
     {
         "title": "39)cosa significa U nella formula profeticaci Spearman-Brown? ",
@@ -330,7 +363,8 @@ const questions = [
             "b)area ",
             "c)amplificazione ",
             "c)a/p Item "
-        ]
+        ],
+        "correctAnswer": "39)cosa significa U nella formula profeticaci Spearman-Brown?a/p (item) "
     },
     {
         "title": "40) Quale metodo permetteci misurare lacimensionalitàcegli itemci un test: ",
@@ -339,7 +373,8 @@ const questions = [
             "b)a paritàci varianza si eliminano itemcon indicici fedeltàbassi ",
             "C)analisicellacevianza ",
             "c)analisicellecorrelazioni "
-        ]
+        ],
+        "correctAnswer": "40) Quale metodo permetteci misurare lacimensionalitàcegli itemci un test:a paritàci  varianza si eliminano itemcon indicici fedeltàbassi  "
     },
     {
         "title": "41)con indicici fedeltà uguali vengono scartati: ",
@@ -348,7 +383,8 @@ const questions = [
             "b) Itemconceviazione standard piùbassa ",
             "c) Itemcon varianza piùbassa ",
             "c) Itemcon varianza più elevata "
-        ]
+        ],
+        "correctAnswer": "41)Con indicici fedeltà uguali vengono scartati: itemcon varianza più elevata  "
     },
     {
         "title": "42) Indicici fedeltà quasi nulli: ",
@@ -357,7 +393,8 @@ const questions = [
             "b) Indicano unabassaattendibilitàcel test ",
             "c) Vengono ignorati nell'analisi ",
             "c) Indicano unacorrelazione perfetta tra gli item "
-        ]
+        ],
+        "correctAnswer": "42) Indicici fedeltà quasi nulli: si utilizzano per eliminare gli itemcel test  "
     },
     {
         "title": "43) Seca un test elimino gli itemcon indicici fedeltàbassi oconceviazioni standard elevate posso ottenere un test: ",
@@ -366,7 +403,8 @@ const questions = [
             "b)con un maggior numeroci item ed un’attendibilità più elevata ",
             "c)con un minor numeroci item ed un’attendibilità piùbassa ",
             "c)con un maggior numeroci item ed un’attendibilità piùbassa"
-        ]
+        ],
+        "correctAnswer": "43) Seca un test elimino gli itemcon indicici fedeltàbassi oconceviazioni standard elevate  posso ottenere un test:con un minor numeroci item ed un’attendibilità più elevata  "
     },
     {
         "title": "44)aumentando la lunghezzacel testci ‘’m’’ volte: ",
@@ -375,7 +413,8 @@ const questions = [
             "b) La varianzacei punteggi veriaumenta in progressionearitmetica (m volte) mentre la varianzacell’erroreci misuraaumenta in progressione geometrica (malla seconda volte) ",
             "c) La varianzacei punteggi veri ecell’erroreci misuraaumentano in progressione geometrica (malla seconda volte) ",
             "c) La varianzacei punteggi veri ecell’erroreci misuraaumentano in progressionearitmetica (m volte) "
-        ]
+        ],
+        "correctAnswer": "44)aumentando la lunghezzacel testci ‘’m’’ volte: la varianzacei punteggi veriaumenta in  progressione geometrica (malla seconda volte) mentre la varianzacell’erroreci misura  "
     },
     {
         "title": "45)correlazione scala nominale: ",
@@ -384,7 +423,8 @@ const questions = [
             "b) Sicalcolacon ilcoefficienteci Pearson ",
             "c) Sicalcolacon ilcoefficienteci Kendall ",
             "c) Sicalcolacon phi tetracorico "
-        ]
+        ],
+        "correctAnswer": "45)correlazione scala nominale: sicalcolacon phi tetracorico  "
     },
     {
         "title": "46)cate le variabili 1 2 3 lacorrelazione parzialeconsentecicalcolare: ",
@@ -393,7 +433,8 @@ const questions = [
             "b) Lacorrelazione tra tutte lecoppieci variabili ",
             "c) Lacorrelazione tra le variabili 1 e 2 escludendo l'effettocella variabile 3 ",
             "c) La veracorrelazione tra 1 e 2 indipendentementeca 3 "
-        ]
+        ],
+        "correctAnswer": "46)cate le variabili 1 2 3 lacorrelazione parzialeconsentecicalcolare: la veracorrelazione tra  1 e 2 indipendentementeca 3. "
     },
     {
         "title": "47) UNcAMPIONE È MOLTObUONOcON: ",
@@ -402,7 +443,8 @@ const questions = [
             "b) 200 soggetti. ",
             "c) 500 soggetti. ",
             "c) 1000 soggetti. "
-        ]
+        ],
+        "correctAnswer": "47) UNcAMPIONE È MOLTObUONOcON: 500 soggetti. "
     },
     {
         "title": "48) Validitàci forma riguarda: ",
@@ -411,7 +453,8 @@ const questions = [
             "b) Il modo incui la somministrazionecel test stimola lacollaborazionecei soggetti. ",
             "c) La strutturacel test. ",
             "c) Lacuratacel test."
-        ]
+        ],
+        "correctAnswer": "48) Validitàci forma riguarda: il modo incui la somministrazionecel test stimola la  "
     },
     {
         "title": "49) LAcORRISPONDENZA TRA LEcIVERSE FORMEcIcIVERSI TEST: ",
@@ -420,7 +463,8 @@ const questions = [
             "b) Riguarda il modo incui la somministrazionecel test stimola lacollaborazione tra soggetti. ",
             "c) Riguarda lacoerenza internacelle forme. ",
             "c) Riguarda il modo incui le forme sono equivalenti in terminicicifficoltà econtenuto. "
-        ]
+        ],
+        "correctAnswer": "49) LAcORRISPONDENZA TRA LEcIVERSE FORMEcIcIVERSI TEST: Il modo incui la  "
     },
     {
         "title": "50) Ilcampione usato per la validazionecella forma finalecella scala SOSaveva una percentualeci soggetti maschili paria: ",
@@ -429,7 +473,8 @@ const questions = [
             "b) 41,8% ",
             "c) 50% ",
             "c) 75% "
-        ]
+        ],
+        "correctAnswer": "50) Ilcampione usato per la validazionecella forma finalecella scala SOSaveva una percentualeci  soggetti maschili paria: 41,8 °/o  "
     },
     {
         "title": "51) La scalaci Marlowecrowne usata per ilcampione nella validazionecel questionario SOS eracompostaca: ",
@@ -438,7 +483,8 @@ const questions = [
             "b) 7 item ",
             "c) 9 item ",
             "c) 12 item "
-        ]
+        ],
+        "correctAnswer": "51) La scalaci Marlowecrowne usata per ilcampione nella validazionecel questionario SOS eracomposta ca: 9 item  "
     },
     {
         "title": "52) Lecimensionicella scala SOScorrelanocon la scalaci Marlowe-Crowne: ",
@@ -447,7 +493,8 @@ const questions = [
             "b) Solo lacimensione Svalutazione ",
             "c) Solo lacimensione Logorio ",
             "c) Nessunacellecimensioni "
-        ]
+        ],
+        "correctAnswer": "52) Lecimensionicella scala SOScorrelanocon la scalaci Marlowe-Crowne: solo lecimensioni  Svalutazione, Logorio,cisagio "
     },
     {
         "title": "53) La scala SOS rivelaci essere uno strumento: ",
@@ -456,7 +503,8 @@ const questions = [
             "b) Moderatamenteattendibile ",
             "c) Moltoattendibile ",
             "c) Nonattendibile "
-        ]
+        ],
+        "correctAnswer": "53) La scala SOS rivelaci essere uno strumento: moltoattendibile "
     },
     {
         "title": "54) Inche modo è statacalcolata l’attendibilitàcella scala SOS: ",
@@ -465,7 +513,8 @@ const questions = [
             "b)con l'indiceci Kuder-Richardson ",
             "c)con l’alfacicronbach ",
             "c)con ilcoefficienteci Pearson"
-        ]
+        ],
+        "correctAnswer": "54) Inche modo è statacalcolata l’attendibilitàcella scala SOS:con l’alfacicronbach; "
     },
     {
         "title": "55) Nell’analisi fattorialeconfermativacella scala SOS, GFI, NNFI,cFI sonoconsiderati significativi per valori: ",
@@ -474,7 +523,8 @@ const questions = [
             "b)compresi tra 0.50 e 0.70 ",
             "c)compresi tra 0.70 e 0.90 ",
             "c) Superioria 0.90 "
-        ]
+        ],
+        "correctAnswer": "55) Nell’analisi fattorialeconfermativacella scala SOS, GFI, NNFI,cFI sonoconsiderati significativi per  valori: superioria 0.90 "
     },
     {
         "title": "56) I punti Tcellecimensionicella scala SOS hanno media eceviazione standard paria, rispettivamente: ",
@@ -483,7 +533,8 @@ const questions = [
             "b) 100 e 15 in tutte lecimensioni ",
             "c) 75 e 5 in tutte lecimensioni ",
             "c) 60 e 20 in tutte lecimensioni "
-        ]
+        ],
+        "correctAnswer": "56) I punti Tcellecimensionicella scala SOS hanno media eceviazione standard paria, rispettivamente: "
     },
     {
         "title": "57) Ilcampione usato per la validazionecella forma finalecella scala SOS: ",
@@ -492,7 +543,8 @@ const questions = [
             "b) 225 soggetti ",
             "c) 350 soggetti ",
             "c) 500 soggetti "
-        ]
+        ],
+        "correctAnswer": "57) Ilcampione usato per la validazionecella forma finalecella scala SOS: 225 soggetti "
     },
     {
         "title": "58) Il modelloci regressione semplice, una voltacalcolata la pendenza (����) e una voltacalcolate le mediecelcriterio (Y) ecel predittore (X), qual è la formulacorretta percalcolare l’intercetta (����)cel modello? ",
@@ -501,7 +553,8 @@ const questions = [
             "b) ��0 = ��̅(media Y) + ��1��̅(media X); ",
             "c) ��0 = ��̅(media X)− ��1��̅(media Y); ",
             "c) ��0 = ��̅(media X) + ��1��̅(media Y); "
-        ]
+        ],
+        "correctAnswer": "58) Il modelloci regressione semplice, una voltacalcolata la pendenza (����) e una voltacalcolate le medie celcriterio (Y) ecel predittore (X), qual è la formulacorretta percalcolare l’intercetta (����)cel modello? ��0 = ��̅(media Y)− ��1��̅(media X); "
     },
     {
         "title": "59) La trasformazioneci Fisher genera una funzione: ",
@@ -510,7 +563,8 @@ const questions = [
             "b)caratterizzataca unacistribuzione più uniformecheasimmetrica ",
             "c)caratterizzataca unacistribuzione uniforme ",
             "c)caratterizzataca unacistribuzioneasimmetrica "
-        ]
+        ],
+        "correctAnswer": "59) La trasformazioneci Fisher genera una funzione:caratterizzataca unacistribuzione più uniformeche asimmetrica "
     },
     {
         "title": "60) Indicandocon r lacorrelazione, la trasformazioneci Fisher z’ci “r” ècatacall’equazione: ",
@@ -519,7 +573,8 @@ const questions = [
             "b) ��′ = ln(1 + ��) / ln(1 - ��) ",
             "c) ��′ = 1 / (ln(1 + ��^2)) ",
             "c) ��′ = ln(1 + ��^2) / ln(1 - ��^2)"
-        ]
+        ],
+        "correctAnswer": "60) Indicandocon r lacorrelazione, la trasformazioneci Fisher z’ci “r” ècatacall’equazione: ��′ = 1 ln 1+��2  1−�� "
     },
     {
         "title": "61) La trasformazioneci Fisherconsente: ",
@@ -528,7 +583,8 @@ const questions = [
             "b)ci trasformare i punti z1 incoefficienticorrelazionali. ",
             "c)caratterizzataca unacistribuzione più uniformecheasimmetrica ",
             "c)ci trasformare icati in unacistribuzionechi-quadrato. "
-        ]
+        ],
+        "correctAnswer": "61)La trasformazioneci Fisherconsente:ci trasformare icoefficienticorrelazionali in punti z1che hanno  una varianza più omogenea. "
     },
     {
         "title": "62) Nella regressione multiplaabbiamo: ",
@@ -537,7 +593,8 @@ const questions = [
             "b) Uncriterio ecue predittori ",
             "c) Uncriterio e più predittori ",
             "c)cuecriteri e più predittori "
-        ]
+        ],
+        "correctAnswer": "62) Nella regressione multiplaabbiamo: uncriterio e più predittori;  "
     },
     {
         "title": "63a) Nel modelloci regressione multipla, per stabilire la significativitàcei singoli predittori siceve eseguire: ",
@@ -546,7 +603,8 @@ const questions = [
             "b) UnaNOVA per icoefficientibetacel modello ",
             "c) Un testci Wald per icoefficientibetacel modello ",
             "c) Un test t per lacevianzacel modello "
-        ]
+        ],
+        "correctAnswer": "63a) Nel modelloci regressione multipla, per stabilire la significativitàcei singoli predittori siceve  eseguire: t test per icoefficientibetacel modello "
     },
     {
         "title": "63b) Nel modelloci regressione multipla, per stabilire la significativitàcel modellocompleto siceve eseguire: ",
@@ -555,7 +613,8 @@ const questions = [
             "b) Un t test per la varianza spiegatacal modello ",
             "c) Un testaNOVA per lacevianzacel modello ",
             "c) Un testci Wald per lacevianzacel modello "
-        ]
+        ],
+        "correctAnswer": "63b) Nel modelloci regressione multipla, per stabilire la significatività modellocompleto siceve eseguire:  un F test per la varianza spiegatacal modello "
     },
     {
         "title": "64) Nelcalcoloci regressione multipla esistono: ",
@@ -564,7 +623,8 @@ const questions = [
             "b) Solo uncoefficientebcacalcolare ",
             "c) Solo uncoefficiente Rcacalcolare ",
             "c) Numerosicoefficienti Rcacalcolare "
-        ]
+        ],
+        "correctAnswer": "64) Nelcalcoloci regressione multipla esistono: numerosicoefficientibcacalcolare  65) Nel modelloci regressione multiplaa 5 predittoricon uncampioneci 20 soggetti i gradici libertà  sono: 14  "
     },
     {
         "title": "65) Nel modelloci regressione multiplaa 5 predittoricon uncampioneci 20 soggetti i gradici libertà sono: ",
@@ -582,7 +642,8 @@ const questions = [
             "b)alcoefficienteciceterminazionechea voltecoincidecon la pendenzacella retta ",
             "c)alla varianza residuacel modello ",
             "c)allacorrelazione tracriterio e predittore "
-        ]
+        ],
+        "correctAnswer": "66) r2 nella regressione multiplacorrisponde:alcoefficienteciceterminazionechea voltecoincidecon la  pendenzacella retta  "
     },
     {
         "title": "67)cos’è la saturazionecella variabile? ",
@@ -591,7 +652,8 @@ const questions = [
             "b) Un indiceche esprime ",
             "C) Un indiceche esprime lacorrelazione tra la variabile ealtre variabili nel modello. ",
             "c) Un indiceche esprime lacorrelazione tra la variabile e il predittore. "
-        ]
+        ],
+        "correctAnswer": "67)cos’è la saturazionecella variabile? Un indiceche esprime lacorrelazione tra la variabile e il fattore  latente. "
     },
     {
         "title": "68) La formula ���� ������������, incui S�� è laceviazione standardcei punteggi osservati,costituisce: ",
@@ -600,7 +662,8 @@ const questions = [
             "b) Lacorrelazioneci Pearson ",
             "c) Laceviazione standardcelcampione ",
             "c) Ilcoefficientecicorrelazioneci Spearman "
-        ]
+        ],
+        "correctAnswer": "68) La formula ���� ������������, incui S�� è laceviazione standardcei punteggi osservati,costituisce:  laceviazione standardcell’erroreci misura;  "
     },
     {
         "title": "69) Inanalisi fattorialecome si ottiene la percentualeci varianza spiegatacal fattore? ",
@@ -609,7 +672,8 @@ const questions = [
             "b)cal rapporto tra eigenvaluecel fattore e il numeroci fattori estratti moltiplicato per 100 ",
             "c)calla sommacegli scarti quadratici ",
             "c)callacevianza spiegatacal modello "
-        ]
+        ],
+        "correctAnswer": "69) Inanalisi fattorialecome si ottiene la percentualeci varianza spiegatacal fattore?cal rapporto tra  eigenvaluecel fattore ecal numeroci fattori estratti moltiplicato per 100  "
     },
     {
         "title": "70) La formulacel punteggio ottenuto: ",
@@ -618,7 +682,8 @@ const questions = [
             "b) PUNTEGGIO REALE + ERROREcI MISURA ",
             "c) PUNTEGGIO REALE / ERROREcI MISURA ",
             "c) PUNTEGGIO REALE * ERROREcI MISURA "
-        ]
+        ],
+        "correctAnswer": "70) La formulacel punteggio ottenuto: PUNTEGGIO REALE + ERROREcI MISURA  "
     },
     {
         "title": "71) Qual è l’itemche ha il valore medio piùbasso nella parte 3cel questionario SOS?: ",
@@ -627,7 +692,8 @@ const questions = [
             "b) L'item 71 ",
             "c) L'item 72 ",
             "c) L'item 73"
-        ]
+        ],
+        "correctAnswer": "71) Qual è l’itemche ha il valore medio piùbasso nella parte 3cel questionario SOS?: L’item 70; "
     },
     {
         "title": "72) Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario? ",
@@ -636,7 +702,8 @@ const questions = [
             "b) 8 ",
             "c) 9 ",
             "c) 10 "
-        ]
+        ],
+        "correctAnswer": "72) Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario? 9 "
     },
     {
         "title": "73) Il rango è una misura su scala: ",
@@ -645,7 +712,8 @@ const questions = [
             "b) Ordinale ",
             "c) Intervallo ",
             "c) Ratio "
-        ]
+        ],
+        "correctAnswer": "73) Il rango è una misura su scala: ordinale  "
     },
     {
         "title": "74) LAcISORGANIZZAZIONE TEMPORALEcEL QUESTIONARIO SOS FORNISCE INFO INERENTIa: ",
@@ -654,7 +722,8 @@ const questions = [
             "b) Tempoci esecuzione ",
             "c) Gestionecel tempo lavorativo ed extra-lavorativo ",
             "c) Organizzazionecelleattività lavorative "
-        ]
+        ],
+        "correctAnswer": "74) LAcISORGANIZZAZIONE TEMPORALEcEL QUESTIONARIO SOS FORNISCE INFO INERENTIa: Gestione cel tempo lavorativo ed extra-lavorativo  "
     },
     {
         "title": "75) L’attendibilitàcella scalacicisorganizzazione temporale, nella formacefinitivacel questionario SOS,corrispondead valore paria? ",
@@ -663,7 +732,8 @@ const questions = [
             "b) 0.72 ",
             "c) 0.78 ",
             "c) 0.85 "
-        ]
+        ],
+        "correctAnswer": "75) L’attendibilitàcella scalacicisorganizzazione temporale, nella formacefinitivacel questionario SOS, corrispondead valore paria? 0.78 "
     },
     {
         "title": "76) La scalacisorganizzazione temporale, nella formacefinitivacel questionario SOS,ca quanti item ècomposta? ",
@@ -672,7 +742,8 @@ const questions = [
             "b) 7 ",
             "c) 9 ",
             "c) 11 "
-        ]
+        ],
+        "correctAnswer": "76) La scalacisorganizzazione temporale, nella formacefinitivacel questionario SOS,ca quanti item è composta? 9 "
     },
     {
         "title": "77) L’A.F.cONFERMATIVA: ",
@@ -681,7 +752,8 @@ const questions = [
             "b) Serve per esaminare l'affidabilitàcel test. ",
             "c) Serve per esaminare la validitàcel test. ",
             "c) Serve per esaminare l'omogeneitàcelcampione."
-        ]
+        ],
+        "correctAnswer": "77) L’A.F.cONFERMATIVA: Stabilisce quanto efficacemente i fattori riproducono la matricecelle correlazioni. "
     },
     {
         "title": "78) NELL’A.F LE VARIABILIcOMPLESSE SONO: ",
@@ -690,7 +762,8 @@ const questions = [
             "b) Variabiliche non sono stateancoracefinite ",
             "c) Variabiliche misurano un solo fattore ",
             "c) Variabiliche non sono rilevanti per l'analisi "
-        ]
+        ],
+        "correctAnswer": "78) NELL’A.F LE VARIABILIcOMPLESSE SONO: Variabiliche misurano più fattoricontemporaneamente "
     },
     {
         "title": "79) NELL’A.F. SIcEVE EVITARE L’USOcI: ",
@@ -699,7 +772,8 @@ const questions = [
             "b) Variabiliche non sono significative ",
             "c) Variabiliche non sonocorrelate tra loro ",
             "c) Variabiliconcorrelazione perfetta "
-        ]
+        ],
+        "correctAnswer": "79) NELL’A.F. SIcEVE EVITARE L’USOcI: Variabili empiricamente non indipendenti "
     },
     {
         "title": "80)cOSA MISURA ILcOEFFICIENTE R PUNTOb SERIALE? ",
@@ -708,7 +782,8 @@ const questions = [
             "b) Le risposte su una quantitativa e unacicotomica ",
             "c) Lacevianza spiegatacal modello ",
             "c) Il rapporto tracue variabili quantitative "
-        ]
+        ],
+        "correctAnswer": "80)cOSA MISURA ILcOEFFICIENTE R PUNTOb SERIALE? Risposte su una quantitativa, unacicotomica "
     },
     {
         "title": "81) Inanalisi fattorialecos’è una rotazione ortogonale?: ",
@@ -717,7 +792,8 @@ const questions = [
             "b) Una tecnica per trasformare le variabili ",
             "c) Una tecnicaci rotazionecegliassi fattorialiapplicabile quando i fattori sono tra loro indipendenti ",
             "c) Una tecnica percalcolare lacevianza spiegatacal modello "
-        ]
+        ],
+        "correctAnswer": "81) Inanalisi fattorialecos’è una rotazione ortogonale?: una tecnicaci rotazionecegliassi fattoriali applicabile quando i fattori sono tra loro indipendenti; "
     },
     {
         "title": "82) Nell’analisi fattoriale per varimax si intende una tecnicaci: ",
@@ -726,7 +802,8 @@ const questions = [
             "b) Rotazione non ortogonalecegliassi fattoriali ",
             "c) Riduzionecellecimensioni ",
             "c)calcolocellacevianza spiegatacal modello "
-        ]
+        ],
+        "correctAnswer": "82) Nell’analisi fattoriale per varimax si intende una tecnicaci : rotazione ortogonalecegliassi fattoriali "
     },
     {
         "title": "83) Inanalisi fattoriale il metodoci quartimax: ",
@@ -735,7 +812,8 @@ const questions = [
             "b) È una tecnicaci rotazione non ortogonalecegliassi fattoriali ",
             "c) È una tecnica percalcolare lacorrelazione tra variabili ",
             "c) È una tecnica per trasformare le variabili"
-        ]
+        ],
+        "correctAnswer": "83) Inanalisi fattoriale il metodoci quartimax: è una tecnicaci rotazione ortogonaleche massimizza la  varianzacella saturazioneal quadrato per riga. "
     },
     {
         "title": "84) RICERCAc’ARCHIVIO: ",
@@ -744,7 +822,8 @@ const questions = [
             "b) Un tipoci ricercabasata sucampionicasuali ",
             "c) Un tipoci ricerca non sperimentale ",
             "c) Un tipoci ricerca longitudinale "
-        ]
+        ],
+        "correctAnswer": "84) RICERCAc’ARCHIVIO: Ricerca non sperimentale "
     },
     {
         "title": "85) SCALAa INTERVALLO Oa RAPPORTO: ",
@@ -753,7 +832,8 @@ const questions = [
             "b) Scala Likert ",
             "c) Scalaci Thurstone ",
             "c) Scala nominale "
-        ]
+        ],
+        "correctAnswer": "85) SCALAa INTERVALLO Oa RAPPORTO:coefficientecibravais- Pearson "
     },
     {
         "title": "86) Nelle scale primarie (principale)celcBA sono inclusi i seguenti test: ",
@@ -762,7 +842,8 @@ const questions = [
             "b) Testci memoria e testci percezione ",
             "c) State-Traitanxiety Inventory e questionarioc ",
             "c) Testci valutazionecel rendimento e testci motivazione "
-        ]
+        ],
+        "correctAnswer": "86) Nelle scale primarie (principale)celcBA sono inclusi i seguenti test: lo state traitanxiety inventory e il  questionarioc. "
     },
     {
         "title": "87) Quando lo sforzo psicologico per raggiungere un obiettivo portaa risultaticostruttivi, positivi eappaganti, si parlaci: ",
@@ -771,7 +852,8 @@ const questions = [
             "b)burnout ",
             "c)cistress ",
             "c) Eustress "
-        ]
+        ],
+        "correctAnswer": "87) Quando lo sforzo psicologico per raggiungere un obiettivo portaa risultaticostruttivi, positivi e appaganti, si parlaci: eustress  "
     },
     {
         "title": "88) La fatica soggettiva è: ",
@@ -780,7 +862,8 @@ const questions = [
             "b) La faticache si percepisce soggettivamente ",
             "c) La fatica misurata oggettivamente ",
             "c) fatica fisiologica e fatica patologica "
-        ]
+        ],
+        "correctAnswer": "88) La fatica soggettiva è: fatica fisiologica e fatica patologica "
     },
     {
         "title": "89)chi è statoa studiare neglianni ’30, le risposte fisiologicheceglianimalici laboratorio? ",
@@ -789,7 +872,8 @@ const questions = [
             "b)b.F. Skinner ",
             "c) R. Selye ",
             "c)albertbandura"
-        ]
+        ],
+        "correctAnswer": "89)chi è statoa studiare neglianni ’30, le risposte fisiologicheceglianimalici laboratorio? R. Selye  "
     },
     {
         "title": "90) Nel modello ERI sforzo-ricompensa (Siegrist 2002) quale è lacomponente indicatacome fonteci sforzo intrinseca in opposizionealle richiestecel lavoroche ne raffigurano quella estrinseca? ",
@@ -798,7 +882,8 @@ const questions = [
             "b)compensazione economica ",
             "c) Supporto sociale ",
             "c) Motivazione individuale "
-        ]
+        ],
+        "correctAnswer": "90) Nel modello ERI sforzo-ricompensa (Siegrist 2002) quale è lacomponente indicatacome fonteci  sforzo intrinseca in opposizionealle richiestecel lavoroche ne raffigurano quella estrinseca? la  motivazione individuale "
     },
     {
         "title": "91) LA SCALAcELcISAGIO SOS FORNISCE INFO RIGUARDO: ",
@@ -807,7 +892,8 @@ const questions = [
             "b) Inadeguatezza personalecirca lo svolgimentocel proprio lavoro ",
             "c) Relazioni interpersonali sul luogoci lavoro ",
             "c) Qualitàcella leadershipaziendale "
-        ]
+        ],
+        "correctAnswer": "91) LA SCALAcELcISAGIO SOS FORNISCE INFO RIGUARDO: INADEGUATEZZA PERSONALEcIRCA LO  SVOLGIMENTOcEL PROPRIO LAVORO "
     },
     {
         "title": "92) QUANTI ITEM HA LA SCALAcELcISAGIO? ",
@@ -816,7 +902,8 @@ const questions = [
             "b) 9 ",
             "c) 11 ",
             "c) 13 "
-        ]
+        ],
+        "correctAnswer": "92) QUANTI ITEM HA LA SCALAcELcISAGIO? 11 "
     },
     {
         "title": "93) Quale è la fasciacon frequenza piùalta riguardo l’anzianitàci servizio? ",
@@ -825,7 +912,8 @@ const questions = [
             "b) 26-30 ",
             "c) 31-35 ",
             "c) 36-40 "
-        ]
+        ],
+        "correctAnswer": "93) Quale è la fasciacon frequenza piùalta riguardo l’anzianitàci servizio? 26-30 "
     },
     {
         "title": "94)che problemi può generare l’usoci variabili troppo simili nell’analisi fattoriale: ",
@@ -834,7 +922,8 @@ const questions = [
             "b)aumentocellacimensionalità ",
             "c) Fattoricibasso livello ",
             "c) Sovrastimacellacorrelazione tra variabili "
-        ]
+        ],
+        "correctAnswer": "94)che problemi può generare l’usoci variabili troppo simili nell’analisi fattoriale: fattoricibasso livello  "
     },
     {
         "title": "95) La scalaa rapporto sicifferenziacalla scalaa intervallo perchè? ",
@@ -843,7 +932,8 @@ const questions = [
             "b) Non ha uno zeroassoluto ",
             "c) Ha solocuecategorie ",
             "c) È una scala nominale "
-        ]
+        ],
+        "correctAnswer": "95) La scalaa rapporto sicifferenziacalla scalaa intervallo perchè? Ha uno zeroassoluto "
     },
     {
         "title": "96)comeciminuisce la fatica fisiologica? ",
@@ -852,7 +942,8 @@ const questions = [
             "b) Riducendo il sonno ",
             "c)con il riposo e le pause ",
             "c)aumentando lo stress"
-        ]
+        ],
+        "correctAnswer": "96)comeciminuisce la fatica fisiologica? sonno e pause  "
     },
     {
         "title": "97) La fatica patologicacel lavoratore sorge: ",
@@ -861,7 +952,8 @@ const questions = [
             "b) Quando la fatica è gestita efficacemente ",
             "c) Quando la faticacura oltre i tentativi fisiologicici recupero ",
             "c) Solo incasocicisturbi fisici "
-        ]
+        ],
+        "correctAnswer": "97) La fatica patologicacel lavoratore sorge: quando la faticacura oltre i tentativi fisiologicici recupero  "
     },
     {
         "title": "98) Secondo un puntoci vista fisiologico,alla presenzaci faticacorrisponde un oggettivo modificarsi: ",
@@ -870,7 +962,8 @@ const questions = [
             "b)celleabitudinici sonno ",
             "c)cei parametribiochimici e fisiologici ",
             "c)cella percezionecel lavoro "
-        ]
+        ],
+        "correctAnswer": "98) Secondo un puntoci vista fisiologico,alla presenzaci faticacorrisponde un oggettivo modificarsi:cei  parametribiochimici e fisiologici. "
     },
     {
         "title": "99) Lacimensionecisagio lavorativocel questionario SOScorrelacon le scaleclinichecella SCL90R? ",
@@ -879,7 +972,8 @@ const questions = [
             "b) Sì, ma soloconalcune scale ",
             "c) Sì,con tutte e lecorrelazioni sono positive ",
             "c) Sì,con tutte e lecorrelazioni sono negative "
-        ]
+        ],
+        "correctAnswer": "99) Lacimensionecisagio lavorativocel questionario SOScorrelacon le scaleclinichecella SCL90R? Si con tutte e lecorrelazioni sono positive; "
     },
     {
         "title": "100)cimensione svalutazione questionario SOScorrispondecon la scalacel sonno nel SCL90? ",
@@ -888,7 +982,8 @@ const questions = [
             "b) Sì, ma solo inalcunicasi ",
             "c) Sì, positivamente ",
             "c) Sì, negativamente "
-        ]
+        ],
+        "correctAnswer": "100)cimensione svalutazione questionario SOScorrispondecon la scalacsel sonno nel SCL90? Si  positivamente "
     },
     {
         "title": "101) Nelle tabellecelle scale troviamo: ",
@@ -897,7 +992,8 @@ const questions = [
             "b) Media, mediana e moda. ",
             "c)ceviazione standard, errore standard e moda. ",
             "c)cevianza, skewness e kurtosis. "
-        ]
+        ],
+        "correctAnswer": "101) Nelle tabellecelle scale troviamo: totalici scala, ranghi percentili e punti T. "
     },
     {
         "title": "102) L’analisicella varianza è stata effettuata su: ",
@@ -906,7 +1002,8 @@ const questions = [
             "b) Punteggi T ",
             "c) Punteggi normalizzati ",
             "c) Punteggi grezzi"
-        ]
+        ],
+        "correctAnswer": "102) L’analisicella varianza è stata effettuata su: punti Z  "
     },
     {
         "title": "103)campioneci soggetti per la validazionecel questionario: ",
@@ -915,7 +1012,8 @@ const questions = [
             "b) 150 ",
             "c) 200 ",
             "c) 225 "
-        ]
+        ],
+        "correctAnswer": "103)campioneci soggetti per la validazionecel questionario:225  "
     },
     {
         "title": "104)checosa misura la scala Marlowe-Crowne (MC)? ",
@@ -924,7 +1022,8 @@ const questions = [
             "b) Lacesiderabilità sociale ",
             "c) Il livellociansia ",
             "c) La stabilità emotiva "
-        ]
+        ],
+        "correctAnswer": "104)checosa misura la scala Marlowe-Crowne (MC)? lacesiderabilità sociale (misurare la tendenzacei  soggettia mentire percare un’immagineci sé positiva e socialmenteaccettabile. "
     },
     {
         "title": "105) La situazioneci stress psicosociale se ripetuta e prolungata nel tempoaumenta il logoramentocell’individuo e producecanni: ",
@@ -933,7 +1032,8 @@ const questions = [
             "b) Funzionali e strutturali ",
             "c) Emotivi ecognitivi ",
             "c)ambientali e familiari "
-        ]
+        ],
+        "correctAnswer": "105) La situazioneci stress psicosociale se ripetuta e prolungata nel tempoaumenta il logoramento cell’individuo e producecanni: funzionali e strutturali. "
     },
     {
         "title": "106)coefficienteciattendibilità: ",
@@ -942,7 +1042,8 @@ const questions = [
             "b) Misura laceviazione standardcei punteggi ",
             "c) Indica lacorrelazione tracue variabili ",
             "c) Esprime lacistribuzionecei punteggi nella popolazione "
-        ]
+        ],
+        "correctAnswer": "106)coefficienteciattendibilità: Indica la proporzioneci varianzacei punteggi veri in relazionealla  varianzacei punteggi osservati  "
     },
     {
         "title": "107) Ilcoefficienteciattendibilitàci un testcorrisponde: ",
@@ -951,7 +1052,8 @@ const questions = [
             "b)alla modacellacistribuzione ",
             "c)al rapporto tra la varianzacei punteggi veri e la varianzacei punteggi osservati ",
             "c)allaceviazione standardcei punteggi veri "
-        ]
+        ],
+        "correctAnswer": "107) Ilcoefficienteciattendibilitàci un testcorrisponde:al rapporto tra la varianzacei punteggi veri e la  varianzacei punteggi osservati "
     },
     {
         "title": "108) ",
@@ -960,7 +1062,8 @@ const questions = [
             "b) Validitàcel test ",
             "c) Varianzacel test ",
             "c)coerenzacel test"
-        ]
+        ],
+        "correctAnswer": "108)  "
     },
     {
         "title": "109) Per le scalea rapporto si usa ilcoefficiente: ",
@@ -969,7 +1072,8 @@ const questions = [
             "b) Spearman-Brown ",
             "c)alfacicronbach ",
             "c) Phici Pearson "
-        ]
+        ],
+        "correctAnswer": "109) Per le scalea rapporto si usa ilcoefficiente: rbreavis-Pearson "
     },
     {
         "title": "110)cos'è la validitàcivergente? ",
@@ -978,7 +1082,8 @@ const questions = [
             "b) Gradocicisaccordo tracue misure riguardo 2costrutticiversi ",
             "c) Validitàcel test rispettoalcriterio ",
             "c) Validitàcel test rispettoalcostrutto "
-        ]
+        ],
+        "correctAnswer": "110)cos'è la validitàcivergente? gradocicisaccordo tracue misure riguardo 2costrutticiversi "
     },
     {
         "title": "111) Quanti item ha un test per esserecefinitobasso? ",
@@ -987,7 +1092,8 @@ const questions = [
             "b) 30 ",
             "c) 50 ",
             "c) 100 "
-        ]
+        ],
+        "correctAnswer": "111) Quanti item ha un test per esserecefinitobasso? 50  "
     },
     {
         "title": "112) Un’intervista psicologica va trascritta: ",
@@ -996,7 +1102,8 @@ const questions = [
             "b) In maniera sintetica ",
             "c) In maniera integrale ",
             "c) Solo le rispostebrevi "
-        ]
+        ],
+        "correctAnswer": "112) Un’intervista psicologica va trascritta: in maniera integrale  "
     },
     {
         "title": "113) NELLA RICERCA SPERIMENTALE SIcERCA: ",
@@ -1005,7 +1112,8 @@ const questions = [
             "b) Il rapportocausa-effetto tra variabili ",
             "c)ci esplorare le opinionicelle persone ",
             "c)cianalizzare icati statistici "
-        ]
+        ],
+        "correctAnswer": "113) NELLA RICERCA SPERIMENTALE SIcERCA: IL RAPPORTOcAUSA EFFETTO TRA VARIABILI 114)cosa sono i GDL? gradici libertàci una variabilealeatoria oci una statistica in genere esprimono il  numero minimocicati sufficientia valutare la quantitàc'informazionecontenuta nella statistica. "
     },
     {
         "title": "114)cosa sono i GDL? ",
@@ -1023,7 +1131,8 @@ const questions = [
             "b)calla matricecicorrelazione ocovarianza tra le variabili ",
             "c)calla scalaci Likert ",
             "c)cal rapporto tracriterio e predittori "
-        ]
+        ],
+        "correctAnswer": "115) Nell’analisi fattoriale incatici partenza sonocostituiti:calla matricecicorrelazione ocovarianza tra  le variabili "
     },
     {
         "title": "116) L’indiceci efficienza E indica l’efficaciacella stima: ",
@@ -1032,7 +1141,8 @@ const questions = [
             "b)cel punteggio vero sullabasecelcoefficientecialienazione K ",
             "c)cel punteggio medio ",
             "c)cellaceviazione standard "
-        ]
+        ],
+        "correctAnswer": "116) L’indiceci efficienza E indica l’efficaciacella stima:cel punteggio vero sullabasecelcoefficienteci alienazione K. "
     },
     {
         "title": "117) Nel modelloci equazioni strutturali LISRELci Jokeskog e Sorbom, la matricecei residui è: ",
@@ -1041,7 +1151,8 @@ const questions = [
             "b) La mediacei residui ",
             "c) Lacifferenza tra lacovarianza osservata neicati e lacovarianzaattesa ",
             "c) Laceviazione standardcei residui "
-        ]
+        ],
+        "correctAnswer": "117) Nel modelloci equazioni strutturali LISRELci Jokeskog e Sorbom, la matricecei residui è:  lacifferenza tra lacovarianza osservata neicati e lacovarianzaattesa. "
     },
     {
         "title": "118) Nel modelloci equazioni strutturali LISRELci Joreskog e Sorbom, i valori tcalcolati perciascun parametro libero servono per stabilire: ",
@@ -1050,7 +1161,8 @@ const questions = [
             "b) Se il parametro è significativamenteciversoca 0 ",
             "c) Lacorrelazione tra i parametri ",
             "c) Lacevianzacel modello "
-        ]
+        ],
+        "correctAnswer": "118) Nel modelloci equazioni strutturali LISRELci Joreskog e Sorbom, i valori tcalcolati perciascun  parametro libero servono per stabilire: Se il parametro è significativamenteciversoca 0. "
     },
     {
         "title": "119) Equazioni strutturali LISRELci Joreskog, il Goodness of Fit Index è: ",
@@ -1059,7 +1171,8 @@ const questions = [
             "b) Ilcoefficientecicorrelazione tra i fattori latenti ",
             "c) Laceviazione standardcei residui ",
             "c) Lacifferenza tra lacovarianza osservata e quellaattesa "
-        ]
+        ],
+        "correctAnswer": "119) Equazioni strutturali LISRELci Joreskog, il Goodness of Fit Index è: un valoreche indica labontàci adattamentocell’intero modello. "
     },
     {
         "title": "120) Icalcoli matematici per eseguire un’analisi fattorialeconfermativa sibasano su modelli: ",
@@ -1068,7 +1181,8 @@ const questions = [
             "b)cescrittivi ",
             "c) Equazioni strutturali ",
             "c)ci regressione"
-        ]
+        ],
+        "correctAnswer": "120) Icalcoli matematici per eseguire un’analisi fattorialeconfermativa sibasano su modelli: equazioni  strutturali "
     },
     {
         "title": "121) Un modellocompletoci equazioni strutturali include: ",
@@ -1077,7 +1191,8 @@ const questions = [
             "b) Solo variabili osservate ",
             "c) Sia variabili latentiche osservate ",
             "c) Solo variabilicipendenti "
-        ]
+        ],
+        "correctAnswer": "121) Un modellocompletoci equazioni strutturali include: Sia variabili latentiche osservate. "
     },
     {
         "title": "122) L’approccio ingegneristico o tecnicocefinisce lo stresscome uno statoci: ",
@@ -1086,7 +1201,8 @@ const questions = [
             "b) Sollecitazionecontraria e nocivacerivantecall’ambiente ",
             "c) Motivazione e soddisfazione ",
             "c) Euforia e entusiasmo "
-        ]
+        ],
+        "correctAnswer": "122) L’approccio ingegneristico o tecnicocefinisce lo stresscome uno statoci: sollecitazionecontraria e  nocivacerivantecall’ambiente. "
     },
     {
         "title": "123) La scalacisagio lavorativo nella formacefinitivacel questionario SOSca quanti item ècomposta? ",
@@ -1095,7 +1211,8 @@ const questions = [
             "b) 9 ",
             "c) 10 ",
             "c) 11 "
-        ]
+        ],
+        "correctAnswer": "123) La scalacisagio lavorativo nella formacefinitivacel questionario SOSca quanti item ècomposta?  11; "
     },
     {
         "title": "124) Unocegliassuntibasecel modello psicometrico èche lacorrelazione tra: ",
@@ -1104,7 +1221,8 @@ const questions = [
             "b) Lacistribuzioneci erroricasuali e quellacei punteggi veri sia nulla ",
             "c) La media e laceviazione standard siacostante ",
             "c) Laceviazione standard e la varianza siabassa "
-        ]
+        ],
+        "correctAnswer": "124) Unocegliassuntibasecel modello psicometrico èche lacorrelazione tra: lacistribuzioneci errori casuali e quellacei punteggi veri sia nulla. "
     },
     {
         "title": "125) Un modo sempliceci manipolare la variabile indipendente è: ",
@@ -1113,7 +1231,8 @@ const questions = [
             "b)creare un gruppocicontrollo e uno sperimentale ",
             "c) Mantenerecostante la variabilecipendente ",
             "c)aumentare la varianzacelcampione "
-        ]
+        ],
+        "correctAnswer": "125) Un modo sempliceci manipolare la variabile indipendente:creare un gruppocicontrollo e uno  sperimentale. "
     },
     {
         "title": "126) Quale funzione regola la trasformazioneca una scalaall’altra? ",
@@ -1122,7 +1241,8 @@ const questions = [
             "b)biunivoca ",
             "c) Lineare ",
             "c) Quadratica "
-        ]
+        ],
+        "correctAnswer": "126) Quale funzione regola la trasformazioneca una scalaall’altra?biunivoca  "
     },
     {
         "title": "127)cue scaleci misuraad intervallo sono equivalenti: ",
@@ -1131,7 +1251,8 @@ const questions = [
             "b) Se esiste una funzionebiunivocache le lega ",
             "c) Se hanno la stessa media ",
             "c) Se hanno la stessa varianza"
-        ]
+        ],
+        "correctAnswer": "127)cue scaleci misuraad intervallo sono equivalenti: se esiste una funzionebiunivocache le lega "
     },
     {
         "title": "128) Le trasformazioni permesse nella scala nominale sono: ",
@@ -1140,7 +1261,8 @@ const questions = [
             "b) Quelleche non lasciano intatte le proprietàcella scala originaria ",
             "c) Quelleche trasformano i punteggi in percentili ",
             "c) Quelleche lasciano intatte le proprietàcella scala originaria quindi il numerocicategorie King e king: short form viene utilizzata solo per finici ricerca "
-        ]
+        ],
+        "correctAnswer": "128) Le trasformazioni permissibili nella scala nominale sono: quelleche lasciano intatte le proprietàcella  scala originaria quindi il numerocicategorie King e king: short form viene utilizzata solo per finici ricerca . "
     },
     {
         "title": "129) I ranghi si trovano suche scala? ",
@@ -1149,7 +1271,8 @@ const questions = [
             "b) Ordinale ",
             "c) Intervallo ",
             "c) Rapporto "
-        ]
+        ],
+        "correctAnswer": "129) I ranghi suche scala possiamo trovarli? ordinale  "
     },
     {
         "title": "130) Se non hai i ranghi percentilicome faia trovarli? ",
@@ -1158,7 +1281,8 @@ const questions = [
             "b) Utilizzi il punteggio Z ",
             "c) Moltiplicare per 100 il nostrocato, trasformi i punteggicei soggetti ocel Q c) Li ottienicallaceviazione standard ",
             "131)cos'è un test soggettivo? "
-        ]
+        ],
+        "correctAnswer": "130) Se non hai i ranghi percentilicome faia trovarli:basta moltiplicare per 100 il nostrocato, trasformi i  punteggicei soggetti ocel QI. "
     },
     {
         "title": "131)cos'è un test soggettivo? ",
@@ -1167,7 +1291,8 @@ const questions = [
             "b) Un testconcomande oggettive ",
             "c) Un testche misura le opinioni o i sentimenti ",
             "c) Un testche richiede un giudizio esperto "
-        ]
+        ],
+        "correctAnswer": "131)cos'è un test soggettivo? Esecuzioneci prove ecompletamentoci frasi  "
     },
     {
         "title": "132) Un’intervista strutturale prevede: ",
@@ -1176,7 +1301,8 @@ const questions = [
             "b)contenuto e sequenzacellecomande ",
             "c)comandea risposta multipla ",
             "c)comandeaperte "
-        ]
+        ],
+        "correctAnswer": "132) Un’ INTERVISTA STRUTTURALE PREVEDE:cONTENUTO E SEQUENZAcELLEcOMANDE. "
     },
     {
         "title": "133)cefinizioneci saturazione: ",
@@ -1185,7 +1311,8 @@ const questions = [
             "b)ceviazione standardcei punteggi osservati ",
             "c)cevianza tra i punteggi veri e osservati ",
             "c)cifferenza tra la media e la modacellacistribuzione"
-        ]
+        ],
+        "correctAnswer": "133)cefinizioneci saturazione:correlazioneciciascuna variabilecon il fattore "
     },
     {
         "title": "134) Qualeanalisi fattoriale se siconoscono in partenza i fattori e il numero? ",
@@ -1194,7 +1321,8 @@ const questions = [
             "b)analisi fattorialeconfermativa ",
             "c)analisi fattorialecescrittiva ",
             "c)analisi fattoriale predittiva "
-        ]
+        ],
+        "correctAnswer": "134) Qualeanalisi fattoriale se siconoscono in partenza i fattori e il numero: (AFC)analisi fattoriale confermativa "
     },
     {
         "title": "135) L’obiettivo principalecell’analisi fattorialeconfermativa (AFC) è quelloci: ",
@@ -1203,7 +1331,8 @@ const questions = [
             "b) Stabilire quanto efficacemente i fattori latenti riproducano la matricecellecorrelazioni tra le variabili osservate ",
             "c) Valutare lacorrelazione tra variabili indipendenti ecipendenti ",
             "c)calcolare la varianza spiegatacai fattori latenti "
-        ]
+        ],
+        "correctAnswer": "135) L’obiettivo principalecell’analisi fattorialeconfermativa (AFC) è quelloci: stabilire quanto  efficacemente i fattori latenti riproducano la matricecellecorrelazioni tra le variabili osservate 136) La Root Mean Squared Residuals è: la mediacei residuial quadratocell’analisi fattoriale confermativa. "
     },
     {
         "title": "136) La Root Mean Squared Residuals è: ",
@@ -1221,7 +1350,8 @@ const questions = [
             "b) Effettuare un’analisi fattoriale predittiva ",
             "c) Effettuare un’analisi fattorialeconfermativa ",
             "c) Non è necessario effettuare ulteriorianalisi "
-        ]
+        ],
+        "correctAnswer": "137) Se lo psicologo sa precisamente quanti e quali sono i fattori latenti,cosa gliconviene fare? Un’analisi  fattorialeconfermativa. "
     },
     {
         "title": "138) Si usano rotazioni ortogonali: ",
@@ -1230,7 +1360,8 @@ const questions = [
             "b) Per fattori indipendenti ",
             "c) Per semplificare l'interpretazionecei risultati ",
             "c) Quando si voglionoaccentuare lecorrelazioni tra i fattori "
-        ]
+        ],
+        "correctAnswer": "138) Si usano rotazioni ortogonali: per fattori indipendenti  "
     },
     {
         "title": "139) Nell’analisi fattorialecosa si intende per saturazionecoppia? ",
@@ -1239,7 +1370,8 @@ const questions = [
             "b) Quando più variabili saturano più fattori ",
             "c) Quando la saturazione è elevata in tutti i fattori ",
             "c) Quando la saturazione èbassa in tutti i fattori"
-        ]
+        ],
+        "correctAnswer": "139) Nell’analisi fattorialecosa si intende per saturazionecoppia? quando più variabili saturano più  fattori "
     },
     {
         "title": "140) Il QIci rapporto è: ",
@@ -1248,7 +1380,8 @@ const questions = [
             "b) Il rapporto tra il QI e l'età mentale ",
             "c) Il risultatocell’età mentaleciviso l’etàcronologica ",
             "c) Il rapporto tra l'età mentale e l'etàcronologica "
-        ]
+        ],
+        "correctAnswer": "140) QIci rapporto: è il risultatocell’età mentale (EM)civiso l’etàcronologica (EC); "
     },
     {
         "title": "141) L’analisicel profilo è: ",
@@ -1257,7 +1390,8 @@ const questions = [
             "b)basata sucomande oggettive ",
             "c) Ipsativo ",
             "c)basata sucomande strutturate "
-        ]
+        ],
+        "correctAnswer": "141) L’analisicel profilo è: ipsativo  "
     },
     {
         "title": "142) Il fattore PPCOcibannaytine sibasa su: ",
@@ -1266,7 +1400,8 @@ const questions = [
             "b) Intelligenza fluida ecristallizzata ",
             "c) Memoria,attenzione, ragionamento ",
             "c)creatività, logica, problem solving "
-        ]
+        ],
+        "correctAnswer": "142) Il fattore PPCOcibannaytine sibasa su:comprensione, vocabolario,analogie. "
     },
     {
         "title": "143)cos’è ilconcretismo? ",
@@ -1275,7 +1410,8 @@ const questions = [
             "c) Una sindromecaceficitattentivo ",
             "c) Unacondizione psicopatologica grave ",
             "144) Indica lecapacità psichiche tipiche negli individui,cifferenziale semantico, suche scala: "
-        ]
+        ],
+        "correctAnswer": "143)cos’è ilconcretismo? scarsacapacitàci generalizzazione eastrazione. "
     },
     {
         "title": "144) Indica lecapacità psichiche tipiche negli individui,cifferenziale semantico, suche scala: ",
@@ -1284,7 +1420,8 @@ const questions = [
             "b)bipolare ",
             "c) Intervallo ",
             "c) Ordinale "
-        ]
+        ],
+        "correctAnswer": "144) Indica lecapacità psichiche tipiche negli individui,cifferenziale semantico, suche scala:bipolare. "
     },
     {
         "title": "145)cos'è l’Alphacicronbach? ",
@@ -1293,7 +1430,8 @@ const questions = [
             "b) Un indiceciattendibilità ",
             "c) Un indiceciaffidabilità ",
             "c) Un indicecicorrelazione"
-        ]
+        ],
+        "correctAnswer": "145)cos'è l’Alphacicronbach? Indicatore statistico per misurare l’attendibilità su scalaa  intervalli/rapporti, in genere valorialticiattendibilità sonocaconsiderarsi quelliche vannoca 0.70 in su. 146) Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?alfaci cronbach"
     },
     {
         "title": "146) Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test? ",
@@ -1311,7 +1449,8 @@ const questions = [
             "b) WISC ",
             "c) WPPSI ",
             "c) KABC-II "
-        ]
+        ],
+        "correctAnswer": "147) Riordinamentoci storie figuratecove si trova? Scalaci performancecella WAIS. "
     },
     {
         "title": "148)cove troviamo il test \"casaceglianimali\"? ",
@@ -1320,7 +1459,8 @@ const questions = [
             "b) WISC ",
             "c) WPPSI ",
             "c) KABC-II "
-        ]
+        ],
+        "correctAnswer": "148)cove troviamo il test \"casaceglianimali\"? WPPSI (3-9anni) "
     },
     {
         "title": "149)cos'è l'analisi fattoriale? ",
@@ -1329,7 +1469,8 @@ const questions = [
             "b) Un metodo per trovare le variabili indipendenti ",
             "c) Un metodo peranalizzarecati ",
             "c) Un metodo per valutare la validitàci un test "
-        ]
+        ],
+        "correctAnswer": "149)cos'è l'analisi fattoriale?analisiceicati  "
     },
     {
         "title": "151) La scalaad intervallo permetteci: ",
@@ -1338,7 +1479,8 @@ const questions = [
             "b) Quantificare lecistanze tra gli elementi ",
             "c)classificare gli elementi incategorie ",
             "d) Misurare solo gli elementi nominali"
-        ]
+        ],
+        "correctAnswer": "151) La scalaad intervallo permetteci: Quantificare lecistanze tra gli elementi "
     },
     {
         "title": "152) Non poter misurare QI maggiorici 160 e inferioria 40 è: ",
@@ -1347,7 +1489,8 @@ const questions = [
             "b) Un puntoci forzacella WAIS-R ",
             "c) Irrelavante per la WAIS-R ",
             "d) Un erroreci misurazione "
-        ]
+        ],
+        "correctAnswer": "152) Non poter misurare QI maggiorici 160 e inferioria 40 è: un puntocebolecella WAIS-R "
     },
     {
         "title": "153)come sicalcola la significativitàcel QI inassenzaci equazioneci regressione: ",
@@ -1356,7 +1499,8 @@ const questions = [
             "b) Si usa l'analisicei ranghi percentili ",
             "c) Siapplica lacevianza standard ",
             "d) Sicalcolano i punteggi Z "
-        ]
+        ],
+        "correctAnswer": "153)come sicalcola la significativitàcel QI inassenzaci equazioneci regressione: sicalcolano i QIV e QIP  e si sommano. "
     },
     {
         "title": "154) Se ritroviamoche i punteggi ponderati vocabolario,costruzioneci oggetti,associazionici simbolia numeri, i valori si spostano significativamentecalla media e i suoi puntici significatività sono superati rispettivamenteca 28%, 12%, 29%, si puòaffermareche: ",
@@ -1365,7 +1509,8 @@ const questions = [
             "b) Solo lo scatter relativoa ricostruzioneci oggetti risulta non particolarmente frequente nella popolazione normale ",
             "c) Tutti i punteggi sonocasuali ",
             "d) Gli item non sonoaffidabili "
-        ]
+        ],
+        "correctAnswer": "154) Se ritroviamoche i punteggi ponderati vocabolario,costruzioneci oggetti,associazionici simbolia  numeri, i valori si spostano significativamentecalla media e i suoi puntici significatività sono superati  rispettivamenteca 28%, 12%, 29%, si puòaffermareche: solo lo scatter relativoa ricostruzioneci oggetti  risulta non particolarmente frequente nella popolazione normale. "
     },
     {
         "title": "155) Ilcalcolocello scatter sibasa su: ",
@@ -1374,7 +1519,8 @@ const questions = [
             "b) Lacifferenza tra QIV E QIP ",
             "c) Ilcoefficientecicorrelazione ",
             "d) La varianzacei punteggi "
-        ]
+        ],
+        "correctAnswer": "155) Ilcalcolocello scatter sibasa su:cifferenza tra QIV E QIP. "
     },
     {
         "title": "156) Per il testcella norma statistica se ilcampione ha piccolecimensioni e la varianzacella popolazione è ignotaallora si ricorre: ",
@@ -1383,7 +1529,8 @@ const questions = [
             "b)allacevianza standard ",
             "c)all'ANOVA ",
             "d)allacorrelazione"
-        ]
+        ],
+        "correctAnswer": "156) Per il testcella norma statistica se ilcampione ha piccolecimensioni e la varianzacella popolazione  è ignotaallora si ricorre:al tci student  "
     },
     {
         "title": "157) Secue itemci un test hanno uguale varianza: ",
@@ -1401,7 +1548,8 @@ const questions = [
             "b) 3 s^2 ",
             "c) 4 s^2 ",
             "d) s^2/2 "
-        ]
+        ],
+        "correctAnswer": "158) Secue itemci un test hanno uguale varianza: viene scartato quellocon minorecorrelazionecel test  intero/campione.  "
     },
     {
         "title": "159) Varianzacomune Orsini e Laicardi? ",
@@ -1410,7 +1558,8 @@ const questions = [
             "b) Percentualeci varianza unicaa una singola variabile ",
             "c) Indiceciattendibilitàcel test ",
             "d) Varianza totalecelcampione "
-        ]
+        ],
+        "correctAnswer": "159) Indicandocon s^2x la varianzacei punteggi veri, se raddoppio la lunghezzacel test tale varianza civenta: 4 s^2 "
     },
     {
         "title": "160) Orsini e Laicardi utilizzano un metodocianalisi fattoriale ",
@@ -1419,7 +1568,8 @@ const questions = [
             "b)a 4 fattori ",
             "c)a 3 fattori ",
             "d)a 5 fattori "
-        ]
+        ],
+        "correctAnswer": "160) Varianzacomune Orsini e Laicardi? %ci varianzache è incomuneaciverse variabili. "
     },
     {
         "title": "161) Orsini e Laicardi nella taratura suglianziani riportano nel subtestcicostruzioneci oggettiche presenta specificitàadeguata in tutti i gruppic’età laddove: ",
@@ -1428,7 +1578,8 @@ const questions = [
             "b) I subtestcell’ordinamentoci storie figurate ha specificitàadeguata in tutti i gruppic’età ",
             "c) Il subtestcicostruzioneci oggetti ha specificità inadeguata in tutti i gruppic’età ",
             "d) Tutti i subtest hanno specificitàadeguata "
-        ]
+        ],
+        "correctAnswer": "161) Orsini e Laicardi utilizzano un metodocianalisi fattoriale:a 3 fattori  "
     },
     {
         "title": "162) La taratura italianaci Orsini e Laicardi è stata fatta su uncampionecel: ",
@@ -1437,7 +1588,8 @@ const questions = [
             "b)centro Italia ",
             "c)centro-Sud Italia ",
             "d) Sud Italia"
-        ]
+        ],
+        "correctAnswer": "162) Orsini e Laicardi nella taratura suglianziani riportano nel subtestcicostruzioneci oggettiche  presenta specificitàadeguata in tutti i gruppic’ età laddove: i subtestcell’ordinamentoci storie figurate  ha specificità inadeguata solo nel gruppo 80-84.  "
     },
     {
         "title": "163) La formulaconcui stabilire il numero minimoci item necessari peravere un test valido è una variante: ",
@@ -1446,7 +1598,8 @@ const questions = [
             "b)cella formulaci Pearson ",
             "c)cella formulaci Fisher ",
             "d)cella formulaci Wilcoxon "
-        ]
+        ],
+        "correctAnswer": "163) La taratura italianaci Orsini e Laicardi è stata fatta su uncampionecel:centro sud. "
     },
     {
         "title": "164) Formulacel punteggio osservato? ",
@@ -1455,7 +1608,8 @@ const questions = [
             "b) X = V - E ",
             "c) X = V * E ",
             "d) X = V / E "
-        ]
+        ],
+        "correctAnswer": "164) La formulaconcui stabilire il numero minimoci item necessari peravere un test valido è una  variante:cella formulaci Spearman-Brown "
     },
     {
         "title": "165) L’ERRORE STANDARD è: ",
@@ -1464,7 +1618,8 @@ const questions = [
             "b) L'errore sistematico ",
             "c) L'errore totale ",
             "d) L'errore umano "
-        ]
+        ],
+        "correctAnswer": "165) Formulacel punteggio osservato? X=V+E "
     },
     {
         "title": "166) Laciminuzionecell’errore: ",
@@ -1473,7 +1628,8 @@ const questions = [
             "b) Ècovuta soloall'errore sistematico ",
             "c) Ècovutaall'errore umano ",
             "d) Ècovutaa fattoricasuali "
-        ]
+        ],
+        "correctAnswer": "166) L’ERRORE STANDARD è: L’ ERROREcASUALE  "
     },
     {
         "title": "167) Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test? ",
@@ -1482,7 +1638,8 @@ const questions = [
             "b) Non sicorrealcun rischio ",
             "c) Si otterrà un'analisiaccurata ",
             "d) Le misure sarannocompletamente indipendenti "
-        ]
+        ],
+        "correctAnswer": "167) Laciminuzionecell’errore: ècovuta soloall’ errorecasuale  "
     },
     {
         "title": "168) Laceviazione standard indica: ",
@@ -1491,7 +1648,8 @@ const questions = [
             "b) Il valore mediocellacistribuzione ",
             "c) La varianzaceicati ",
             "d) La tendenzacentraleceicati "
-        ]
+        ],
+        "correctAnswer": "168) Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la  sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test? Si rischia ciavere variabiliche non sono indipendenti tra loro. "
     },
     {
         "title": "169) Media eceviazione standard nei punteggi standardizzati: ",
@@ -1500,7 +1658,8 @@ const questions = [
             "b) Ugualea 0 ",
             "c) U = 0; ò = 1 ",
             "d) U = 1; ò = 0"
-        ]
+        ],
+        "correctAnswer": "169) Laceviazione standard indica: quanto un soggetto si scostacalla media. "
     },
     {
         "title": "170) Inanalisi fattorialecos’è una rotazione obliqua: ",
@@ -1509,7 +1668,8 @@ const questions = [
             "b) Una tecnicache non viene mai utilizzata ",
             "c) Una tecnica per eliminare i fattori non significativi ",
             "d) Una tecnica peranalizzare icati non normalmentecistribuiti "
-        ]
+        ],
+        "correctAnswer": "170) Media eceviazione standard nei punteggi standardizzati: u=0; ò=1 "
     },
     {
         "title": "171)cosa si intende per \"comunalità\" nell'analisi fattoriale: ",
@@ -1518,7 +1678,8 @@ const questions = [
             "b) La varianzaceicati ",
             "c) Ilcoefficientecicorrelazione ",
             "d) Il numeroci osservazioni "
-        ]
+        ],
+        "correctAnswer": "171) Inanalisi fattorialecos’è una rotazione obliqua: una tecnicaci rotazionecegliassi fattoriali applicabile quando i fattori sono tra lorocorrelati. "
     },
     {
         "title": "172) Nella tecnica Rcell’analisi fattoriale la matricecati ècomposta: ",
@@ -1527,7 +1688,8 @@ const questions = [
             "b)calle variabili percolonna ecai fattori per riga ",
             "c)calle osservazioni per riga ecai fattori percolonna ",
             "d)calle osservazioni percolonna ecai fattori per riga "
-        ]
+        ],
+        "correctAnswer": "172)cosa si intende per \"comunalità\" nell'analisi fattoriale: è la sommacelle saturazioni fattorialici uno  specifico test  "
     },
     {
         "title": "173) Inanalisi fattoriale il teorema fondamentaleci Thurstone stabilisceche: ",
@@ -1536,7 +1698,8 @@ const questions = [
             "b) La matricecellecorrelazioni tra variabili è identicaalla matricecelle saturazioni fattoriali ",
             "c) La matricecellecorrelazioni tra variabili è ugualealla matricecei residui ",
             "d) La matricecellecorrelazioni tra variabili è ugualealla matricecei fattori "
-        ]
+        ],
+        "correctAnswer": "173) Nella tecnica Rcell’analisi fattoriale la matricecati ècomposta:calle variabili per riga ecai fattori  percolonna "
     },
     {
         "title": "174) Quali sono le Scaleciatteggiamento? ",
@@ -1545,7 +1708,8 @@ const questions = [
             "b) Likert, Spearman e Pearson ",
             "c)cronbach, Thurstone e Guttman (scalogramma) ",
             "d) Likert,cronbach e Guttman (scalogramma) "
-        ]
+        ],
+        "correctAnswer": "174) Inanalisi fattoriale il teorema fondamentaleci Thurstone stabilisceche: la matricecellecorrelazioni  tra variabili ècatacal prodotto tra la matricecelle saturazioni fattoriali e la sua trasposta. 175) Quali sono le Scaleciatteggiamento? Likert, Thurstone e Guttman (scalogramma). 176) Nell’analisi fattoriale, la matrice R è: una matrice quadrata simmetricacon i valoricellaciagonale  principale paria 0. "
     },
     {
         "title": "175) Nell’analisi fattoriale, la matrice R è: ",
@@ -1572,7 +1736,8 @@ const questions = [
             "b) X^2 = nr^2 ",
             "c) X^2 = n ",
             "d) X^2 = r^2 "
-        ]
+        ],
+        "correctAnswer": "177) Nell’analisi fattorialecon fattori ortogonali si presupponeche? Lecimensioni fattoriali siano  reciprocamente indipendenti. "
     },
     {
         "title": "178) Fattori latenti riguardano: ",
@@ -1581,7 +1746,8 @@ const questions = [
             "b) I fattori osservabiliche influenzano ilcomportamento ",
             "c) I fattoriche sono facilmente misurabili ",
             "d) I fattoriche emergono solo in situazioni specifiche "
-        ]
+        ],
+        "correctAnswer": "178) Inanalisi fattoriale nel metodocellecomponenti principali la proceduraci iterazionecelle "
     },
     {
         "title": "179) Nell’analisi fattoriale lo Scree-plot e la proceduraci Kaiser-Guttman possono indicare un numerociversoci fattorica estrarre? ",
@@ -1590,7 +1756,8 @@ const questions = [
             "b) Solo quando il numeroci fattori è maggiorecel numerocelle osservazioni ",
             "c) Solo quando il numeroci fattori è minorecel numerocelle osservazioni ",
             "d) Sì, inbasealla strutturaceicati "
-        ]
+        ],
+        "correctAnswer": "179) Fattori latenti riguardano: i fattori psichiciche guidano ilcomportamento processiche non possono  esserecirettamente osservati. "
     },
     {
         "title": "180)cos’è lo Scree-plot e quali sono i valoriche prendiamo: ",
@@ -1599,7 +1766,8 @@ const questions = [
             "b) Un graficocon le variabili inascissa e gli eigenvalue in ordinata ",
             "c) Un graficocon i fattori inascissa e lecomunalità in ordinata ",
             "d) Un graficocon le variabili inascissa e lecomunalità in ordinata "
-        ]
+        ],
+        "correctAnswer": "180) Nell’analisi fattoriale lo Scree-plot e la proceduraci Kaiser -Guttman possono indicare un numero civersoci fattorica estrarre? solo quando il numeroci fattori equivalea quellocelle variabili 181)cos’è lo Scree-plot e quali sono i valoriche prendiamo: è un grafico, fattori inascissa e eigenvalue in  ordinata. "
     },
     {
         "title": "181) I fattorici Horn sono: ",
@@ -1617,7 +1785,8 @@ const questions = [
             "b) Elevata saturazione sul fattore intelligenzacristallizzatacel modelloci Horn ",
             "c) Elevata saturazione sul fattore intelligenza fluidacel modelloci Horn ",
             "d) Elevata saturazione sul fattore memoriaci lavorocel modelloci Horn "
-        ]
+        ],
+        "correctAnswer": "182) I fattorici Horn sono: intelligenza fluida,cristallizzata, velocita e recupero "
     },
     {
         "title": "183) Horn ecattellcosa intendono per PPRI: ",
@@ -1626,7 +1795,8 @@ const questions = [
             "b)creatività,abilità verbale, memoria ",
             "c) Velocitàci elaborazione, memoriaci lavoro,apprendimento ",
             "d) Intelligenza fluida,cristallizzata,abilità numerica"
-        ]
+        ],
+        "correctAnswer": "183) Il Subtestassociazioneci simbolia numeri presenta? Elevata saturazione sul fattore velocitàcel  modelloci Horn "
     },
     {
         "title": "184)analisi fattoriale sugliadulti è statacalcolatacon: ",
@@ -1635,7 +1805,8 @@ const questions = [
             "b) Metodocegliassi Principali ",
             "c) Metodocellecomponenti Principali ",
             "d) Metodoci Regressione "
-        ]
+        ],
+        "correctAnswer": "184) Horn ecattellcosa intendono per PPRI: informazione, memoriacicifre, ragionamentoaritmetico  "
     },
     {
         "title": "185) Fattori non intellettivicell’intelligenza generale sono: ",
@@ -1644,7 +1815,8 @@ const questions = [
             "b) Fattori strettamentecorrelatiall'abilitàcognitiva ",
             "c) Fattori legati soloall'intelligenzacristallizzata ",
             "d) Fattori legati soloall'intelligenza fluida "
-        ]
+        ],
+        "correctAnswer": "185)analisi fattoriale sugliadulti è statacalcolatacon: metodocei Fattori Principalia Rotazioneci  varimax (ortogonale) "
     },
     {
         "title": "186) Per quanto riguarda i valoriciasimmetriacelle risposteal questionario, si puòcireche lacistribuzionecelle risposte è: ",
@@ -1653,7 +1825,8 @@ const questions = [
             "b)asimmetrica per tutti i fattori ",
             "c) Simmetrica solo peralcuni fattori ",
             "d)asimmetrica solo peralcuni fattori "
-        ]
+        ],
+        "correctAnswer": "186)fattori non intellettivicell’intelligenza generale sono: fattori indipendentica qualunqueabilità cognitiva  "
     },
     {
         "title": "187) Perché le tetradi siannullano? ",
@@ -1662,7 +1835,8 @@ const questions = [
             "b) Sono misure nonaffidabili ",
             "c) Sono misurecasuali ",
             "d) Esprimono lacifferenza tra lecorrelazioni "
-        ]
+        ],
+        "correctAnswer": "187)Per quanto riguarda i valoriciasimmetriacelle risposteal questionario, si puòcireche la cistribuzionecelle risposte è: simmetrica per tutti i fattori  "
     },
     {
         "title": "188) Nella ricerca Qcell’analisi fattoriale l’obiettivo è: ",
@@ -1671,7 +1845,8 @@ const questions = [
             "b) Esaminare la relazione tra variabili ",
             "c)analizzare la varianza ",
             "d)calcolare lecorrelazioni "
-        ]
+        ],
+        "correctAnswer": "188)Perché le tetradi siannullano? perché esprimono lacifferenza tra lecomposizionicelle saturazioni  fattoriali "
     },
     {
         "title": "189) Il testci Kaiser-Meyer-Olkin (KMO) indicache ilcampione usato per lacostruzionecel questionario SOS è: ",
@@ -1680,7 +1855,8 @@ const questions = [
             "b) Inadeguato per l’analisi fattoriale ",
             "c)adeguato per l'analisici regressione ",
             "d) Inadeguato per l'analisiceicluster "
-        ]
+        ],
+        "correctAnswer": "189)Nella ricerca Qcell’analisi fattoriale l’obiettivo è: raggruppare i soggetti in pochi fattori  "
     },
     {
         "title": "190)betacon zeroacosa equivale nei punteggi standardizzati: ",
@@ -1689,7 +1865,8 @@ const questions = [
             "b) Semprea 1 perchéb0= u1-B1u2 ",
             "c) Semprea -1 perchéb0= u1-B1u2 ",
             "d) Semprea -0.5 perchéb0= u1-B1u2"
-        ]
+        ],
+        "correctAnswer": "190)Il testci Kaiser-Meyer-Olkin (KMO) indicache ilcampione usato per lacostruzionecel questionario  SOS è:adeguato per l’analisi fattoriale  "
     },
     {
         "title": "191) Il metodocheconsentecicalcolarebo eb1: ",
@@ -1698,7 +1875,8 @@ const questions = [
             "b) Metodocei minimi residui ",
             "c) Metodocellaceviazione standard ",
             "d) Metodocellacevianza "
-        ]
+        ],
+        "correctAnswer": "191)Betacon zeroacosa equivale nei punteggi standardizzati: Semprea 0 perchéb0= u1-B1u2, poiché  u1=u2=0b0= 0-B1 0 = 0  "
     },
     {
         "title": "192)con i punteggi standardizzati ilcoefficientebo: ",
@@ -1707,7 +1885,8 @@ const questions = [
             "b) È sempre ugualea 1 e il numeroceicoefficienticacalcolare è ugualeal numeroci predittori ",
             "c) È sempre ugualeal valore mediocelcampione ",
             "d) È sempre ugualealcoefficienteb1 "
-        ]
+        ],
+        "correctAnswer": "192)Il metodocheconsentecicalcolarebo eb1: metodo minimi quadrati  "
     },
     {
         "title": "193) Uncampione èconsiderato moltobuono per l’analisi fattoriale…: ",
@@ -1716,7 +1895,8 @@ const questions = [
             "b)con 500 soggetti ",
             "c)con 1000 soggetti ",
             "d)con 50 soggetti "
-        ]
+        ],
+        "correctAnswer": "193)Con i punteggi standardizzati ilcoefficientebo: è sempre ugualea 0 e il numeroceicoefficientica calcolare è ugualeal numeroci predittori  "
     },
     {
         "title": "194) Nell’analisi fattoriale siceve evitare l’uso: ",
@@ -1725,7 +1905,8 @@ const questions = [
             "b)ci variabiliconaltacomunalità ",
             "c)ci variabili non normalmentecistribuite ",
             "d)ci variabiliconbassacorrelazione "
-        ]
+        ],
+        "correctAnswer": "194)Uncampione èconsiderato moltobuono per l’analisi fattoriale…: 500 soggetti  "
     },
     {
         "title": "195) Nell’analisi fattoriale le variabilicomplesse sono: ",
@@ -1734,7 +1915,8 @@ const questions = [
             "b) Variabilicasuali ",
             "c) Variabiliconalta varianza ",
             "d) Variabiliconbassacomunalità "
-        ]
+        ],
+        "correctAnswer": "195)Nell’analisi fattoriale siceve evitare l’uso:ci variabili empiricamente non indipendenti "
     },
     {
         "title": "196) Qualeci queste NONcalcola la stimacell'attendibilità: ",
@@ -1743,7 +1925,8 @@ const questions = [
             "b)coefficientealfacicronbach ",
             "c)ceviazione standard ",
             "d) Formulaci Guttmann "
-        ]
+        ],
+        "correctAnswer": "196)Nell’analisi fattoriale le variabilicomplesse sono: variabiliche misurano più fattori contemporaneamente  "
     },
     {
         "title": "197)cosa indica uncoefficientecicorrelazione paria 0? ",
@@ -1752,7 +1935,8 @@ const questions = [
             "b) Vi ècorrelazione negativa tra lecue variabili ",
             "c) Vi ècorrelazione positiva tra lecue variabili ",
             "d) Le variabili sono indipendenti "
-        ]
+        ],
+        "correctAnswer": "197)Qualeci queste NONcalcola la stimacell'attendibilità:, formula profetica Spearman-brown  "
     },
     {
         "title": "198) Quando si usa ilcoefficientecicorrelazione \"rphi\": ",
@@ -1761,7 +1945,8 @@ const questions = [
             "b) Quando entrambe le variabili sono su scala ordinale ",
             "c) Quando entrambe le variabili sono su scala intervallo ",
             "d) Quando entrambe le variabili sono su scalaci rapporto"
-        ]
+        ],
+        "correctAnswer": "198)Cosa indica uncoefficientecicorrelazione paria 0?• NON VI ècORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla)  "
     },
     {
         "title": "199) Ilcoefficientecicorrelazione rci Spearman sicalcolacon punteggi su scala: ",
@@ -1770,7 +1955,8 @@ const questions = [
             "b) Nominale ",
             "c) Intervallo ",
             "d)ci rapporto "
-        ]
+        ],
+        "correctAnswer": "199)Quando si usa ilcoefficientecicorrelazione \"rphi\": QUANDO ENTRAMBE LE VARIABILI SONO SU  SCALA NOMINALE  "
     },
     {
         "title": "201) La formula �� − ��������costituisce: ",
@@ -1788,7 +1974,8 @@ const questions = [
             "b)coefficienteciceterminazione R^2=r^2 ",
             "c)coefficientecicorrelazioneci Spearman ",
             "c)coefficientecicorrelazioneci Kendall "
-        ]
+        ],
+        "correctAnswer": "202)R^2?coefficienteciceterminazione R^2=r^2 "
     },
     {
         "title": "203) Lacorrelazione lineare positiva: ",
@@ -1797,7 +1984,8 @@ const questions = [
             "b)all’aumentareci x si osserva unaciminuzioneci y ",
             "c) Nonc'ècorrelazione tra x e y ",
             "c) Lacorrelazionecipendecalcoefficienteci Pearson "
-        ]
+        ],
+        "correctAnswer": "203)Lacorrelazione lineare positiva:all’aumentarecei valori xaumentano i valori y 204)Lacorrelazione lineare negativa:all’aumentareci x si osserva unaciminuzioneci y  205)Betacon 1acosa equivale:coefficienteangolare (pendenza)"
     },
     {
         "title": "204) Lacorrelazione lineare negativa: ",
@@ -1824,7 +2012,8 @@ const questions = [
             "b) È superiorea 100 ",
             "c) È inferiorea 100 ",
             "c) È ugualea 0"
-        ]
+        ],
+        "correctAnswer": "206)Il punteggio x èca ritenersi nella media se: è ugualea 100  "
     },
     {
         "title": "207) y=axcorrispondea: ",
@@ -1833,7 +2022,8 @@ const questions = [
             "b) Funzione logaritmica ",
             "c) Funzionececlinataconb=0, poiché varia l’inclinazionecella retta ",
             "c) Funzione lineare "
-        ]
+        ],
+        "correctAnswer": "207)y=axcorrispondea: funzionececlinatacon β=0, poiché varia l’inclinazionecella retta. 208)correlazioneci Pearson (������������) è (n=numci soggetti 209)Quale scala ha il livello piùcompletoci operazioni possibili? SCALAa RAPPORTI  210)Cosa servono le scale L, F, K, nell’MMPI: ITEM VALIDAZIONE  "
     },
     {
         "title": "208)correlazioneci Pearson (������������) ",
@@ -1869,7 +2059,8 @@ const questions = [
             "b) Likert ",
             "c) Guttman ",
             "c) WPPSI "
-        ]
+        ],
+        "correctAnswer": "211)Qualeci queste non è una scalaciatteggiamento: WPPSI  "
     },
     {
         "title": "212) Il quoziente intellettivo totaleaumentacicirca 3 punti ogni 10anni: ",
@@ -1878,7 +2069,8 @@ const questions = [
             "b) Effetto Hawthorne ",
             "c) Effetto Zeigarnik ",
             "c) Effetto Pigmalione "
-        ]
+        ],
+        "correctAnswer": "212)Il quoziente intellettivo totaleaumentacicirca 3 punti ogni 10anni: Effetto Flynn "
     },
     {
         "title": "213) La validitàcicostruttocipende: ",
@@ -1887,7 +2079,8 @@ const questions = [
             "b)callacefinizione operativacelcostrutto misurato tramite il reattivo c)calcoefficienteci Pearson ",
             "c)cal punteggio z",
             "214)cos'è la validitàcicontenuto? "
-        ]
+        ],
+        "correctAnswer": "213)La validitàcicostruttocipende: •dallacefinizione operativacelle proprietàcelcostrutto misurato  tramite il reattivo  "
     },
     {
         "title": "214)cos'è la validitàcicontenuto? ",
@@ -1896,7 +2089,8 @@ const questions = [
             "b) Validitàcicostrutto ",
             "c) Validità esterna ",
             "c) Validità interna "
-        ]
+        ],
+        "correctAnswer": "214)Cos'è la validitàcicontenuto? si riferiscealla popolazionea partirecalla quale sono stati selezionati  gli itemcel reattivo. Un reattivo ha validitàcicontenuto se ilcampione finaleci item è stato estratto cell’intera popolazioneci itemche possono essere validi indicatoricelcostrutto psicologico indagato.  "
     },
     {
         "title": "215)cos'è la validità PREDITTIVA? ",
@@ -1905,7 +2099,8 @@ const questions = [
             "b) Validitàcicostrutto ",
             "c) Validità predittiva ",
             "c) I punteggicel reattivo sono stati ottenuti in un secondo momento precedente rispettoai valoricelcriterio "
-        ]
+        ],
+        "correctAnswer": "215)Cos'è la validità PREDITTIVA? I punteggicel reattivo sono stati ottenuti in un secondo momento  precedente rispettoai valoricelcriterio  "
     },
     {
         "title": "216) Sichiama validitàconcorrente se: ",
@@ -1914,7 +2109,8 @@ const questions = [
             "b) I valoricelcriterio e i punteggicel reattivo sono stati ottenuti nello stesso momento ",
             "c) I punteggicel reattivo sono stati ottenuticopo i valoricelcriterio ",
             "c) I valoricelcriterio sono stati ottenuti in un secondo momento "
-        ]
+        ],
+        "correctAnswer": "216)Sichiama validitàconcorrente se: i valoricelcriterio e i punteggicel reattivo sono stati ottenuti nello  stesso momento o periodoci tempo "
     },
     {
         "title": "217) r-pearson si usa su scala: ",
@@ -1923,7 +2119,8 @@ const questions = [
             "b) Ordinale ",
             "c) Intervallo o Rapporti, entrambe su scala quantitativa ",
             "c) Rapporti "
-        ]
+        ],
+        "correctAnswer": "217)r-pearson si usa su scala:a intervalli o rapporti, entrambe su scala quantitativa "
     },
     {
         "title": "218) Nella scala nominale: ",
@@ -1932,7 +2129,8 @@ const questions = [
             "b) I soggetti sonoclassificati inbasea un punteggio ",
             "c) I soggetti sono misurati in unitàci misura standard ",
             "c) I soggetti sono valutati inbasea una scalaci intensità "
-        ]
+        ],
+        "correctAnswer": "218)Nella scala nominale: i soggetti sono ripartiti incategorie inbaseaceterminatecaratteristiche  219)La scalacell’amicalità: misura il gradoci socievolezza ed empatia  "
     },
     {
         "title": "219) La scalacell’amicalità: ",
@@ -1950,7 +2148,8 @@ const questions = [
             "b) La personalità ",
             "c) Lacepressione ",
             "c) L'ansia "
-        ]
+        ],
+        "correctAnswer": "220)La scalac misura: lacepressione  "
     },
     {
         "title": "221) La scalaa intervallo permette: ",
@@ -1959,7 +2158,8 @@ const questions = [
             "b)ciclassificare gli elementi incategorie ",
             "c)ciassegnare un ordine gerarchicoagli elementi ",
             "c)ci misurare la presenza o l'assenzaci unattributo "
-        ]
+        ],
+        "correctAnswer": "221)La scalaa intervallo permette:ci quantificare lacistanza tra gli elementi  "
     },
     {
         "title": "222) I subtest ordinamentoci storie figurate…: ",
@@ -1968,7 +2168,8 @@ const questions = [
             "b) Scalaciatteggiamento ",
             "c) Scalaci performance ",
             "c) Scalaci personalità "
-        ]
+        ],
+        "correctAnswer": "222)I subtest ordinamentoci storie figurate…: scala performance "
     },
     {
         "title": "223) Un itemcon rispostaci tipo Likert è un itemcon risposta? ",
@@ -1977,7 +2178,8 @@ const questions = [
             "b)chiusa e politomica ",
             "c)continua ",
             "c)cicotomica "
-        ]
+        ],
+        "correctAnswer": "223)Un itemcon rispostaci tipo Likert è un itemcon risposta?chiusa e politomica "
     },
     {
         "title": "224) Nell’ MMPI la scalaback F serve per: ",
@@ -1986,7 +2188,8 @@ const questions = [
             "b) Misurare il mantenimentocell'attenzionecurante lacompilazionecel test ",
             "c) Misurare la sinceritàcelle risposte ",
             "c) Misurare la memoria "
-        ]
+        ],
+        "correctAnswer": "224)Nell’ MMPI la scalaback F serve per: misurare il mantenimentocell’attenzionecurante la compilazionecel test  "
     },
     {
         "title": "225) Quando si usa l'r-pears: ",
@@ -1995,7 +2198,8 @@ const questions = [
             "b) Su scala ordinale ",
             "c) Su scala intervallo ",
             "c) Su entrambe le scale quantitative "
-        ]
+        ],
+        "correctAnswer": "225)Quando si usa l'r-pears: entrambe scale quantitative "
     },
     {
         "title": "226)con le scale Wechsler: ",
@@ -2004,7 +2208,8 @@ const questions = [
             "b) I QIcambiano significato inbaseall'età ",
             "c) I QI sono utilizzati solo inadulti ",
             "c) I QI non sonoconsideratiaffidabili"
-        ]
+        ],
+        "correctAnswer": "226)Con le scale whechsler: i QI hanno lo stesso significatocibasea prescinderecall’ età "
     },
     {
         "title": "227) Per variabile indipendente si intende: ",
@@ -2013,7 +2218,8 @@ const questions = [
             "b) Quell’oggetto o evento influenzatocallealtre variabili ",
             "c) Quell’oggetto o evento principalecella ricerca ",
             "c) Quell’oggetto o eventocausatocalcaso "
-        ]
+        ],
+        "correctAnswer": "227)Per variabile indipendente si intende: quell’oggetto o evento manipolatocallo sperimentatore per  suscitare una reazione nelle persone  "
     },
     {
         "title": "228) Ilcisegnocorrelazionale siapplica? ",
@@ -2022,7 +2228,8 @@ const questions = [
             "b) Quando si vuole esaminare la relazione tracue variabili ",
             "c) Quando si vuole escludere la variabilecipendente ",
             "c) Quando risulta impossibile stabilire quale variabileassume il ruoloci variabile indipendente e quale quelloci variabilecipendente. Unicocompitocel ricercatore è stabilire se esiste una qualche formaci relazione tra le variabilici interesse "
-        ]
+        ],
+        "correctAnswer": "228)Ilcisegnocorrelazionale siapplica? Quando risulta impossibile stabilire quale variabileassume il ruolo ci variabile indipendente e quale quelloci variabilecipendente. Unicocompitocel ricercatore è stabilire se  esiste una qualche formaci relazione tra le variabilici interesse "
     },
     {
         "title": "229) La psicologia sperimentale ha lo scopoci: ",
@@ -2031,7 +2238,8 @@ const questions = [
             "b)comprendere i processi mentali ",
             "c)ceterminare la relazionecausa-effetto tra la variabile indipendente ecipendente ",
             "c) Misurare la personalità "
-        ]
+        ],
+        "correctAnswer": "229)La psicologia sperimentale ha lo scopoci:ceterminare la relazionecausa-effetto tra la variabile  indipendente e variabilecipendente  "
     },
     {
         "title": "230) Indicare quale può essere un inconvenientecella procedura Test-Retest: ",
@@ -2040,7 +2248,8 @@ const questions = [
             "b) I soggetti possonocimenticare le risposte ",
             "c) Il test può risultare troppo lungo ",
             "c) I soggetti possono mentirecurante la seconda sessione "
-        ]
+        ],
+        "correctAnswer": "230)Indicare quale può essere un inconvenientecella procedura Test-Retest: I soggettiapprendono le  risposteaumentando l’attendibilità  "
     },
     {
         "title": "231) Il testcisegnocon icubiappartiene: ",
@@ -2049,7 +2258,8 @@ const questions = [
             "b)alle proveci intelligenza fluida ",
             "c)alle proveci intelligenzacristallizzata ",
             "c)alle proveci Performance QIP "
-        ]
+        ],
+        "correctAnswer": "231)Il testcisegnocon icubiappartiene: QIP (proveci performance)  "
     },
     {
         "title": "232) Item Likert: ",
@@ -2058,7 +2268,8 @@ const questions = [
             "b) F ",
             "c) K ",
             "c) Tutte le precedenti L F K"
-        ]
+        ],
+        "correctAnswer": "232)Item Likert: L F K  "
     },
     {
         "title": "233) I punteggicella WAIS subisconocecremento: ",
@@ -2067,7 +2278,8 @@ const questions = [
             "b)con l’aumentarecell'istruzione ",
             "c)con l’aumentarecella pratica ",
             "c)con l’aumentarecell'intelligenza "
-        ]
+        ],
+        "correctAnswer": "233)I punteggicella WAIS subisconocecremento:con l’aumentarecell’età "
     },
     {
         "title": "234) L’intervista qualitativa è: ",
@@ -2076,7 +2288,8 @@ const questions = [
             "b) Piùcirettacella quantitativa ",
             "c) Meno standardizzata/direttivacella quantitativa ",
             "c) Piùbrevecella quantitativa "
-        ]
+        ],
+        "correctAnswer": "234)L’intervista qualitativa è: menocirettivacella quantitativa, meno standardizzata "
     },
     {
         "title": "235) Ilcolloquio permetteci: ",
@@ -2085,7 +2298,8 @@ const questions = [
             "b) Raccoglierecati relativial personale ",
             "c) Entrambe le precedenti ",
             "c) Nessunacelle precedenti "
-        ]
+        ],
+        "correctAnswer": "235)Ilcolloquio permetteci: raccoglierecati relativialcontenuto ecati relativial personale  "
     },
     {
         "title": "236) Il termine Mastering indica: ",
@@ -2094,7 +2308,8 @@ const questions = [
             "b) Una situazioneciconfusione ecisordine ",
             "c) Una situazioneci stress eansia ",
             "c) Una situazionecicollaborazione econdivisione "
-        ]
+        ],
+        "correctAnswer": "236)Il termine Mastering indica: una situazioneci padronanza,cicontrollo e poterecell’individua sulla  situazione "
     },
     {
         "title": "237) Qualicaratteristiche prende inconsiderazione il modello JD-Rcibakker ecemerouti? ",
@@ -2103,7 +2318,8 @@ const questions = [
             "b) Lecimensionicel rendimento lavorativo ",
             "c) Lecaratteristiche individualicei lavoratori ",
             "c) Le variabilici personalitàche influenzano il rendimento "
-        ]
+        ],
+        "correctAnswer": "237)Qualicaratteristiche prende inconsiderazione il modello JD-Rcibakker ecemerouti? Lecimensioni  positive e negativechecaratterizzano ilbenessere e ilcisagio lavorativo "
     },
     {
         "title": "238)cos’e l’impulsione? ",
@@ -2112,7 +2328,8 @@ const questions = [
             "b) Una formaciattenzione selettiva ",
             "c) Una formaci response set ",
             "c) Una formaci reazione emotiva"
-        ]
+        ],
+        "correctAnswer": "238)Cos’e l’impulsione? Una formaci Response set  "
     },
     {
         "title": "239) Il ricercatoreceve: ",
@@ -2121,7 +2338,8 @@ const questions = [
             "b) Spiegare ilcompito primacella prova ",
             "c)careai partecipanti tutto il tempocicui hannobisogno ",
             "c) Interpretare le rispostecei partecipanticurante la prova "
-        ]
+        ],
+        "correctAnswer": "239)Il ricercatoreceve: mostrare il materiale soloal momentocella prova  "
     },
     {
         "title": "240) Ilcampionamento stratificato prevedeche gli individui siano estratticalla popolazione? ",
@@ -2130,7 +2348,8 @@ const questions = [
             "b) In modo noncasuale ",
             "c) In modoca presentare in misura equivalenteceterminatecaratteristiche,che si suppone possano influenzare il punteggiocel singoloal reattivo ",
             "c) In modoca presentare unacistribuzione normale "
-        ]
+        ],
+        "correctAnswer": "240)Ilcampionamento stratificato prevedeche gli individui siano estratticalla popolazione? In modoca  presentare in misura equivalenteceterminatecaratteristiche,che si suppone possano influenzare il  punteggiocel singoloal reattivo  "
     },
     {
         "title": "241)che tipoci test è il TAT? ",
@@ -2139,7 +2358,8 @@ const questions = [
             "b) Testci intelligenza ",
             "c) Test proiettivoci narrazione ocontenuto ",
             "c) Testciabilità verbale "
-        ]
+        ],
+        "correctAnswer": "241)Che tipoci test è il TAT? TEST PROIETTIVIcI NARRATIVA OcONTENUTO  "
     },
     {
         "title": "242)che tipoci test sono le matrici progressive: ",
@@ -2148,7 +2368,8 @@ const questions = [
             "b) Testci intelligenzacristallizzata ",
             "c) Testciabilità numerica ",
             "c) Testciabilità verbale "
-        ]
+        ],
+        "correctAnswer": "242)Che tipoci test sono le matrici progressive: QI intelligenza fluida  "
     },
     {
         "title": "243)cos'è un test minima performance? ",
@@ -2157,7 +2378,8 @@ const questions = [
             "b) Indica il massimocellecapacitàcel soggetto ",
             "c) Indica la performance minima richiesta per superare il test ",
             "c) Indica la performance mediacella popolazione "
-        ]
+        ],
+        "correctAnswer": "243)Cos'è un test minima performance? Indica lecapacità psichiche tipichecel soggetto  "
     },
     {
         "title": "244) QI verbalecomprende il seguente test: ",
@@ -2166,7 +2388,8 @@ const questions = [
             "b)costruzioneci oggetti ",
             "c)comprensione ",
             "c) Ordinamentoci storie figurate"
-        ]
+        ],
+        "correctAnswer": "244)QI verbalecomprende il seguente test: ragionamentoaritmetico  "
     },
     {
         "title": "245)cos’è un testci massima performance? ",
@@ -2175,7 +2398,8 @@ const questions = [
             "b) Un testche misura leabilitàalci sottocellecapacitàcel soggetto ",
             "c) Un testche misura leabilità tipichecel soggetto ",
             "c) Un testche misura leabilità mediecella popolazione "
-        ]
+        ],
+        "correctAnswer": "245)Cos’è un testci massima performance? Testci intelligenza,attitudinali eci rendimento  "
     },
     {
         "title": "246) Il test – retestcos’è? ",
@@ -2184,7 +2408,8 @@ const questions = [
             "b) Somministrare testciversialla stessa persona ",
             "c) Somministrare lo stesso testacue gruppiciversi ",
             "c) Somministrare lo stesso testcue volte nello stesso giorno "
-        ]
+        ],
+        "correctAnswer": "246)Il test – retestcos’è? somministrare in 2 sessioniciverse lo stesso test  "
     },
     {
         "title": "247) I test proiettivi: ",
@@ -2193,7 +2418,8 @@ const questions = [
             "b) Presentano stimolichiari ed evocano risposteconsce ",
             "c) Presentano stimoliambigui ed evocano risposteconsce ",
             "c) Presentano stimolichiari ed evocano risposte inconsce "
-        ]
+        ],
+        "correctAnswer": "247)I test proiettivi: presentare stimoliambigui ed evocare risposte inconsce  "
     },
     {
         "title": "248)cosa si intende per normaci un test psicologico: ",
@@ -2202,7 +2428,8 @@ const questions = [
             "b)costruzionecei parametriciapplicazione ",
             "c)cefinizionecelle scaleci misura ",
             "c) Validazioneceicontenuticel test "
-        ]
+        ],
+        "correctAnswer": "248)Cosa si intende per normaci un test psicologico:costruzionecei parametriciapplicazione  "
     },
     {
         "title": "249) Testci Rorshach: ",
@@ -2211,7 +2438,8 @@ const questions = [
             "b) Testci intelligenza ",
             "c) Test proiettivo ",
             "c) Testci performancecognitiva "
-        ]
+        ],
+        "correctAnswer": "249)Testci Rorshach: test proiettivo  "
     },
     {
         "title": "250) Il test oggettivo è: ",
@@ -2220,7 +2448,8 @@ const questions = [
             "b) Un testche prevede rispostea scelta multipla ",
             "c) Un test incui le risposte sono obiettive e valutabili oggettivamente ",
             "c) Un testche richiede rispostebasate sull'opinione personale "
-        ]
+        ],
+        "correctAnswer": "250)Il test oggettivo è: un test incui prevedono rispostea scelta multipla  "
     },
     {
         "title": "251) Il testci intelligenza è: ",
@@ -2229,7 +2458,8 @@ const questions = [
             "b) Un testci personalità ",
             "c) Un testciabilità motorie ",
             "c) Un testciabilità sociali"
-        ]
+        ],
+        "correctAnswer": "251)Il testci intelligenza è: un testcognitivo  "
     },
     {
         "title": "252) I punteggi grezzicella WAIS vannoca 0a un massimoci: ",
@@ -2238,7 +2468,8 @@ const questions = [
             "b) 150 ",
             "c)cipendecal singolo subtest ",
             "c) 200 "
-        ]
+        ],
+        "correctAnswer": "252)I punteggi grezzicella WAIS vannoca 0a un massimoci:civersoca subtesta subtest  "
     },
     {
         "title": "253) Il subtestcicomprensioneappartiene: ",
@@ -2247,7 +2478,8 @@ const questions = [
             "b) QIP (performance) ",
             "c)a entrambi ",
             "c) Nessunacelle precedenti "
-        ]
+        ],
+        "correctAnswer": "253)Il subtestcicomprensioneappartiene: QIV (verbale) "
     },
     {
         "title": "254)cos'è il KR20? ",
@@ -2256,7 +2488,8 @@ const questions = [
             "b) Una scalaci misura ",
             "c) Una tecnicaci valutazione ",
             "c) Un testci personalità "
-        ]
+        ],
+        "correctAnswer": "254)Cos'è il KR20? La formulaci Kuder-Richardsonè vieneapplicataai testcon item omogenei, èadattaa  valutare lacoerenza internaci test formatica itemcicotomici (misuraattendibilità) "
     },
     {
         "title": "255) Qual è lacaratteristicacelle interviste strutturate? ",
@@ -2265,7 +2498,8 @@ const questions = [
             "b) Ilcontenutocellecomande ècecisocurante l'intervista ",
             "c) Ilcontenuto e la strutturacellecomande sonocecisecall'inizio  ",
             "D) Lecomande sonoaperte e non strutturate "
-        ]
+        ],
+        "correctAnswer": "255)Qual è lacaratteristicacelle interviste strutturate? ilcontenuto e la strutturacellecomande sono cecisecall'inizio "
     },
     {
         "title": "256) Indicanocon “ratt” lacorrelazionecel testciarrivo,con “r part” lacorrelazionecel testci partenza econ “u” il numeroci parti incui è statociviso il test, la formulacorrettacell’equazioneci Spearman-Brown è: ",
@@ -2274,7 +2508,8 @@ const questions = [
             "b) ratt=1+(u−1)rpartr_{att} = 1 + (u - 1) r_{part}ratt=1+(u−1)rpart ",
             "c) rpart=1−(u−1)rattr_{part} = 1 - (u - 1) r_{att}rpart=1−(u−1)ratt ",
             "d) ratt=1−(u−1)rpartr_{att} = 1 - (u - 1) r_{part}ratt=1−(u−1)rpart "
-        ]
+        ],
+        "correctAnswer": "256)Indicanocon “ratt” lacorrelazionecel testciarrivo,con “r part” lacorrelazionecel testci partenza  econ “u” il numeroci parti incui è statociviso il test, la formulacorrettacell’equazioneci Spearmanbrown è: ������������ �������� = 1+(��−1) ���������� "
     },
     {
         "title": "257) Un testci tipica performance misura: ",
@@ -2283,7 +2518,8 @@ const questions = [
             "b)ciòche èatipico nei soggetti ",
             "c)ciòche è tipico nei soggetti ",
             "d) L'abilitàci problem solving "
-        ]
+        ],
+        "correctAnswer": "257)Un testci tipica performance misura:ciòche è tipico nei soggetti  "
     },
     {
         "title": "258) Un test ha validità esterna se: ",
@@ -2292,7 +2528,8 @@ const questions = [
             "b) È utilizzato solo incontesti specifici ",
             "c) Misura esclusivamenteabilitàcognitive ",
             "d) Viene utilizzatoca un numero limitatoci persone"
-        ]
+        ],
+        "correctAnswer": "258)Un test ha validità esterna se: può essereapplicato inciversicontesti spaziali e temporali  "
     },
     {
         "title": "259) Il testci velocità prevede: ",
@@ -2301,7 +2538,8 @@ const questions = [
             "b) Un intervalloci tempo prestabilito e uguale per tutti i soggetti ",
             "c) Nessun intervalloci tempo ",
             "d) Una faseci preparazione preliminare "
-        ]
+        ],
+        "correctAnswer": "259)Il testci velocità prevede: un intervalloci tempo prestabilito ed uguale per tutti i soggetti "
     },
     {
         "title": "260)cifferenzacei punteggicell'intelligenzacalcolaticabinet ecalla WAIS: ",
@@ -2310,7 +2548,8 @@ const questions = [
             "b) QI emotivo, l’altro QIcognitivo ",
             "c) QI verbale, l’altro QI non verbale ",
             "d) QI fluido, l’altro QIcristallizzato "
-        ]
+        ],
+        "correctAnswer": "260)Differenzacei punteggicell'intelligenzacalcolaticabinet ecalla WAIS: QI rapporto mente, l’altro QI ceviazione  "
     },
     {
         "title": "261) Il gradoci intelligenzaci una persona è una variabileciscreta ocontinua? ",
@@ -2319,7 +2558,8 @@ const questions = [
             "b)continua ",
             "c) Variabile ",
             "d)costante "
-        ]
+        ],
+        "correctAnswer": "261)Il gradoci intelligenzaci una persona è una variabileciscreta ocontinua?continua "
     },
     {
         "title": "262)come sicefinisce il gruppocicontrollo: ",
@@ -2328,7 +2568,8 @@ const questions = [
             "b) Situazione sperimentale ",
             "c) Gruppociconfronto ",
             "d) Variabilecipendente "
-        ]
+        ],
+        "correctAnswer": "262)Come sicefinisce il gruppocicontrollo: situazione neutra  "
     },
     {
         "title": "263) Il punteggio spaziale PPSP ècatoca: ",
@@ -2337,7 +2578,8 @@ const questions = [
             "b)cisegnocon icubi ",
             "c) Ricostruzioneci oggetti ",
             "d) Tutte le risposte sopra "
-        ]
+        ],
+        "correctAnswer": "263)Il punteggio spaziale PPSP ècatoca:completamentoci figure,cisegnocon icubi e ricostruzioneci  oggetti  "
     },
     {
         "title": "264) Uncifettocella WM: problem solving siattribuiscea: ",
@@ -2346,7 +2588,8 @@ const questions = [
             "b)canno neurologico ",
             "c) Mancanzaciattenzione ",
             "d)bassa motivazione "
-        ]
+        ],
+        "correctAnswer": "264)Uncifettocella WM: problem solving siattribuiscea:canno neurologico  "
     },
     {
         "title": "265) QIV misura: ",
@@ -2355,7 +2598,8 @@ const questions = [
             "b) Intelligenzacristallizzata ",
             "c) Memoriaci lavoro ",
             "d)creatività "
-        ]
+        ],
+        "correctAnswer": "265)QIV misura: intelligenzacristallizzata "
     },
     {
         "title": "266) Icubi nella WAIS misurano: ",
@@ -2364,7 +2608,8 @@ const questions = [
             "b) Intelligenzaadattiva ",
             "c)abilità motorie ",
             "d)abilità percettive"
-        ]
+        ],
+        "correctAnswer": "266)Icubi nella WAIS misurano: intelligenza generale o fluida  "
     },
     {
         "title": "267) Nelcalcolocel QI: ",
@@ -2373,7 +2618,8 @@ const questions = [
             "b) Si trasformano i punteggi grezzi in ponderati ",
             "c) Sicalcolano leceviazioni standard ",
             "d) Siapplica la trasformataci Fisher "
-        ]
+        ],
+        "correctAnswer": "267)Nelcalcolocel QI: (trasformazionici punteggi grezzi in ponderati) "
     },
     {
         "title": "268) Lacimensionecisagiocel questionario SOScorrelacon le scaleclinichecella SCL-90R? ",
@@ -2382,7 +2628,8 @@ const questions = [
             "b) Sì,con tutto e lecorrelazioni sono positive ",
             "c) No, nonc'ècorrelazione ",
             "d)cipendecalcontesto "
-        ]
+        ],
+        "correctAnswer": "268)Lacimensionecisagiocel questionario SOScorrelacon le scaleclinichecella SCL-90R? Sicon tutte e  lecorrelazioni sono positive  "
     },
     {
         "title": "269) Il modello più utilizzato, tra i modelli interazionalicello stress (SOS), è quelloci: ",
@@ -2391,7 +2638,8 @@ const questions = [
             "b) Selye (modellocella sindrome generaleciadattamento) ",
             "c) Lazarus e Folkman (modello transazionalecelcoping) ",
             "d) Maslach e Jackson (modellocella sindromecaburnout) "
-        ]
+        ],
+        "correctAnswer": "269)Il modello più utilizzato, tra i modelli interazionalicello stress (SOS), è quelloci: Karasek (modello comandacontrollo)  "
     },
     {
         "title": "270) Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? ",
@@ -2400,7 +2648,8 @@ const questions = [
             "b) Metodoclinico ",
             "c) Metodo empirico ",
             "d) Metodoceduttivo "
-        ]
+        ],
+        "correctAnswer": "270)Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? Il metodo empirico "
     },
     {
         "title": "271)alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto? ",
@@ -2409,7 +2658,8 @@ const questions = [
             "b) Se hacapito lecomande ",
             "c) Se gli è sembrato interessante ",
             "d) Secesidera partecipareadaltri studi "
-        ]
+        ],
+        "correctAnswer": "271)Alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto? Se gli è sembrato  interessante  "
     },
     {
         "title": "272) La scalaci svalutazionecel questionario SOS fornisce informazioni riguardanti: ",
@@ -2418,7 +2668,8 @@ const questions = [
             "b) Ilbenessere psicologicoceicipendenti ",
             "c) L'organizzazionecel lavoroall'internocell'azienda ",
             "d) La soddisfazione lavorativaceicipendenti "
-        ]
+        ],
+        "correctAnswer": "272)La scalaci svalutazionecel questionario SOS fornisce informazioni riguardanti:  l’organizzazionecel lavoroall’internocell’azienda  "
     },
     {
         "title": "273) La Scalacicisagiocel questionario SOS fornisce informazioni riguardo: ",
@@ -2427,7 +2678,8 @@ const questions = [
             "b) L'inadeguatezza personalecirca lo svolgimentocel lavoro ",
             "c) La soddisfazioneceicipendenti ",
             "d) La qualitàcelle relazioni interpersonali sul postoci lavoro "
-        ]
+        ],
+        "correctAnswer": "273)La Scalacicisagiocel questionario SOS fornisce informazioni riguardo: l’inadeguatezza personale circa lo svolgimentocel proprio lavoro  "
     },
     {
         "title": "274) Ilcominio temporalecel questionario SOS fornisce informazioni inerentialla: ",
@@ -2436,7 +2688,8 @@ const questions = [
             "b)cistribuzionecelle risorseaziendali ",
             "c) Qualitàcelle relazionicon icolleghi ",
             "d) Percezionecello stress sul postoci lavoro"
-        ]
+        ],
+        "correctAnswer": "274)…temporalecel questionario SOS fornisce informazioni inerentialla: gestionecel tempo lavorativo ed  extra-lavorativo  "
     },
     {
         "title": "275) Il questionario Stress Organizzativo e Salute (SOS), nella forma finale, è suddiviso in: ",
@@ -2445,7 +2698,8 @@ const questions = [
             "b) Tre sezioni ed ècompostoca 70 item ",
             "c) Una sezione ed ècompostoca 30 item ",
             "d) Quattro sezioni ed ècompostoca 100 item "
-        ]
+        ],
+        "correctAnswer": "275)Il questionario Stress Organizzativo e Salute (SOS), nella forma finale, p suddiviso in: tre sezioni ed è compostoca 70 item  "
     },
     {
         "title": "276) Per i modelli transazionalicello stress, lo stress èconsideratocome: ",
@@ -2454,7 +2708,8 @@ const questions = [
             "b) Uno stato psicologico positivo ",
             "c) Uno stato psicologico negativochecomprendeaspetticognitivi ed emotivi ",
             "d) Una reazione solo fisicaagli stimoli esterni "
-        ]
+        ],
+        "correctAnswer": "276)Per i modelli transazionalicello stress, lo stress èconsideratocome: Uno stato psicologico negativo checomprende siaaspetticognitiviche emotivi  "
     },
     {
         "title": "277) Nei lavoratoribancari il tassoci mentalizzazionecei processiceve essere: ",
@@ -2463,7 +2718,8 @@ const questions = [
             "b) Medio ",
             "c)alto ",
             "d)cipendecall'età "
-        ]
+        ],
+        "correctAnswer": "277)Nei lavoratoribancari il tassoci mentalizzazionecei processiceve essere:alto  "
     },
     {
         "title": "278) L’insorgenzacello stress si verifica quandoc’è uno squilibrio tra lacomanda percepita e la percezionecelle propriecapacitàci reagiread essa; questacondizione ècefinitacal termine: ",
@@ -2472,7 +2728,8 @@ const questions = [
             "b)bilancio ",
             "c) Imbalance ",
             "d)controllo "
-        ]
+        ],
+        "correctAnswer": "278)L’insorgenzacello stress si verificherebbe quandoc’è uno squilibrio tra lacomanda percepita e la  percezionecelle propriecapacitàci reagiread essa; questacondizione ècefinitacal termine: imbalance  (nonbilancio) "
     },
     {
         "title": "279) Il modellocemand-Controlci Karasekconcepisce lo stresscome: ",
@@ -2481,7 +2738,8 @@ const questions = [
             "b)causatoca un’altacomanda lavorativa e unbassocontrollocel lavoro ",
             "c)causatoca unbassocontrollocel lavoro indipendentementecallacomanda lavorativa ",
             "d)causatoca unbassocontrollocel lavoro e unabassa soddisfazione lavorativa "
-        ]
+        ],
+        "correctAnswer": "279)Il modellocemand-Controlci Karasekconcepisce lo stresscome:causatoca un’altacomanda  lavorativaca partecell’organizzazione e unbassocontrollocel lavoroca partecel lavoratore "
     },
     {
         "title": "280) Nel modellocella sindrome generaleciadattamentoci Selye la rispostacell’organismoceve essere: ",
@@ -2490,7 +2748,8 @@ const questions = [
             "b)aspecifica e qualsiasi ",
             "c) Specifica e prolungata ",
             "d) Generica e limitata "
-        ]
+        ],
+        "correctAnswer": "280)Nel modellocella sindrome generaleciadattamentoci Selye la rispostacell’organismoceve essere: aspecifica e qualsiasi "
     },
     {
         "title": "281)cosa si intende per job resources? ",
@@ -2499,7 +2758,8 @@ const questions = [
             "b) Risorse finanziariecell'azienda ",
             "c) Risorse materialicel lavoro ",
             "d) Risorsecel lavoroche facilitano il raggiungimentocegli obiettivi lavorativi"
-        ]
+        ],
+        "correctAnswer": "281)Cosa si intende per job resources? Risorsecel lavoro  "
     },
     {
         "title": "282) La psicologiacel lavoro hacome fine nella WAIS: ",
@@ -2508,7 +2768,8 @@ const questions = [
             "b) La valutazionecelleabilitàcognitive ",
             "c) La valutazionecelleabilità sociali ",
             "d) La sceltacel personale "
-        ]
+        ],
+        "correctAnswer": "282)La psicologiacel lavoro hacome fine nella WAIS: la sceltacel personale  "
     },
     {
         "title": "283) Ilcoping ècefinitocome: ",
@@ -2517,7 +2778,8 @@ const questions = [
             "b) Uncambiamentocell'ambiente lavorativoca partecel soggettoche non si identifica nel risultato ma negli sforziattuati per il suo raggiungimento ",
             "c) Uno statocibenessere psicologico ",
             "d) Gli sforziattuati per gestire lo stress e risolvere i problemi "
-        ]
+        ],
+        "correctAnswer": "283)Ilcoping ècefinitocome: Uncambiamentocell’ambienteca partecel soggettoche non si identifica  nel risultato ma negli sforziattuati per il suo raggiungimento "
     },
     {
         "title": "284) Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: ",
@@ -2526,7 +2788,8 @@ const questions = [
             "b) Maggiore è la percezionecelle risorse possedute, tanto piùalta sarà la motivazione ",
             "c) Ilcarico lavorativo e la motivazione non sonocorrelati ",
             "d) Maggiore è lacompetizione, maggiore sarà la motivazione "
-        ]
+        ],
+        "correctAnswer": "284)Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezionecelle  risorse possedute, tanto piùalta sarà la motivazione  "
     },
     {
         "title": "285) Xanthopolou,bakker,cemerouti e Shaufeli (2007) hanno esaminato il ruoloci tre risorse personali nel predire l’esaurimento ed ilcoinvolgimento lavorativo, esse sono: ",
@@ -2535,7 +2798,8 @@ const questions = [
             "b)autostima, intelligenza emotiva,assertività ",
             "c)autostima, ottimismo e self-efficacy ",
             "d) Intelligenza,creatività, flessibilità "
-        ]
+        ],
+        "correctAnswer": "285)Xanthopolou,bakker,cemerouti e Shaufeli (2007) hanno esaminato il ruoloci tre risorse personali  nel predire l’esaurimento ed ilcoinvolgimento lavorativo, esse sono:autostima, ottimismo e self-efficacy "
     },
     {
         "title": "286) Secondo la teoriacella rispostac’organoappresaca Favretto, la malattia psicosomatica èceterminataca: ",
@@ -2544,7 +2808,8 @@ const questions = [
             "b) Uno stimoloappreso ",
             "c) Uno squilibrio ormonale ",
             "d) Uno squilibrio genetico "
-        ]
+        ],
+        "correctAnswer": "286)Secondo la teoriacella rispostac’organoappresaca Favretto, la malattia psicosomatica è ceterminataca: Uno stimoloappreso  "
     },
     {
         "title": "287)cifferenza tra punteggio ipsativo e normativo: ",
@@ -2553,7 +2818,8 @@ const questions = [
             "b) Il primo indica il rapporto tra il punteggiocel soggetto e la mediacella popolazione, il secondo indica il punteggiocel soggetto ",
             "c) Entrambi indicano il punteggiocel soggetto ",
             "d) Entrambi indicano il rapporto tra il punteggiocel soggetto e la mediacella popolazione "
-        ]
+        ],
+        "correctAnswer": "287)Differenza tra punteggio ipsativo e normativo: Il primo è il punteggiocel soggetto, il secondo indica il  rapporto tra il suo punteggio e la popolazione  "
     },
     {
         "title": "288) La ricerca neicatic’archivio è un metodo: ",
@@ -2562,7 +2828,8 @@ const questions = [
             "b)cisegnoci ricerca longitudinale ",
             "c)cisegnoci ricerca non sperimentale ",
             "d)cisegnoci ricercacorrelazionale"
-        ]
+        ],
+        "correctAnswer": "288)La ricerca neicatic’archivio è un metodo:cisegnoci ricerca NON sperimentale  "
     },
     {
         "title": "289) Un’intervista strutturata prevede: ",
@@ -2571,7 +2838,8 @@ const questions = [
             "b)comande spontanee e non strutturate ",
             "c)comandeaperte senza un ordine specifico ",
             "d)comande prestabilite solo nella forma "
-        ]
+        ],
+        "correctAnswer": "289)Un’intervista strutturata prevede:comande prestabilite sia nella formache nelcontenuto fin call’inizio  "
     },
     {
         "title": "290) Response set: ",
@@ -2580,7 +2848,8 @@ const questions = [
             "b) La tendenzacel soggettoa fornire risposte uguali in maniera meccanica ",
             "c) La tendenzacel soggettoa rispondere soloa una partecellecomande ",
             "d) La tendenzacel soggettoa rispondere soloallecomande piùcifficili "
-        ]
+        ],
+        "correctAnswer": "290)Response set: la tendenzacel soggettoa fornire risposte uguali in maniera meccanica  "
     },
     {
         "title": "291) PPACcosa rappresenta: ",
@@ -2589,7 +2858,8 @@ const questions = [
             "b) Parametri psicologiciciadattamentoalcambiamento ",
             "c) Punteggi ponderaticiabilitàcognitive ",
             "d) Punteggici valutazionecella personalità "
-        ]
+        ],
+        "correctAnswer": "291)PPACcosa rappresenta: punti ponderaticiattenzione econcentrazione "
     },
     {
         "title": "292) Itemcon targetcistrattori prevedono: ",
@@ -2598,7 +2868,8 @@ const questions = [
             "b) Rispostecicotomiche ",
             "c) Risposteaperte ",
             "d) Risposte multiple "
-        ]
+        ],
+        "correctAnswer": "292)Itemcon targetcistrattori prevedono: risposte politomiche  "
     },
     {
         "title": "293) Per la taraturaanziani si usano: ",
@@ -2607,7 +2878,8 @@ const questions = [
             "b) Punteggi standard ",
             "c) Punteggi grezzi ",
             "d) Punteggi normalizzati "
-        ]
+        ],
+        "correctAnswer": "293)Per la taraturaanziani si usano: punteggi ponderati per età "
     },
     {
         "title": "294) Tra gli effetti più significativiceterminaticall’azionecondivisacei lavoratori ecell’azienda vi sono: ",
@@ -2616,7 +2888,8 @@ const questions = [
             "b) Unaumentocelle ferie ",
             "c) Uncalocella produttività ",
             "d) Unaumentoceiconflitti interni "
-        ]
+        ],
+        "correctAnswer": "294)Tra gli effetti più significativiceterminaticall’azionecondivisacei lavoratori ecell’azienda vi sono: un miglioramentocell’immagineaziendale  "
     },
     {
         "title": "295) L’errore standard indica: ",
@@ -2625,7 +2898,8 @@ const questions = [
             "b) La mediacellecistribuzionicampionarie ",
             "c) Laceviazione standardcella popolazione ",
             "d) La varianzacella popolazione "
-        ]
+        ],
+        "correctAnswer": "295)L’errore standard indica: la varianzacellacistribuzionecampionariacelle medie "
     },
     {
         "title": "296) La trasformataci Fisherconsenteci trasformare: ",
@@ -2634,7 +2908,8 @@ const questions = [
             "b) Icati grezzi in punteggi standard ",
             "c) I punteggi ponderati in punteggi normalizzati ",
             "d) I punteggi grezzi in punteggi standardizzati"
-        ]
+        ],
+        "correctAnswer": "296)La trasformataci Fisherconsenteci trasformare: icoefficienticicorrelazioni in punti z’che hanno  varianza più omogenea "
     },
     {
         "title": "297) Il questionario SOS è statocostituito specificatamente per: ",
@@ -2643,7 +2918,8 @@ const questions = [
             "b) Gli insegnanti ",
             "c) Gli studenti universitari ",
             "d) I lavoratori sociali "
-        ]
+        ],
+        "correctAnswer": "297)Il questionario SOS è statocostituito specificatamente per: gli operatoribancari "
     },
     {
         "title": "298) Nella tecnica Pcell’analisi fattoriale la matriceceicati ècatacai punteggicello stesso soggetto: ",
@@ -2652,7 +2928,8 @@ const questions = [
             "b) Misurati nello stesso momento su più variabili ",
             "c) Misurati suciverse popolazioni ",
             "d) Misuraticon tecnicheciverse "
-        ]
+        ],
+        "correctAnswer": "298)Nella tecnica Pcell’analisi fattoriale la matriceceicati ècatacai punteggicello stesso soggetto: misurati in momenticiversi su più variabili "
     },
     {
         "title": "299) Inanalisi fattoriale, l’eingevaule è la somma: ",
@@ -2661,7 +2938,8 @@ const questions = [
             "b)cei punteggi ottenuticai soggetti ",
             "c)celle variabili latenti ",
             "d)cellecifferenze tra i punteggi osservati e quelliattesi "
-        ]
+        ],
+        "correctAnswer": "299)Inanalisi fattoriale, l’eingevaule è la somma:celle saturazionial quadratoceiciversi fattori "
     },
     {
         "title": "300) Le scalecicontrollo nell’MMPI servono: ",
@@ -2670,7 +2948,8 @@ const questions = [
             "b) Per valutare l'affidabilitàcelle rispostecei soggetti ",
             "c) Per valutare la personalitàcei soggetti ",
             "d) Per valutare l'intelligenzacei soggetti "
-        ]
+        ],
+        "correctAnswer": "300)Le scalecicontrollo nell’MMPI servono: per valutare la validitàcelle rispostecei soggetti "
     },
     {
         "title": "301) Il testci velocità prevede: ",
@@ -2679,7 +2958,8 @@ const questions = [
             "b) Un intervalloci tempo variabilea secondacellecapacitàcel soggetto ",
             "c) Nessun intervalloci tempo specifico ",
             "d) Un intervalloci tempociverso per ogni soggetto "
-        ]
+        ],
+        "correctAnswer": "301)Il testci velocità prevede : un intervalloci tempo prestabilito ed uguale per tutti i soggetti "
     },
     {
         "title": "302) Funzionecorticotropina: ",
@@ -2688,7 +2968,8 @@ const questions = [
             "b) Stimola la produzionecicortisolo ",
             "c) Regola la pressione sanguigna ",
             "d)controlla la produzioneci insulina "
-        ]
+        ],
+        "correctAnswer": "302)Funzionecorticotropina: inibisce le funzioni vegetative quali l’alimentazione e la riproduzione  303)Il ragionamentoaritmetico è un sottoscala:cella WAIS "
     },
     {
         "title": "303) Il ragionamentoaritmetico è un sottoscala: ",
@@ -2706,7 +2987,8 @@ const questions = [
             "b)cella varianza ",
             "c)cellacorrelazione ",
             "d)cel punteggio grezzo"
-        ]
+        ],
+        "correctAnswer": "304)L’erroreci sostituzione ècatocal prodottocell’errore standardci misuracon la radice quadrata:cell’attendibilità "
     },
     {
         "title": "305) Lo stress èconsideratocome uno statocaratterizzatoca: ",
@@ -2715,7 +2997,8 @@ const questions = [
             "b)bassi livelliciattenzione econcentrazione ",
             "c)bassi livelliciansia e preoccupazione ",
             "d) Sensoci soddisfazione e realizzazione personale "
-        ]
+        ],
+        "correctAnswer": "305)Lo stress èconsideratocome uno statocaratterizzatoca:alti livellici eccitazione eansia spesso accompagnatica sensoci inadeguatezza "
     },
     {
         "title": "306) Gli itemcon target ecistrattori prevedono risposteci tipo: ",
@@ -2724,7 +3007,8 @@ const questions = [
             "b)cicotomico ",
             "c) Monotomico ",
             "d)aperto "
-        ]
+        ],
+        "correctAnswer": "306)Gli itemcon target ecistrattori prevedono risposteci tipo: politomico "
     },
     {
         "title": "307) La formula perconcui stabilire il numero minimoci item necessari peravere un test valido è una variante? ",
@@ -2733,7 +3017,8 @@ const questions = [
             "b)cella formulaci Pearson ",
             "c)cella formulacicronbach ",
             "d)cella formulaci Wilcoxon "
-        ]
+        ],
+        "correctAnswer": "307)La formula perconcui stabilire il numero minimoci item necessari peravere un test valido è una  variante?cella formulaci Spearman-Brown  "
     },
     {
         "title": "308) Il teoremaci rappresentazione, nell’ambitocella teoriaci misurazione, stabilisceche: ",
@@ -2742,7 +3027,8 @@ const questions = [
             "b) Non è possibile rappresentarecati empirici in forma numerica ",
             "c) È possibile rappresentarecati numerici in forma empirica ",
             "d) Le proprietà empiriche non possono essere rappresentate numericamente "
-        ]
+        ],
+        "correctAnswer": "308)Il teoremaci rappresentazione, nell’ambitocella teoriaci misurazione, stabilisceche: è possibile associare una struttura empirica,conceterminate proprietà,ad una numericacon uguali proprietà "
     },
     {
         "title": "310) Un testci massima performance serve per: ",
@@ -2769,7 +3055,8 @@ const questions = [
             "b) Il metodoceduttivo ",
             "c) Il metodo statistico ",
             "d) Il metodo fenomenologico"
-        ]
+        ],
+        "correctAnswer": "312)Un testci massima performance serve per: Misurare lecaratteristiche psicologiche spingendo i  soggettiacare il meglioci se. "
     },
     {
         "title": "313) La maggior partecei soggetti hacome titoloci studio: ",
@@ -2778,7 +3065,8 @@ const questions = [
             "b) Laurea triennale ",
             "c) Laurea magistrale ",
             "d)cottoratoci ricerca "
-        ]
+        ],
+        "correctAnswer": "313) Lacimensione Logoriocel questionario SOScorrelacon le scaleclinichecella SCL-90R? Sicon tutte e  lecorrelazioni sono positive. "
     },
     {
         "title": "314) Il testci Rorschach è: ",
@@ -2787,7 +3075,8 @@ const questions = [
             "b) Un test oggettivo ",
             "c) Un testci personalità ",
             "d) Un testci intelligenza "
-        ]
+        ],
+        "correctAnswer": "314) Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? Il metodo empirico "
     },
     {
         "title": "315) Trasformazione permissibilea rapporto: ",
@@ -2796,7 +3085,8 @@ const questions = [
             "b)cescrivono l’equazione y=bx ",
             "c)cescrivono l’equazione y=ax^2 ",
             "d)cescrivono l’equazione y=1/x "
-        ]
+        ],
+        "correctAnswer": "315)La maggior partecei soggetti hacome titoloci studio: media superiore "
     },
     {
         "title": "316) Matriceci saturazione: ",
@@ -2805,7 +3095,8 @@ const questions = [
             "b) Riporta i valoriceicostrutticon le variabili ",
             "c) Riporta i valoricelle variabilicon i fattori ",
             "d) Riporta i valoricei fattoricon le variabili "
-        ]
+        ],
+        "correctAnswer": "316)Il testci Rorschach è: un test proiettivo "
     },
     {
         "title": "319) Test-retest: ",
@@ -2814,7 +3105,8 @@ const questions = [
             "b) Somministrarecue testcifferenti nello stesso giorno ",
             "c) Somministrare lo stesso testacue gruppici personecifferenti ",
             "d) Somministrare lo stesso testaciverse orecel giorno "
-        ]
+        ],
+        "correctAnswer": "319)Test-retest: somministrare in 2 sessioniciverse lo stesso test "
     },
     {
         "title": "320) R-phi: ",
@@ -2823,7 +3115,8 @@ const questions = [
             "b) Entrambe le variabili su scala ordinale ",
             "c) Una variabile su scala nominale e l'altra su scala ordinale ",
             "d) Una variabile su scala ordinale e l'altra su scala intervallo "
-        ]
+        ],
+        "correctAnswer": "320)R-phi: entrambe le variabili su scala nominale  "
     },
     {
         "title": "321)confrontocel punteggiocon la mediacel gruppocei soggettica un punteggio: ",
@@ -2832,7 +3125,8 @@ const questions = [
             "b) Ipsativo ",
             "c) Standardizzato ",
             "d) Percentile "
-        ]
+        ],
+        "correctAnswer": "321)Confrontocel punteggiocon la mediacel gruppocei soggettica un punteggio: normativo "
     },
     {
         "title": "322) Teoriacella rappresentazione: ",
@@ -2841,7 +3135,8 @@ const questions = [
             "b) Stabilisceche i testcevono rappresentareaccuratamente la popolazioneci riferimento ",
             "c)affermache i numeriassegnatiagli elementi empirici sonoarbitraric) Sostieneche i testcevono essere rappresentativi soloci una partecella popolazione",
             "323) Quale metodo permetteci misurare lacimensionalitàcegli itemci un test: "
-        ]
+        ],
+        "correctAnswer": "322)Teoriacella rappresentazione: stabilisceche l’assegnazionecei numeriagli elementi empiriciceve  essere taleca preservare la proprietàcelle relazioni ocelle operazioni "
     },
     {
         "title": "323) Quale metodo permetteci misurare lacimensionalitàcegli itemci un test: ",
@@ -2850,7 +3145,8 @@ const questions = [
             "b)analisiciscriminante ",
             "c) Regressione multipla ",
             "d) Forme parallele "
-        ]
+        ],
+        "correctAnswer": "323)Quale metodo permetteci misurare lacimensionalitàcegli itemci un test: forme parallele "
     },
     {
         "title": "324) I valoricell’Adjusted Goodness Fit Index variano: ",
@@ -2859,7 +3155,8 @@ const questions = [
             "b)ca -1a 1 ",
             "c)ca 0a 100 ",
             "d)ca -100a 100 "
-        ]
+        ],
+        "correctAnswer": "324)I valoricell’Adjusted Goodness Fit Index variano:ca 0ad 1  "
     },
     {
         "title": "325)cos’è la matricecei residui, inanalisi fattoriale? ",
@@ -2868,7 +3165,8 @@ const questions = [
             "b) La matricecellecorrelazioni tra i fattori ",
             "c) La matricecellecorrelazioni tra le variabili ",
             "d) La matricecellecorrelazioni tra gli item "
-        ]
+        ],
+        "correctAnswer": "325)Cos’è la matricecei residui, inanalisi fattoriale? La matricecellecifferenze tracorrelazioni osservate e correlazioni ricavatecalle saturazioni  "
     },
     {
         "title": "326) Per stabilire se un soggetto rientra nella norma statistica, occorre fare un test statistico…grandicimensioni,allora si può ricorrere: ",
@@ -2877,7 +3175,8 @@ const questions = [
             "b)al testciaNOVA ",
             "c)al testcei punti z ",
             "d)al testci Kruskal-Wallis "
-        ]
+        ],
+        "correctAnswer": "326)Per stabilire se un soggetto rientra nella norma statistica, occorre fare un test statistico…grandi cimensioni,allora si può ricorrere:al testcei punti z  "
     },
     {
         "title": "327) Le scalecicontrollo nell’MMPI servono: ",
@@ -2886,7 +3185,8 @@ const questions = [
             "b) Per valutare lacoerenzacelle risposte ",
             "c) Per valutare laconsistenzacelle risposte ",
             "d) Per valutare la variabilitàcelle risposte "
-        ]
+        ],
+        "correctAnswer": "327)Le scalecicontrollo nell’MMPI servono: Per valutare la validitàcelle rispostecei soggetti  "
     },
     {
         "title": "328) Nell’analisi fattoriale esplorativacel questionario SOS, quanti fattori latenti: ",
@@ -2895,7 +3195,8 @@ const questions = [
             "b) 4 ",
             "c) 5 ",
             "d) 6 "
-        ]
+        ],
+        "correctAnswer": "328)Nell’analisi fattoriale esplorativacel questionario SOS, quanti fattori latenti: 3  "
     },
     {
         "title": "329) L’impulsione è una formaci: ",
@@ -2904,7 +3205,8 @@ const questions = [
             "b) Risposta sociale ",
             "c)cisturbo psicologico ",
             "d)comportamentoaggressivo"
-        ]
+        ],
+        "correctAnswer": "329)L’impulsione è una formaci: Response set  "
     },
     {
         "title": "330) Ilcoping ècefinitocome: ",
@@ -2913,7 +3215,8 @@ const questions = [
             "b) Una reazioneautomaticaad uno stimolo stressante ",
             "c) Un processociadattamento psicologicoallo stress ",
             "d) Una risposta istintivaai fattorici stress "
-        ]
+        ],
+        "correctAnswer": "330)Ilcoping ècefinitocome: Uncambiamentocell’ambienteca partecel soggetto…il suo raggiungimento  "
     },
     {
         "title": "331) Il modello JD-Rcibakker ecemerouticeriva: ",
@@ -2922,7 +3225,8 @@ const questions = [
             "b)call’unionecel modelloci Selye ecel modelloci Lazarus ",
             "c)cal modellocella sindrome generaleciadattamentoci Selye ",
             "d)cal modellocicopingci Folkman e Lazarus "
-        ]
+        ],
+        "correctAnswer": "331)Il modello JD-Rcibakker ecemerouticeriva:call’unionecel modellocemand-Controlci Karasek ecal  modello Effort-Reward Imbalanceci Siegrist  "
     },
     {
         "title": "332) Un modo per ridurre i response set è: ",
@@ -2931,7 +3235,8 @@ const questions = [
             "b)aumentare lacomplessitàcellecomande ",
             "c) Utilizzarecomandeambigue ",
             "d) Imporre un limiteci tempo più stretto "
-        ]
+        ],
+        "correctAnswer": "332)Un modo per ridurre i response set è: Rendere il testci facile esecuzione  "
     },
     {
         "title": "333) Inanalisi fattoriale, se sicivide l’eigenvalueci uncato fattore per il numeroci tutti: ",
@@ -2940,7 +3245,8 @@ const questions = [
             "b) Si ottiene ilcaricocel fattore ",
             "c) Si ottiene l'eigenvalue medio ",
             "d) Si ottiene l'indicecibontàciadattamento "
-        ]
+        ],
+        "correctAnswer": "333)Inanalisi fattoriale, se sicivide l’eigenvalueci uncato fattore per il numeroci tutti: La proporzioneci  varianza spiegata soloca quel fattore  "
     },
     {
         "title": "334) Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test?: ",
@@ -2949,7 +3255,8 @@ const questions = [
             "b) Si rischiaci ottenere risultati sbagliati nella sommacei punteggi ",
             "c) Si rischiaci ottenere un'eccessivacomplessità nell'analisi fattoriale ",
             "d) Si rischiaci ottenere un'eccessiva semplicità nell'analisi fattoriale "
-        ]
+        ],
+        "correctAnswer": "334)Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la  sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test?: Si  rischiaciavere variabiliche non sono indipendenti tra loro;  "
     },
     {
         "title": "335) Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?: ",
@@ -2958,7 +3265,8 @@ const questions = [
             "b) L'analisicellaconsistenza interna ",
             "c) Ilconfronto tra gruppi equivalenti ",
             "d) Ilconfronto tra punteggialternativi "
-        ]
+        ],
+        "correctAnswer": "335)Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?: la  proceduraci Sperman-Brown;  "
     },
     {
         "title": "336) Il test – retestcos’è?: ",
@@ -2967,7 +3275,8 @@ const questions = [
             "b) Somministrare un test per misurare la velocitàcognitiva ",
             "c) Somministrare un test per misurare la memoriaci lavoro ",
             "d) Somministrare un test per misurare l'attenzione"
-        ]
+        ],
+        "correctAnswer": "336)Il test – retestcos’è?: somministrare in 2 sessioniciverse lo stesso test perconfermarne l’attendibilità;  "
     },
     {
         "title": "337) I test proiettivi: ",
@@ -2976,7 +3285,8 @@ const questions = [
             "b) Presentanocomandechiare ed obiettive ",
             "c) Misuranoabilità specifichecome la memoria e l'attenzione ",
             "d) Richiedono risposte rapide e spontanee "
-        ]
+        ],
+        "correctAnswer": "337)I test proiettivi: presentare stimoliambigui ed evocare rispostecreative perattivare meccanismici cifesa ed ottenere risposte più “genuine”;  "
     },
     {
         "title": "338) Il testci intelligenza è: ",
@@ -2985,7 +3295,8 @@ const questions = [
             "b) Un testci personalità ",
             "c) Un test psicomotorio ",
             "d) Un test proiettivo "
-        ]
+        ],
+        "correctAnswer": "338)Il testci intelligenza è: un testcognitivo;  "
     },
     {
         "title": "339) Il test oggettivo è: ",
@@ -2994,7 +3305,8 @@ const questions = [
             "b) Un testche richiede risposte soggettive ",
             "c) Un testche misuraaspetti inconscicella personalità ",
             "d) Un testche misura l'intelligenza emotiva "
-        ]
+        ],
+        "correctAnswer": "339)Il test oggettivo è: un test incui prevedono rispostea scelta multipla;  "
     },
     {
         "title": "340) Testci Rorschach: ",
@@ -3003,7 +3315,8 @@ const questions = [
             "b) Testci personalità ",
             "c) Testci intelligenza ",
             "d) Testci memoria "
-        ]
+        ],
+        "correctAnswer": "340)Testci Rorshach: test proiettivo;  "
     },
     {
         "title": "341) Icubi nella WAIS misurano: ",
@@ -3012,7 +3325,8 @@ const questions = [
             "b) L’intelligenzacristallizzata ",
             "c) La memoriaabreve termine ",
             "d) La memoriaci lavoro "
-        ]
+        ],
+        "correctAnswer": "341)Icubi nella WAIS misurano: l’intelligenza generale o fluida;  "
     },
     {
         "title": "342)alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto?: ",
@@ -3021,7 +3335,8 @@ const questions = [
             "b) Se ha risposto sinceramente ",
             "c) Se hacompreso tutte lecomande ",
             "d) Se haavutocifficoltàcurante il test "
-        ]
+        ],
+        "correctAnswer": "342)Alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto?: Se gli è sembrato  interessante;  "
     },
     {
         "title": "343) Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario?: ",
@@ -3030,7 +3345,8 @@ const questions = [
             "b) 9 ",
             "c) 11 ",
             "d) 12"
-        ]
+        ],
+        "correctAnswer": "343)Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario?: 9;  "
     },
     {
         "title": "344) Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: ",
@@ -3039,7 +3355,8 @@ const questions = [
             "b) Maggiore è ilcarico lavorativo, tanto piùbassa sarà la motivazione ",
             "c) La motivazionecipende esclusivamentecalcarico lavorativo ",
             "d) Ilcarico lavorativo non influisce sulla motivazione "
-        ]
+        ],
+        "correctAnswer": "344) Lacimensione svalutazionecel questionario SOScorrelacon le scaleclinichecella SLC-90R? sicon  tutte e lecorrelazioni sono positive "
     },
     {
         "title": "345) Itemche ha ricevuto più risposte nella parte 3cel questionario SOS: ",
@@ -3048,7 +3365,8 @@ const questions = [
             "b) 64 ",
             "c) 47 ",
             "d) 56 "
-        ]
+        ],
+        "correctAnswer": "345)Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezionecelle  risorse possedute, tanto piùalta sarà la motivazione;  "
     },
     {
         "title": "346)calcoloci R trasformazione: ",
@@ -3057,7 +3375,8 @@ const questions = [
             "b)calcolocellaceviazione standard ",
             "c) Trasformazioneci punteggi grezzi in punteggi standard ",
             "d)calcolocell'indiceciattendibilità "
-        ]
+        ],
+        "correctAnswer": "346)Itemche ha ricevuto più risposte nella parte 3cel questionario SOS: 64; "
     },
     {
         "title": "347) Secondo il modello Effort-Reward Imbalanceci Siergrist,cosacausa lo stress lavorativo? ",
@@ -3066,7 +3385,8 @@ const questions = [
             "b) L'equilibrio tra sforzo lavorativo e ricompensa ",
             "c) Lo squilibrio tra lo sforzo lavorativo richiestocall'organizzazione e la ricompensacataal lavoratore ",
             "d) La presenzaci unambiente lavorativo tranquillo "
-        ]
+        ],
+        "correctAnswer": "347)Calcoloci R trasformazione: punteggi grezzi in punti ponderati  "
     },
     {
         "title": "348) Le tetradi, inanalisi fattoriale, siannullano perchécorrispondonoa: ",
@@ -3075,7 +3395,8 @@ const questions = [
             "b) Variabilicorrelate ",
             "c) Lacifferenza tra i prodotticelle stesse saturazioni ",
             "d) Errorici misurazione "
-        ]
+        ],
+        "correctAnswer": "348)Secondo il modello Effort-Reward Imbalanceci Siergrist,cosacausa lo stress lavorativo? Lo squilibrio  tra lo sforzo lavorativo richiestocall’organizzazione e la ricompensacataal lavoratore. 349)Le tetradi, inanalisi fattoriale, siannullano perchécorrispondono:allacifferenza tra i prodotticelle  stesse saturazioni.  "
     },
     {
         "title": "349) Nell’intervista psicologica lecomande primarie sono: ",
@@ -3093,7 +3414,8 @@ const questions = [
             "b) 45 ",
             "c) 50 ",
             "d) 55"
-        ]
+        ],
+        "correctAnswer": "350)Nell’intervista psicologica lecomande primarie sono: quelleche introducono un nuovo temacurante  l’intervista. "
     },
     {
         "title": "351) Un elevato livelloci mindfulness èassociatoa: ",
@@ -3102,7 +3424,8 @@ const questions = [
             "b)bassi livellici sensibilitàall'errore ",
             "c)altissimi livellici stress ",
             "d)alti livellicognitivi ed emotivici sensibilitàall'errore "
-        ]
+        ],
+        "correctAnswer": "351)Inbaseaicati ottenuticall’analisi fattoriale esplorativa, il numeroci itemcella Parte 1cel  questionario SOS è stato ridottoa: 50  "
     },
     {
         "title": "352) Inanalisi fattoriale, la procedura per l’estrazioneci fattoribasata sulle saturazioni maggiorici 0,30 stabilisceche il numeroci fattoricorrispondea tutti i fattoriche hanno: ",
@@ -3111,7 +3434,8 @@ const questions = [
             "b)almenocue saturazioni >0,30 ",
             "c)almeno tre saturazioni >0,30 ",
             "d) Tutte le saturazioni >0,30 "
-        ]
+        ],
+        "correctAnswer": "352)Un elevato livelloci mindfulness èassociatoa:alti livellicognitivi ed emotivici sensibilitàall’errore. "
     },
     {
         "title": "353) L’intervista strutturata sicaratterizza per: ",
@@ -3120,7 +3444,8 @@ const questions = [
             "b) La libertàciargomentocurante l'intervista ",
             "c) La mancanzaci un protocollo stabilito ",
             "d) La presenzacicomandeaperte "
-        ]
+        ],
+        "correctAnswer": "353)Inanalisi fattoriale, la procedura per l’estrazioneci fattoribasata sulle saturazioni maggiorici 0,30  stabilisceche il numeroci fattoricorrispondea tutti i fattoriche hanno:almeno una saturazione >0,30. 354)L’intervista strutturata sicaratterizza per: il fattoche icontenuti e la sequenzacellecomande sono  prefissatiall’inizio. "
     },
     {
         "title": "354) Nel modellocelle equazionici LISRELci Joreskog e Sorbomacifferenzacelle equazionicell’EQScibentler, sono previsti quanti tipi variabili? ",
@@ -3138,7 +3463,8 @@ const questions = [
             "b) Un metodoci rotazionecei fattori ",
             "c) Un metodoci ponderazionecei punteggi ",
             "d) Un metodociconfronto tra medie "
-        ]
+        ],
+        "correctAnswer": "355) Nel modellocelle equazionici LISRELci Joreskog e Sorbomacifferenzacelle equazionicell’EQSci bentler, sono previsti quanti tipi variabili? 4 variabili. "
     },
     {
         "title": "356) È semprecorretto interpretare il primo fattore estratto nell’analisi fattorialecome il fattore generale? ",
@@ -3147,7 +3473,8 @@ const questions = [
             "b)cipendecal tipocicampione ",
             "c) No, non sempre ",
             "d) Solo se l'eigenvalue è superiorea 1 "
-        ]
+        ],
+        "correctAnswer": "356)cos’è il metodocelcentroideci Thurstone: è un metodoci estrazionecei fattoriche si prestaai calcoli manuali "
     },
     {
         "title": "357) Indicandocon y il valorecella nuova scala econ x quellocella vecchia scala la trasformazione possibile tra la scalaa rapporto è: ",
@@ -3156,7 +3483,8 @@ const questions = [
             "b) y =bx ",
             "c) y = x/a ",
             "d) y = x -a"
-        ]
+        ],
+        "correctAnswer": "357) è semprecorretto interpretare il primo fattore estratto nell’analisi fattorialecome il fattore  generale? NO "
     },
     {
         "title": "358) I test non-verbali sono predisposti per: ",
@@ -3165,7 +3493,8 @@ const questions = [
             "b) Personeanalfabete ",
             "c) Personeconcisturbicel linguaggio ",
             "d) Personeconcifficoltàcognitive "
-        ]
+        ],
+        "correctAnswer": "358) Indicandocon y il valorecella nuova scala econ x quellocella vecchia scala la trasformazione  possibile tra la scalaa rapporto è… y=ax "
     },
     {
         "title": "359) Inanalisi fattoriale, lacomunanza indica: ",
@@ -3174,7 +3503,8 @@ const questions = [
             "b) Il rapporto tra le variabili ",
             "c) Il gradocicorrelazione tra variabili ",
             "d) La varianza totale spiegataca un fattore "
-        ]
+        ],
+        "correctAnswer": "359) i test non-verbali sono test predisposti… peranalfabeti "
     },
     {
         "title": "360) Il processoci operazionalizzazioneci uncostruttoconsiste: ",
@@ -3183,7 +3513,8 @@ const questions = [
             "b) Nell'individuare gli indicatoricomportamentaliche sonoconsiderati le sue manifestazioni operative ",
             "c) Nell'applicare ilcostruttoad uncontesto specifico ",
             "d) Nell'interpretare i risultaticelcostrutto "
-        ]
+        ],
+        "correctAnswer": "360) inanalisi fattoriale lacomunanza indica… la saturazioneal quadrato (???) "
     },
     {
         "title": "361) Nei modellici equazioni strutturali, per parametro libero si intendeche il valorecel parametro può variare. ",
@@ -3192,7 +3523,8 @@ const questions = [
             "b) Falso ",
             "c) Entrambe ",
             "d) Nessuba "
-        ]
+        ],
+        "correctAnswer": "361) il processoci operazionalizzazioneci uncostruttoconsiste: nell’individuare gli indicatori comportamentaliche sonoconsiderati, sullabaseci una teoria psicologica, le sue manifestazioni operative 362)Nei modellici equazioni strutturali, per parametro libero si intendeche il valorecel… parametro può  variare "
     },
     {
         "title": "362) La validitàconvergente indica: ",
@@ -3210,7 +3542,8 @@ const questions = [
             "b) No, lecorrelazioni sono tutte negative ",
             "c) Lecorrelazioni sonocasuali e non significative ",
             "d) Lecorrelazioni sono tutte positive ma non significative "
-        ]
+        ],
+        "correctAnswer": "363)La validitàconvergente indica il gradociaccordo tracue o piu misurecello stessocostrutto "
     },
     {
         "title": "364) Se il punteggioci un testche misura la “ruminazione” ha un’elevatacorrelazione positivacon il punteggioad unaltro testche misura: ",
@@ -3219,7 +3552,8 @@ const questions = [
             "b) Validitàconvergente ",
             "c)attendibilità ",
             "d) Validitàcicostrutto"
-        ]
+        ],
+        "correctAnswer": "364) esiste unacorrelazione significativa tra lecimensionicel questionario SOS? Si, e lecorrelazioni sono  tutte positive e significative  "
     },
     {
         "title": "365) Lacimensione svalutazionecel questionario SOScorrela significativamentecon la scalacel sonno nella SCL-90R? ",
@@ -3228,7 +3562,8 @@ const questions = [
             "b) No, nonc'ècorrelazione ",
             "c) Sì, ma negativamente ",
             "d) Non è possibile stabilirlo "
-        ]
+        ],
+        "correctAnswer": "365) se il punteggioci un testche misura la “ruminazione” ha un’elevatacorrelazione positivacon il  punteggioad unaltro testche misura…. Validitàconvergente  "
     },
     {
         "title": "366) Ilcifferenziale semantico è un itemche prevede: ",
@@ -3237,7 +3572,8 @@ const questions = [
             "b) Scale unipolari ",
             "c) Scalebipolari ",
             "d) Rispostea scelta multipla "
-        ]
+        ],
+        "correctAnswer": "366) lacimensione svalutazionecel questionario SOScorrela significativamentecon la scalacel sonno nella SCL-90R? Si, e positivamente  "
     },
     {
         "title": "367) Incosaconsiste la procedura split-half? ",
@@ -3246,7 +3582,8 @@ const questions = [
             "b) Siconfrontano i risultaticicue gruppicivisia metà ",
             "c) Si sommano i punteggicellecue metàci un test ",
             "d) Siconfronta il risultatoci un testcon quelloci unaltro test "
-        ]
+        ],
+        "correctAnswer": "367)ilcifferenziale semantico è un itemche prevede: scalebipolari "
     },
     {
         "title": "368)checos’è lo Scree-plotcicattell? ",
@@ -3255,7 +3592,8 @@ const questions = [
             "b) Un graficoche mostra lacistribuzionecelle frequenze ",
             "c) Un graficoche ha in ordinata gli eigenvalue e inascissa il numeroci fattori generali ",
             "d) Un graficoche mostra la varianza spiegatacai fattori "
-        ]
+        ],
+        "correctAnswer": "368) incosaconsiste la procedura split-half? Un test viene suddivisoa metà percalcolare lacorrelazione  tra lecue parti "
     },
     {
         "title": "369) Unocei problemi nelcalcolocell’attendibilità test-retest è stabilire la lunghezzacell’intervallo tra la prima e la seconda somministrazionecel reattivo. Perché? ",
@@ -3264,7 +3602,8 @@ const questions = [
             "b) Perché si può influenzare la validitàcel test ",
             "c) Perché si possono verificarecambiamenti nei soggetti ",
             "d) Perché si possono verificare errori nella somministrazione "
-        ]
+        ],
+        "correctAnswer": "369)checos’è lo Scree-plotcicattell? Un graficoche in ordinata ha gli eigenvalue e inascissa il numeroci  fattori generali "
     },
     {
         "title": "370) Il punteggio vero ècatoca: ",
@@ -3273,7 +3612,8 @@ const questions = [
             "b) La sommacel punteggio osservato ecell'errore ",
             "c) Lacivisionecel punteggio osservato per l'errore ",
             "d) Il quadratocel punteggio osservato "
-        ]
+        ],
+        "correctAnswer": "370) unocei problemi nelcalcolocell’attendibilità test-retest, è stabilire la lunghezzacell’intervallo tra  la prima e la seconda somministrazionece reattivo. Perché? Perché i soggetti possono ricordare le  risposte  "
     },
     {
         "title": "371) Il testci Rorschach è: ",
@@ -3282,7 +3622,8 @@ const questions = [
             "b) Un testci personalità ",
             "c) Un testci intelligenza ",
             "d) Un testcognitivo "
-        ]
+        ],
+        "correctAnswer": "371) Il punteggio vero ècatoca: il PRODOTTOcel punteggio osservato ecell’errore "
     },
     {
         "title": "372)cos’è unacomunanza ocomunalità, inanalisi fattoriale? ",
@@ -3291,7 +3632,8 @@ const questions = [
             "b) Il rapporto tra le variabili ",
             "c) Il gradocicorrelazione tra variabili ",
             "d) La varianza totale spiegataca un fattore"
-        ]
+        ],
+        "correctAnswer": "372) il testci Rorschach è: un test proiettivo "
     },
     {
         "title": "373) Una trasformazione permissibile è: ",
@@ -3300,7 +3642,8 @@ const questions = [
             "b) Una nuova scalache modifica le proprietàcella scala originaria ",
             "c) Una trasformazioneche non èaccettabile ",
             "d) Una trasformazionecheaumenta lacifficoltàcel test "
-        ]
+        ],
+        "correctAnswer": "373)cos’è unacomunanza ocomunalità, inanalisi fattoriale? È la sommacelle saturazionial quadrato per  leciverse variabili"
     },
     {
         "title": "374) La stimacel punteggio vero ècatacalla sommacei punteggi osservati: ",
@@ -3309,7 +3652,8 @@ const questions = [
             "b) Ecelcoefficienteci validità ",
             "c) Ecell'errore standard ",
             "d) Ecel punteggio massimo "
-        ]
+        ],
+        "correctAnswer": "374) una trasformazione permissibile è: una nuova scalache mantiene inalterate le proprietàcella scala  originaria "
     },
     {
         "title": "375) Inanalisi fattoriale, il metodoci Procuste è una tecnicaci rotazione: ",
@@ -3318,7 +3662,8 @@ const questions = [
             "b) Ortogonaleche sibasa su una matricebersaglio ",
             "c) Obliquache sibasa su una matricecampione ",
             "d) Ortogonaleche sibasa su una matricecampione "
-        ]
+        ],
+        "correctAnswer": "375) la stimacel punteggio vero ècatacalla sommacei punteggi osservati: ecelcoefficienteci attendibilità  "
     },
     {
         "title": "376) Tra i vari response set, la semantica è unbiasche indica: ",
@@ -3327,7 +3672,8 @@ const questions = [
             "b) Il soggetto risponde in modocasuale ",
             "c) Il soggetto evitaci rispondere ",
             "d) Il soggetto noncomprende lacomanda "
-        ]
+        ],
+        "correctAnswer": "376) inanalisi fattoriale, il metodoci Procuste è una tecnicaci rotazione: obliquache sibasa su una  matricebersaglio "
     },
     {
         "title": "377) Nell'analisici regressione multiplacon punteggi standardizzati, ilcoefficientebeta è: ",
@@ -3336,7 +3682,8 @@ const questions = [
             "b) Ilcoefficientecicorrelazione ",
             "c) Ilcoefficienteci regressione ",
             "d) Ilcoefficienteciceterminazione "
-        ]
+        ],
+        "correctAnswer": "377) tra i vari response set, la semantica è unbias (domanda noncompleta)…. Il soggetto interpreta  l’item "
     },
     {
         "title": "378) Nell’analisi fattorialeconfermativa, l’indice RMSEA è: ",
@@ -3345,7 +3692,8 @@ const questions = [
             "b)compreso tra -1 e 1 ",
             "c)compreso tra 0,05 e 0,10 ",
             "d)compreso tra 0 e 0.5 "
-        ]
+        ],
+        "correctAnswer": "378) nell’analisici regressione multiplacon punteggi standardizzati, ilcoefficientebeta: sempre ugualea  zero "
     },
     {
         "title": "379) Quale tra questecefinizionici fatica soggettiva è quellacorretta? ",
@@ -3354,7 +3702,8 @@ const questions = [
             "b) Il lavoratore esprime unacadutaci efficienza solo quando è oggettivamenteaffaticato ",
             "c) Il lavoratore non esprime mai unacadutaci efficienza ",
             "d) Il lavoratore esprime unacadutaci efficienza solo quando è sottopostoa stress"
-        ]
+        ],
+        "correctAnswer": "379) nell’analisi fattorialeconfermativa, l’indice RMSEA:compreso tra 0,05 e 0,10 380) quale tra questecefinizionici fatica soggettiva è quellacorretta? Il lavoratore esprime unacadutaci  efficienza sebbene non manifesti nessuncriterio oggettivociaffaticamento  "
     },
     {
         "title": "380) Nel questionariocelbig-Five, lacimensionecell’amicalità misura: ",
@@ -3372,418 +3721,58 @@ const questions = [
             "b)calla matricecelle mediecei punteggi ",
             "c)calla matricecegli errori standard ",
             "d)calla matricecelle modalitàci risposta"
-        ]
+        ],
+        "correctAnswer": "381) nel questionariocelbig-Five, lacimensionecell’amicalità misura: il livellocicooperativitàcelle  persone "
     }
-];
+]
+
+let currentAnswerIndex = 0;
 
 window.onload = () => {
-   const rdQuestion = questions[(Math.floor(Math.random() * questions.length))];
+    setQuestion()
+}
 
-   document.getElementById('question-title').innerHTML = rdQuestion.title;
+const setQuestion = () => {
+    const question = questions[currentAnswerIndex];
 
-    let txt = '';
-    for(let n=0;n<rdQuestion.answers.length;n++) {
-        txt += `
-            <div style="display:flex;">
-                <p>`+rdQuestion.answers[n]+`</p>
-                <input type="radio" name=x>
-            </div>
-        `
-    }
-
-   document.getElementById('questions-container').innerHTML = txt;
+    document.getElementById('question-title').innerHTML = question.title;
+ 
+     let txt = '';
+     for(let n=0;n<question.answers.length;n++) {
+         txt += `
+             <div style="display:flex; justify-content:space-between;">
+                 <p>`+question.answers[n]+`</p>
+                 <input type="radio" name=x>
+             </div>
+         `
+     }
+ 
+    document.getElementById('questions-container').innerHTML = txt;
 }
 
 const onConfirm = () => {
-
-   const currentAnswerNumber = document.getElementById('question-title').innerHTML.substring(0,document.getElementById('question-title').innerHTML.indexOf(')'));
-
-    for(let n=0;n<answers.length;n++) {
-        if(answers[n].includes(currentAnswerNumber)) {
-            window.alert(answers[n])
-        }
-    }
+    window.alert(questions[currentAnswerIndex].correctAnswer);
+    currentAnswerIndex++;
+    setQuestion();
 }
 
+const onBack = () => {
+    if(currentAnswerIndex == 0) return;
 
-const answers = `
-1) PROCEDURA SPLIT-HALF:cividoa metà il test 
-2) L’attendibilità nella WAIS-R ècataca: metodo split-half tranne memoriacicifre e  
-ragionamentoaritmeticocalcolatecon test-retest  
-3) Esempioci procedura split-half:civisionea metàcel testcheconsente un’analisi fattoriale  
-4) Quali fattori misurano lacorrelazione tra 2 test: Spearmanbrown, pearson, phi tetracorico e  puntobiseriale  
-5) FORMULAcONcUI STABILIRE UN NUMERO MINIMOcI ITEM PERaVERE UN TEST VALIDO È  UNA VARIANTE:cella formulaci spearmanbrown 
-6) Quale test si usa per la significativitàcelcoefficientebravais-person? Tci Student  
-7) Formula tci studentcon r pearson: 
-1. Per verificare la significativitàcelcoefficientecicorrelazionecibravais-Person, si ricorre:al Tci  
-Student; 
-8)cOS’E’ L’IMPULSIONE? UN RESPONSE TEST 
-9)cOME SI RIDUCE UN RESPONSE TEST? Rendere il testci facile esecuzione 
-10) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata callacorrelazione:al quadrato tra predittori moltiplicata percento . 
-11) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata:callacorrelazioneal quadratocei predittori moltiplicata percento = ��2��100 
-12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si  scartano item:con indicici fedeltàbassi  
-13) Ilbig five Questionnaire è: un reattivocompostoca 132 itemche misura 5 fattorici  personalità: estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale; 14) Nelbig five Questionnaire, la scalacell’energia misura: Il livellocicinamismocel comportamento. 
-15) Scala ScrupolositàceibIG FIVEcosa misura? Il Sensocell’Ordinecel soggetto  
-(Coscienziosità) 
-16) La scalacella stabilità emotiva la ritroviamo: nelbig five questionaire  
-17) Nelbig Five Questionnaire, le sotto scalecellacoscienziosità sono: la scrupolosità e la  perseveranza. 
-18) Leattivitàcelbig Five:cooperatività tra le persone. 
-19) Manipolazione indipendente:creare un gruppocicontrollo e gruppo sperimentale.  20) Scala Likert: politomica, graduabile 
-21) SCALA THURSTONE:cicotomica 
-22) La formulaci Kunder Richardson serveacalcolare l’attendibilitàci un test:con risposte cicotomiche (KR-20). 
-23) KR-20:attendibiltà per gli itemcicotomici 
-24) Lacipendenza tra 2 variabili può essere rappresentata tramite:ciagrammacicispersione . 25)ciagrammacicispersione è: unciagrammacartesianoche rappresenta lacorrelazione tra  2 variabili. 
-26) La validità orientataalcriterio indica: il gradocicorrispondenza tra una misura e ilcriterio ci riferimento.  
-27)cos’è il fattore G nell’analisi fattoriale? È un fattore generalechecetermina il punteggio cel test (componente invariabile intelligenza) 
-28) Fattore Guttman: eigenvalue maggioreci 1  
-29) ICarroll ipotizza: esistenzaci un fattore generale G e 2 sottolivelli  
-30) Nel modelloacue fattori, inanalisi fattoriale, la matricecelle saturazioni ècomposta: calle variabili per riga ecai fattori generale e specifici percolonna. 
-31) Fattore g: Fattore generale 
-32) Nelle equazioni matricolaricos’è la variabile latente:costrutto psicologico 
-33) L’erroreci stimacel punteggio vero ècatocal prodottocell’errore standardci misuracon  la radice quadrata:cell’attendibilità  
-34)  
-1. Indica la formulacell’Erroreci Stimacel punteggio vero: 
-35) Nell’analisici regressione multipla R2:correlazione tra singoli predittori ecriterio  
-36) Nell’analisici regressione multipla, icoefficientibetacei predittoricel modelloci  
-regressionecorrispondono:al prodotto tra ibeta standardizzati per il rapporto tra la  
-deviazione standardcelcriterio e laceviazione standardcel predittore. 
-37) L’erroreci stimacel punteggio osservato è:catocallaceviazione standardcei punteggi  osservaticel test moltiplicata per la radice quadrataci uno meno il quadratocelcoefficienteci attendibilitàcel test 
-38)  
-1. Indicandocon “r” l’attendibilitàcel test e “����” laceviazione standardcei punteggi osservati, la  formulacell’erroreci stimacel punteggio osservato è: ������ ��; 
-39)cosa significa U nella formula profeticaci Spearman-Brown?a/p (item) 
-40) Quale metodo permetteci misurare lacimensionalitàcegli itemci un test:a paritàci  varianza si eliminano itemcon indicici fedeltàbassi  
-41)Con indicici fedeltà uguali vengono scartati: itemcon varianza più elevata  
-42) Indicici fedeltà quasi nulli: si utilizzano per eliminare gli itemcel test  
-43) Seca un test elimino gli itemcon indicici fedeltàbassi oconceviazioni standard elevate  posso ottenere un test:con un minor numeroci item ed un’attendibilità più elevata  
-44)aumentando la lunghezzacel testci ‘’m’’ volte: la varianzacei punteggi veriaumenta in  progressione geometrica (malla seconda volte) mentre la varianzacell’erroreci misura  
-aumenta in progressionearitmetica (m volte) 
-45)correlazione scala nominale: sicalcolacon phi tetracorico  
-46)cate le variabili 1 2 3 lacorrelazione parzialeconsentecicalcolare: la veracorrelazione tra  1 e 2 indipendentementeca 3. 
-47) UNcAMPIONE È MOLTObUONOcON: 500 soggetti. 
-48) Validitàci forma riguarda: il modo incui la somministrazionecel test stimola la  
-collaborazionecei soggetti . 
-49) LAcORRISPONDENZA TRA LEcIVERSE FORMEcIcIVERSI TEST: Il modo incui la  
-somministrazionecel test stimola lacollaborazione tra soggetti  
-50) Ilcampione usato per la validazionecella forma finalecella scala SOSaveva una percentualeci  soggetti maschili paria: 41,8 °/o  
-51) La scalaci Marlowecrowne usata per ilcampione nella validazionecel questionario SOS eracomposta ca: 9 item  
-52) Lecimensionicella scala SOScorrelanocon la scalaci Marlowe-Crowne: solo lecimensioni  Svalutazione, Logorio,cisagio 
-53) La scala SOS rivelaci essere uno strumento: moltoattendibile 
-54) Inche modo è statacalcolata l’attendibilitàcella scala SOS:con l’alfacicronbach; 
-55) Nell’analisi fattorialeconfermativacella scala SOS, GFI, NNFI,cFI sonoconsiderati significativi per  valori: superioria 0.90 
-56) I punti Tcellecimensionicella scala SOS hanno media eceviazione standard paria, rispettivamente: 
-50 e 10 in tutte lecimensioni 
-57) Ilcampione usato per la validazionecella forma finalecella scala SOS: 225 soggetti 
-58) Il modelloci regressione semplice, una voltacalcolata la pendenza (����) e una voltacalcolate le medie celcriterio (Y) ecel predittore (X), qual è la formulacorretta percalcolare l’intercetta (����)cel modello? ��0 = ��̅(media Y)− ��1��̅(media X); 
-59) La trasformazioneci Fisher genera una funzione:caratterizzataca unacistribuzione più uniformeche asimmetrica 
-60) Indicandocon r lacorrelazione, la trasformazioneci Fisher z’ci “r” ècatacall’equazione: ��′ = 1 ln 1+��2  1−�� 
-61)La trasformazioneci Fisherconsente:ci trasformare icoefficienticorrelazionali in punti z1che hanno  una varianza più omogenea. 
-62) Nella regressione multiplaabbiamo: uncriterio e più predittori;  
-63a) Nel modelloci regressione multipla, per stabilire la significativitàcei singoli predittori siceve  eseguire: t test per icoefficientibetacel modello 
-63b) Nel modelloci regressione multipla, per stabilire la significatività modellocompleto siceve eseguire:  un F test per la varianza spiegatacal modello 
-64) Nelcalcoloci regressione multipla esistono: numerosicoefficientibcacalcolare  65) Nel modelloci regressione multiplaa 5 predittoricon uncampioneci 20 soggetti i gradici libertà  sono: 14  
-66) r2 nella regressione multiplacorrisponde:alcoefficienteciceterminazionechea voltecoincidecon la  pendenzacella retta  
-67)cos’è la saturazionecella variabile? Un indiceche esprime lacorrelazione tra la variabile e il fattore  latente. 
-68) La formula ���� ������������, incui S�� è laceviazione standardcei punteggi osservati,costituisce:  laceviazione standardcell’erroreci misura;  
-69) Inanalisi fattorialecome si ottiene la percentualeci varianza spiegatacal fattore?cal rapporto tra  eigenvaluecel fattore ecal numeroci fattori estratti moltiplicato per 100  
-70) La formulacel punteggio ottenuto: PUNTEGGIO REALE + ERROREcI MISURA  
-71) Qual è l’itemche ha il valore medio piùbasso nella parte 3cel questionario SOS?: L’item 70; 
-72) Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario? 9 
-73) Il rango è una misura su scala: ordinale  
-74) LAcISORGANIZZAZIONE TEMPORALEcEL QUESTIONARIO SOS FORNISCE INFO INERENTIa: Gestione cel tempo lavorativo ed extra-lavorativo  
-75) L’attendibilitàcella scalacicisorganizzazione temporale, nella formacefinitivacel questionario SOS, corrispondead valore paria? 0.78 
-76) La scalacisorganizzazione temporale, nella formacefinitivacel questionario SOS,ca quanti item è composta? 9 
-77) L’A.F.cONFERMATIVA: Stabilisce quanto efficacemente i fattori riproducono la matricecelle correlazioni. 
-78) NELL’A.F LE VARIABILIcOMPLESSE SONO: Variabiliche misurano più fattoricontemporaneamente 
-79) NELL’A.F. SIcEVE EVITARE L’USOcI: Variabili empiricamente non indipendenti 
-80)cOSA MISURA ILcOEFFICIENTE R PUNTOb SERIALE? Risposte su una quantitativa, unacicotomica 
-81) Inanalisi fattorialecos’è una rotazione ortogonale?: una tecnicaci rotazionecegliassi fattoriali applicabile quando i fattori sono tra loro indipendenti; 
-82) Nell’analisi fattoriale per varimax si intende una tecnicaci : rotazione ortogonalecegliassi fattoriali 
-83) Inanalisi fattoriale il metodoci quartimax: è una tecnicaci rotazione ortogonaleche massimizza la  varianzacella saturazioneal quadrato per riga. 
-84) RICERCAc’ARCHIVIO: Ricerca non sperimentale 
-85) SCALAa INTERVALLO Oa RAPPORTO:coefficientecibravais- Pearson 
-86) Nelle scale primarie (principale)celcBA sono inclusi i seguenti test: lo state traitanxiety inventory e il  questionarioc. 
-87) Quando lo sforzo psicologico per raggiungere un obiettivo portaa risultaticostruttivi, positivi e appaganti, si parlaci: eustress  
-88) La fatica soggettiva è: fatica fisiologica e fatica patologica 
-89)chi è statoa studiare neglianni ’30, le risposte fisiologicheceglianimalici laboratorio? R. Selye  
-90) Nel modello ERI sforzo-ricompensa (Siegrist 2002) quale è lacomponente indicatacome fonteci  sforzo intrinseca in opposizionealle richiestecel lavoroche ne raffigurano quella estrinseca? la  motivazione individuale 
-91) LA SCALAcELcISAGIO SOS FORNISCE INFO RIGUARDO: INADEGUATEZZA PERSONALEcIRCA LO  SVOLGIMENTOcEL PROPRIO LAVORO 
-92) QUANTI ITEM HA LA SCALAcELcISAGIO? 11 
-93) Quale è la fasciacon frequenza piùalta riguardo l’anzianitàci servizio? 26-30 
-94)che problemi può generare l’usoci variabili troppo simili nell’analisi fattoriale: fattoricibasso livello  
-95) La scalaa rapporto sicifferenziacalla scalaa intervallo perchè? Ha uno zeroassoluto 
-96)comeciminuisce la fatica fisiologica? sonno e pause  
-97) La fatica patologicacel lavoratore sorge: quando la faticacura oltre i tentativi fisiologicici recupero  
-98) Secondo un puntoci vista fisiologico,alla presenzaci faticacorrisponde un oggettivo modificarsi:cei  parametribiochimici e fisiologici. 
-99) Lacimensionecisagio lavorativocel questionario SOScorrelacon le scaleclinichecella SCL90R? Si con tutte e lecorrelazioni sono positive; 
-344) Lacimensione svalutazionecel questionario SOScorrelacon le scaleclinichecella SLC-90R? sicon  tutte e lecorrelazioni sono positive 
-100)cimensione svalutazione questionario SOScorrispondecon la scalacsel sonno nel SCL90? Si  positivamente 
-101) Nelle tabellecelle scale troviamo: totalici scala, ranghi percentili e punti T. 
-102) L’analisicella varianza è stata effettuata su: punti Z  
-103)campioneci soggetti per la validazionecel questionario:225  
-104)checosa misura la scala Marlowe-Crowne (MC)? lacesiderabilità sociale (misurare la tendenzacei  soggettia mentire percare un’immagineci sé positiva e socialmenteaccettabile. 
-105) La situazioneci stress psicosociale se ripetuta e prolungata nel tempoaumenta il logoramento cell’individuo e producecanni: funzionali e strutturali. 
-106)coefficienteciattendibilità: Indica la proporzioneci varianzacei punteggi veri in relazionealla  varianzacei punteggi osservati  
-107) Ilcoefficienteciattendibilitàci un testcorrisponde:al rapporto tra la varianzacei punteggi veri e la  varianzacei punteggi osservati 
-108)  
-a L’errore standardci misuracorrisponde:al prodottocellaceviazione standardcei punteggi  osservati per la radice quadrataci uno meno ilcoefficienteciattendibilità s:  
-; 
-109) Per le scalea rapporto si usa ilcoefficiente: rbreavis-Pearson 
-110)cos'è la validitàcivergente? gradocicisaccordo tracue misure riguardo 2costrutticiversi 
-111) Quanti item ha un test per esserecefinitobasso? 50  
-112) Un’intervista psicologica va trascritta: in maniera integrale  
-113) NELLA RICERCA SPERIMENTALE SIcERCA: IL RAPPORTOcAUSA EFFETTO TRA VARIABILI 114)cosa sono i GDL? gradici libertàci una variabilealeatoria oci una statistica in genere esprimono il  numero minimocicati sufficientia valutare la quantitàc'informazionecontenuta nella statistica. 
-115) Nell’analisi fattoriale incatici partenza sonocostituiti:calla matricecicorrelazione ocovarianza tra  le variabili 
-116) L’indiceci efficienza E indica l’efficaciacella stima:cel punteggio vero sullabasecelcoefficienteci alienazione K. 
-117) Nel modelloci equazioni strutturali LISRELci Jokeskog e Sorbom, la matricecei residui è:  lacifferenza tra lacovarianza osservata neicati e lacovarianzaattesa. 
-118) Nel modelloci equazioni strutturali LISRELci Joreskog e Sorbom, i valori tcalcolati perciascun  parametro libero servono per stabilire: Se il parametro è significativamenteciversoca 0. 
-119) Equazioni strutturali LISRELci Joreskog, il Goodness of Fit Index è: un valoreche indica labontàci adattamentocell’intero modello. 
-120) Icalcoli matematici per eseguire un’analisi fattorialeconfermativa sibasano su modelli: equazioni  strutturali 
-121) Un modellocompletoci equazioni strutturali include: Sia variabili latentiche osservate. 
-122) L’approccio ingegneristico o tecnicocefinisce lo stresscome uno statoci: sollecitazionecontraria e  nocivacerivantecall’ambiente. 
-123) La scalacisagio lavorativo nella formacefinitivacel questionario SOSca quanti item ècomposta?  11; 
-124) Unocegliassuntibasecel modello psicometrico èche lacorrelazione tra: lacistribuzioneci errori casuali e quellacei punteggi veri sia nulla. 
-125) Un modo sempliceci manipolare la variabile indipendente:creare un gruppocicontrollo e uno  sperimentale. 
-126) Quale funzione regola la trasformazioneca una scalaall’altra?biunivoca  
-127)cue scaleci misuraad intervallo sono equivalenti: se esiste una funzionebiunivocache le lega 
-128) Le trasformazioni permissibili nella scala nominale sono: quelleche lasciano intatte le proprietàcella  scala originaria quindi il numerocicategorie King e king: short form viene utilizzata solo per finici ricerca . 
-129) I ranghi suche scala possiamo trovarli? ordinale  
-130) Se non hai i ranghi percentilicome faia trovarli:basta moltiplicare per 100 il nostrocato, trasformi i  punteggicei soggetti ocel QI. 
-131)cos'è un test soggettivo? Esecuzioneci prove ecompletamentoci frasi  
-132) Un’ INTERVISTA STRUTTURALE PREVEDE:cONTENUTO E SEQUENZAcELLEcOMANDE. 
-133)cefinizioneci saturazione:correlazioneciciascuna variabilecon il fattore 
-134) Qualeanalisi fattoriale se siconoscono in partenza i fattori e il numero: (AFC)analisi fattoriale confermativa 
-135) L’obiettivo principalecell’analisi fattorialeconfermativa (AFC) è quelloci: stabilire quanto  efficacemente i fattori latenti riproducano la matricecellecorrelazioni tra le variabili osservate 136) La Root Mean Squared Residuals è: la mediacei residuial quadratocell’analisi fattoriale confermativa. 
-137) Se lo psicologo sa precisamente quanti e quali sono i fattori latenti,cosa gliconviene fare? Un’analisi  fattorialeconfermativa. 
-138) Si usano rotazioni ortogonali: per fattori indipendenti  
-139) Nell’analisi fattorialecosa si intende per saturazionecoppia? quando più variabili saturano più  fattori 
-140) QIci rapporto: è il risultatocell’età mentale (EM)civiso l’etàcronologica (EC); 
-141) L’analisicel profilo è: ipsativo  
-142) Il fattore PPCOcibannaytine sibasa su:comprensione, vocabolario,analogie. 
-143)cos’è ilconcretismo? scarsacapacitàci generalizzazione eastrazione. 
-144) Indica lecapacità psichiche tipiche negli individui,cifferenziale semantico, suche scala:bipolare. 
-145)cos'è l’Alphacicronbach? Indicatore statistico per misurare l’attendibilità su scalaa  intervalli/rapporti, in genere valorialticiattendibilità sonocaconsiderarsi quelliche vannoca 0.70 in su. 146) Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?alfaci cronbach
-147) Riordinamentoci storie figuratecove si trova? Scalaci performancecella WAIS. 
-148)cove troviamo il test "casaceglianimali"? WPPSI (3-9anni) 
-149)cos'è l'analisi fattoriale?analisiceicati  
-150) Ilcoefficiente Rcosa rappresenta incasocianalisi multifattoriale?correlazione tracriterio e tutti i  predittori 
-151) La scalaad intervallo permetteci: Quantificare lecistanze tra gli elementi 
-152) Non poter misurare QI maggiorici 160 e inferioria 40 è: un puntocebolecella WAIS-R 
-153)come sicalcola la significativitàcel QI inassenzaci equazioneci regressione: sicalcolano i QIV e QIP  e si sommano. 
-154) Se ritroviamoche i punteggi ponderati vocabolario,costruzioneci oggetti,associazionici simbolia  numeri, i valori si spostano significativamentecalla media e i suoi puntici significatività sono superati  rispettivamenteca 28%, 12%, 29%, si puòaffermareche: solo lo scatter relativoa ricostruzioneci oggetti  risulta non particolarmente frequente nella popolazione normale. 
-155) Ilcalcolocello scatter sibasa su:cifferenza tra QIV E QIP. 
-156) Per il testcella norma statistica se ilcampione ha piccolecimensioni e la varianzacella popolazione  è ignotaallora si ricorre:al tci student  
-158) Secue itemci un test hanno uguale varianza: viene scartato quellocon minorecorrelazionecel test  intero/campione.  
-159) Indicandocon s^2x la varianzacei punteggi veri, se raddoppio la lunghezzacel test tale varianza civenta: 4 s^2 
-160) Varianzacomune Orsini e Laicardi? %ci varianzache è incomuneaciverse variabili. 
-161) Orsini e Laicardi utilizzano un metodocianalisi fattoriale:a 3 fattori  
-162) Orsini e Laicardi nella taratura suglianziani riportano nel subtestcicostruzioneci oggettiche  presenta specificitàadeguata in tutti i gruppic’ età laddove: i subtestcell’ordinamentoci storie figurate  ha specificità inadeguata solo nel gruppo 80-84.  
-163) La taratura italianaci Orsini e Laicardi è stata fatta su uncampionecel:centro sud. 
-164) La formulaconcui stabilire il numero minimoci item necessari peravere un test valido è una  variante:cella formulaci Spearman-Brown 
-165) Formulacel punteggio osservato? X=V+E 
-166) L’ERRORE STANDARD è: L’ ERROREcASUALE  
-167) Laciminuzionecell’errore: ècovuta soloall’ errorecasuale  
-168) Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la  sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test? Si rischia ciavere variabiliche non sono indipendenti tra loro. 
-169) Laceviazione standard indica: quanto un soggetto si scostacalla media. 
-170) Media eceviazione standard nei punteggi standardizzati: u=0; ò=1 
-171) Inanalisi fattorialecos’è una rotazione obliqua: una tecnicaci rotazionecegliassi fattoriali applicabile quando i fattori sono tra lorocorrelati. 
-172)cosa si intende per "comunalità" nell'analisi fattoriale: è la sommacelle saturazioni fattorialici uno  specifico test  
-173) Nella tecnica Rcell’analisi fattoriale la matricecati ècomposta:calle variabili per riga ecai fattori  percolonna 
-174) Inanalisi fattoriale il teorema fondamentaleci Thurstone stabilisceche: la matricecellecorrelazioni  tra variabili ècatacal prodotto tra la matricecelle saturazioni fattoriali e la sua trasposta. 175) Quali sono le Scaleciatteggiamento? Likert, Thurstone e Guttman (scalogramma). 176) Nell’analisi fattoriale, la matrice R è: una matrice quadrata simmetricacon i valoricellaciagonale  principale paria 0. 
-177) Nell’analisi fattorialecon fattori ortogonali si presupponeche? Lecimensioni fattoriali siano  reciprocamente indipendenti. 
-178) Inanalisi fattoriale nel metodocellecomponenti principali la proceduraci iterazionecelle 
-comunanze: X^2 = nr^2ᶲ  
-179) Fattori latenti riguardano: i fattori psichiciche guidano ilcomportamento processiche non possono  esserecirettamente osservati. 
-180) Nell’analisi fattoriale lo Scree-plot e la proceduraci Kaiser -Guttman possono indicare un numero civersoci fattorica estrarre? solo quando il numeroci fattori equivalea quellocelle variabili 181)cos’è lo Scree-plot e quali sono i valoriche prendiamo: è un grafico, fattori inascissa e eigenvalue in  ordinata. 
-182) I fattorici Horn sono: intelligenza fluida,cristallizzata, velocita e recupero 
-183) Il Subtestassociazioneci simbolia numeri presenta? Elevata saturazione sul fattore velocitàcel  modelloci Horn 
-184) Horn ecattellcosa intendono per PPRI: informazione, memoriacicifre, ragionamentoaritmetico  
-185)analisi fattoriale sugliadulti è statacalcolatacon: metodocei Fattori Principalia Rotazioneci  varimax (ortogonale) 
-186)fattori non intellettivicell’intelligenza generale sono: fattori indipendentica qualunqueabilità cognitiva  
-187)Per quanto riguarda i valoriciasimmetriacelle risposteal questionario, si puòcireche la cistribuzionecelle risposte è: simmetrica per tutti i fattori  
-188)Perché le tetradi siannullano? perché esprimono lacifferenza tra lecomposizionicelle saturazioni  fattoriali 
-189)Nella ricerca Qcell’analisi fattoriale l’obiettivo è: raggruppare i soggetti in pochi fattori  
-190)Il testci Kaiser-Meyer-Olkin (KMO) indicache ilcampione usato per lacostruzionecel questionario  SOS è:adeguato per l’analisi fattoriale  
-191)Betacon zeroacosa equivale nei punteggi standardizzati: Semprea 0 perchéb0= u1-B1u2, poiché  u1=u2=0b0= 0-B1 0 = 0  
-192)Il metodocheconsentecicalcolarebo eb1: metodo minimi quadrati  
-193)Con i punteggi standardizzati ilcoefficientebo: è sempre ugualea 0 e il numeroceicoefficientica calcolare è ugualeal numeroci predittori  
-194)Uncampione èconsiderato moltobuono per l’analisi fattoriale…: 500 soggetti  
-195)Nell’analisi fattoriale siceve evitare l’uso:ci variabili empiricamente non indipendenti 
-196)Nell’analisi fattoriale le variabilicomplesse sono: variabiliche misurano più fattori contemporaneamente  
-197)Qualeci queste NONcalcola la stimacell'attendibilità:, formula profetica Spearman-brown  
-198)Cosa indica uncoefficientecicorrelazione paria 0?• NON VI ècORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla)  
-•nulla tra le variabiliconsiderate  
-199)Quando si usa ilcoefficientecicorrelazione "rphi": QUANDO ENTRAMBE LE VARIABILI SONO SU  SCALA NOMINALE  
-200)Ilcoefficientecicorrelazione rci Spearman sicalcolacon punteggi su scala: ordinale 201)La formula �� − ��������costituisce: ilcoefficientecicorrelazione K  
-202)R^2?coefficienteciceterminazione R^2=r^2 
-203)Lacorrelazione lineare positiva:all’aumentarecei valori xaumentano i valori y 204)Lacorrelazione lineare negativa:all’aumentareci x si osserva unaciminuzioneci y  205)Betacon 1acosa equivale:coefficienteangolare (pendenza)
-206)Il punteggio x èca ritenersi nella media se: è ugualea 100  
-207)y=axcorrispondea: funzionececlinatacon β=0, poiché varia l’inclinazionecella retta. 208)correlazioneci Pearson (������������) è (n=numci soggetti 209)Quale scala ha il livello piùcompletoci operazioni possibili? SCALAa RAPPORTI  210)Cosa servono le scale L, F, K, nell’MMPI: ITEM VALIDAZIONE  
-211)Qualeci queste non è una scalaciatteggiamento: WPPSI  
-212)Il quoziente intellettivo totaleaumentacicirca 3 punti ogni 10anni: Effetto Flynn 
-213)La validitàcicostruttocipende: •dallacefinizione operativacelle proprietàcelcostrutto misurato  tramite il reattivo  
-•callacefinizione operazionalecelcostrutto 
-214)Cos'è la validitàcicontenuto? si riferiscealla popolazionea partirecalla quale sono stati selezionati  gli itemcel reattivo. Un reattivo ha validitàcicontenuto se ilcampione finaleci item è stato estratto cell’intera popolazioneci itemche possono essere validi indicatoricelcostrutto psicologico indagato.  
-215)Cos'è la validità PREDITTIVA? I punteggicel reattivo sono stati ottenuti in un secondo momento  precedente rispettoai valoricelcriterio  
-216)Sichiama validitàconcorrente se: i valoricelcriterio e i punteggicel reattivo sono stati ottenuti nello  stesso momento o periodoci tempo 
-217)r-pearson si usa su scala:a intervalli o rapporti, entrambe su scala quantitativa 
-218)Nella scala nominale: i soggetti sono ripartiti incategorie inbaseaceterminatecaratteristiche  219)La scalacell’amicalità: misura il gradoci socievolezza ed empatia  
-220)La scalac misura: lacepressione  
-221)La scalaa intervallo permette:ci quantificare lacistanza tra gli elementi  
-222)I subtest ordinamentoci storie figurate…: scala performance 
-223)Un itemcon rispostaci tipo Likert è un itemcon risposta?chiusa e politomica 
-224)Nell’ MMPI la scalaback F serve per: misurare il mantenimentocell’attenzionecurante la compilazionecel test  
-225)Quando si usa l'r-pears: entrambe scale quantitative 
-226)Con le scale whechsler: i QI hanno lo stesso significatocibasea prescinderecall’ età 
-227)Per variabile indipendente si intende: quell’oggetto o evento manipolatocallo sperimentatore per  suscitare una reazione nelle persone  
-228)Ilcisegnocorrelazionale siapplica? Quando risulta impossibile stabilire quale variabileassume il ruolo ci variabile indipendente e quale quelloci variabilecipendente. Unicocompitocel ricercatore è stabilire se  esiste una qualche formaci relazione tra le variabilici interesse 
-229)La psicologia sperimentale ha lo scopoci:ceterminare la relazionecausa-effetto tra la variabile  indipendente e variabilecipendente  
-230)Indicare quale può essere un inconvenientecella procedura Test-Retest: I soggettiapprendono le  risposteaumentando l’attendibilità  
-231)Il testcisegnocon icubiappartiene: QIP (proveci performance)  
-232)Item Likert: L F K  
-233)I punteggicella WAIS subisconocecremento:con l’aumentarecell’età 
-234)L’intervista qualitativa è: menocirettivacella quantitativa, meno standardizzata 
-235)Ilcolloquio permetteci: raccoglierecati relativialcontenuto ecati relativial personale  
-236)Il termine Mastering indica: una situazioneci padronanza,cicontrollo e poterecell’individua sulla  situazione 
-237)Qualicaratteristiche prende inconsiderazione il modello JD-Rcibakker ecemerouti? Lecimensioni  positive e negativechecaratterizzano ilbenessere e ilcisagio lavorativo 
-238)Cos’e l’impulsione? Una formaci Response set  
-239)Il ricercatoreceve: mostrare il materiale soloal momentocella prova  
-240)Ilcampionamento stratificato prevedeche gli individui siano estratticalla popolazione? In modoca  presentare in misura equivalenteceterminatecaratteristiche,che si suppone possano influenzare il  punteggiocel singoloal reattivo  
-241)Che tipoci test è il TAT? TEST PROIETTIVIcI NARRATIVA OcONTENUTO  
-242)Che tipoci test sono le matrici progressive: QI intelligenza fluida  
-243)Cos'è un test minima performance? Indica lecapacità psichiche tipichecel soggetto  
-244)QI verbalecomprende il seguente test: ragionamentoaritmetico  
-245)Cos’è un testci massima performance? Testci intelligenza,attitudinali eci rendimento  
-246)Il test – retestcos’è? somministrare in 2 sessioniciverse lo stesso test  
-247)I test proiettivi: presentare stimoliambigui ed evocare risposte inconsce  
-248)Cosa si intende per normaci un test psicologico:costruzionecei parametriciapplicazione  
-249)Testci Rorshach: test proiettivo  
-250)Il test oggettivo è: un test incui prevedono rispostea scelta multipla  
-251)Il testci intelligenza è: un testcognitivo  
-252)I punteggi grezzicella WAIS vannoca 0a un massimoci:civersoca subtesta subtest  
-253)Il subtestcicomprensioneappartiene: QIV (verbale) 
-254)Cos'è il KR20? La formulaci Kuder-Richardsonè vieneapplicataai testcon item omogenei, èadattaa  valutare lacoerenza internaci test formatica itemcicotomici (misuraattendibilità) 
-255)Qual è lacaratteristicacelle interviste strutturate? ilcontenuto e la strutturacellecomande sono cecisecall'inizio 
-256)Indicanocon “ratt” lacorrelazionecel testciarrivo,con “r part” lacorrelazionecel testci partenza  econ “u” il numeroci parti incui è statociviso il test, la formulacorrettacell’equazioneci Spearmanbrown è: ������������ �������� = 1+(��−1) ���������� 
-257)Un testci tipica performance misura:ciòche è tipico nei soggetti  
-258)Un test ha validità esterna se: può essereapplicato inciversicontesti spaziali e temporali  
-259)Il testci velocità prevede: un intervalloci tempo prestabilito ed uguale per tutti i soggetti 
-260)Differenzacei punteggicell'intelligenzacalcolaticabinet ecalla WAIS: QI rapporto mente, l’altro QI ceviazione  
-261)Il gradoci intelligenzaci una persona è una variabileciscreta ocontinua?continua 
-262)Come sicefinisce il gruppocicontrollo: situazione neutra  
-263)Il punteggio spaziale PPSP ècatoca:completamentoci figure,cisegnocon icubi e ricostruzioneci  oggetti  
-264)Uncifettocella WM: problem solving siattribuiscea:canno neurologico  
-265)QIV misura: intelligenzacristallizzata 
-266)Icubi nella WAIS misurano: intelligenza generale o fluida  
-267)Nelcalcolocel QI: (trasformazionici punteggi grezzi in ponderati) 
-268)Lacimensionecisagiocel questionario SOScorrelacon le scaleclinichecella SCL-90R? Sicon tutte e  lecorrelazioni sono positive  
-269)Il modello più utilizzato, tra i modelli interazionalicello stress (SOS), è quelloci: Karasek (modello comandacontrollo)  
-270)Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? Il metodo empirico 
-271)Alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto? Se gli è sembrato  interessante  
-272)La scalaci svalutazionecel questionario SOS fornisce informazioni riguardanti:  l’organizzazionecel lavoroall’internocell’azienda  
-273)La Scalacicisagiocel questionario SOS fornisce informazioni riguardo: l’inadeguatezza personale circa lo svolgimentocel proprio lavoro  
-274)…temporalecel questionario SOS fornisce informazioni inerentialla: gestionecel tempo lavorativo ed  extra-lavorativo  
-275)Il questionario Stress Organizzativo e Salute (SOS), nella forma finale, p suddiviso in: tre sezioni ed è compostoca 70 item  
-276)Per i modelli transazionalicello stress, lo stress èconsideratocome: Uno stato psicologico negativo checomprende siaaspetticognitiviche emotivi  
-277)Nei lavoratoribancari il tassoci mentalizzazionecei processiceve essere:alto  
-278)L’insorgenzacello stress si verificherebbe quandoc’è uno squilibrio tra lacomanda percepita e la  percezionecelle propriecapacitàci reagiread essa; questacondizione ècefinitacal termine: imbalance  (nonbilancio) 
-279)Il modellocemand-Controlci Karasekconcepisce lo stresscome:causatoca un’altacomanda  lavorativaca partecell’organizzazione e unbassocontrollocel lavoroca partecel lavoratore 
-280)Nel modellocella sindrome generaleciadattamentoci Selye la rispostacell’organismoceve essere: aspecifica e qualsiasi 
-281)Cosa si intende per job resources? Risorsecel lavoro  
-282)La psicologiacel lavoro hacome fine nella WAIS: la sceltacel personale  
-283)Ilcoping ècefinitocome: Uncambiamentocell’ambienteca partecel soggettoche non si identifica  nel risultato ma negli sforziattuati per il suo raggiungimento 
-284)Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezionecelle  risorse possedute, tanto piùalta sarà la motivazione  
-285)Xanthopolou,bakker,cemerouti e Shaufeli (2007) hanno esaminato il ruoloci tre risorse personali  nel predire l’esaurimento ed ilcoinvolgimento lavorativo, esse sono:autostima, ottimismo e self-efficacy 
-286)Secondo la teoriacella rispostac’organoappresaca Favretto, la malattia psicosomatica è ceterminataca: Uno stimoloappreso  
-287)Differenza tra punteggio ipsativo e normativo: Il primo è il punteggiocel soggetto, il secondo indica il  rapporto tra il suo punteggio e la popolazione  
-288)La ricerca neicatic’archivio è un metodo:cisegnoci ricerca NON sperimentale  
-289)Un’intervista strutturata prevede:comande prestabilite sia nella formache nelcontenuto fin call’inizio  
-290)Response set: la tendenzacel soggettoa fornire risposte uguali in maniera meccanica  
-291)PPACcosa rappresenta: punti ponderaticiattenzione econcentrazione 
-292)Itemcon targetcistrattori prevedono: risposte politomiche  
-293)Per la taraturaanziani si usano: punteggi ponderati per età 
-294)Tra gli effetti più significativiceterminaticall’azionecondivisacei lavoratori ecell’azienda vi sono: un miglioramentocell’immagineaziendale  
-295)L’errore standard indica: la varianzacellacistribuzionecampionariacelle medie 
-296)La trasformataci Fisherconsenteci trasformare: icoefficienticicorrelazioni in punti z’che hanno  varianza più omogenea 
-297)Il questionario SOS è statocostituito specificatamente per: gli operatoribancari 
-298)Nella tecnica Pcell’analisi fattoriale la matriceceicati ècatacai punteggicello stesso soggetto: misurati in momenticiversi su più variabili 
-299)Inanalisi fattoriale, l’eingevaule è la somma:celle saturazionial quadratoceiciversi fattori 
-300)Le scalecicontrollo nell’MMPI servono: per valutare la validitàcelle rispostecei soggetti 
-301)Il testci velocità prevede : un intervalloci tempo prestabilito ed uguale per tutti i soggetti 
-302)Funzionecorticotropina: inibisce le funzioni vegetative quali l’alimentazione e la riproduzione  303)Il ragionamentoaritmetico è un sottoscala:cella WAIS 
-304)L’erroreci sostituzione ècatocal prodottocell’errore standardci misuracon la radice quadrata:cell’attendibilità 
-305)Lo stress èconsideratocome uno statocaratterizzatoca:alti livellici eccitazione eansia spesso accompagnatica sensoci inadeguatezza 
-306)Gli itemcon target ecistrattori prevedono risposteci tipo: politomico 
-307)La formula perconcui stabilire il numero minimoci item necessari peravere un test valido è una  variante?cella formulaci Spearman-Brown  
-308)Il teoremaci rappresentazione, nell’ambitocella teoriaci misurazione, stabilisceche: è possibile associare una struttura empirica,conceterminate proprietà,ad una numericacon uguali proprietà 
-309)Secevo stabilire l’esistenzaci unacifferenza significativa tra le mediecicuecampioni tramite il test cei punti z quale tra le seguenti formulecevoapplicare? 
-: 
-Formulacorrettaacronbach:  
-Lacorretta relazione tra ilcoefficiente phi  
-Itemche ha ricevuto più risposte nella sezione 3 
-312)Un testci massima performance serve per: Misurare lecaratteristiche psicologiche spingendo i  soggettiacare il meglioci se. 
-313) Lacimensione Logoriocel questionario SOScorrelacon le scaleclinichecella SCL-90R? Sicon tutte e  lecorrelazioni sono positive. 
-314) Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? Il metodo empirico 
-315)La maggior partecei soggetti hacome titoloci studio: media superiore 
-316)Il testci Rorschach è: un test proiettivo 
-317)Trasformazione permissibilea rapporto:cescrivono l’equazione y=ax 
-318)Matriceci saturazione: riporta i valoriciciascuna variabilecon icostrutti 
-319)Test-retest: somministrare in 2 sessioniciverse lo stesso test 
-320)R-phi: entrambe le variabili su scala nominale  
-321)Confrontocel punteggiocon la mediacel gruppocei soggettica un punteggio: normativo 
-322)Teoriacella rappresentazione: stabilisceche l’assegnazionecei numeriagli elementi empiriciceve  essere taleca preservare la proprietàcelle relazioni ocelle operazioni 
-323)Quale metodo permetteci misurare lacimensionalitàcegli itemci un test: forme parallele 
-324)I valoricell’Adjusted Goodness Fit Index variano:ca 0ad 1  
-325)Cos’è la matricecei residui, inanalisi fattoriale? La matricecellecifferenze tracorrelazioni osservate e correlazioni ricavatecalle saturazioni  
-326)Per stabilire se un soggetto rientra nella norma statistica, occorre fare un test statistico…grandi cimensioni,allora si può ricorrere:al testcei punti z  
-327)Le scalecicontrollo nell’MMPI servono: Per valutare la validitàcelle rispostecei soggetti  
-328)Nell’analisi fattoriale esplorativacel questionario SOS, quanti fattori latenti: 3  
-329)L’impulsione è una formaci: Response set  
-330)Ilcoping ècefinitocome: Uncambiamentocell’ambienteca partecel soggetto…il suo raggiungimento  
-331)Il modello JD-Rcibakker ecemerouticeriva:call’unionecel modellocemand-Controlci Karasek ecal  modello Effort-Reward Imbalanceci Siegrist  
-332)Un modo per ridurre i response set è: Rendere il testci facile esecuzione  
-333)Inanalisi fattoriale, se sicivide l’eigenvalueci uncato fattore per il numeroci tutti: La proporzioneci  varianza spiegata soloca quel fattore  
-334)Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la  sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test?: Si  rischiaciavere variabiliche non sono indipendenti tra loro;  
-335)Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?: la  proceduraci Sperman-Brown;  
-336)Il test – retestcos’è?: somministrare in 2 sessioniciverse lo stesso test perconfermarne l’attendibilità;  
-337)I test proiettivi: presentare stimoliambigui ed evocare rispostecreative perattivare meccanismici cifesa ed ottenere risposte più “genuine”;  
-338)Il testci intelligenza è: un testcognitivo;  
-339)Il test oggettivo è: un test incui prevedono rispostea scelta multipla;  
-340)Testci Rorshach: test proiettivo;  
-341)Icubi nella WAIS misurano: l’intelligenza generale o fluida;  
-342)Alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto?: Se gli è sembrato  interessante;  
-343)Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario?: 9;  
-345)Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezionecelle  risorse possedute, tanto piùalta sarà la motivazione;  
-346)Itemche ha ricevuto più risposte nella parte 3cel questionario SOS: 64; 
-347)Calcoloci R trasformazione: punteggi grezzi in punti ponderati  
-348)Secondo il modello Effort-Reward Imbalanceci Siergrist,cosacausa lo stress lavorativo? Lo squilibrio  tra lo sforzo lavorativo richiestocall’organizzazione e la ricompensacataal lavoratore. 349)Le tetradi, inanalisi fattoriale, siannullano perchécorrispondono:allacifferenza tra i prodotticelle  stesse saturazioni.  
-350)Nell’intervista psicologica lecomande primarie sono: quelleche introducono un nuovo temacurante  l’intervista. 
-351)Inbaseaicati ottenuticall’analisi fattoriale esplorativa, il numeroci itemcella Parte 1cel  questionario SOS è stato ridottoa: 50  
-352)Un elevato livelloci mindfulness èassociatoa:alti livellicognitivi ed emotivici sensibilitàall’errore. 
-353)Inanalisi fattoriale, la procedura per l’estrazioneci fattoribasata sulle saturazioni maggiorici 0,30  stabilisceche il numeroci fattoricorrispondea tutti i fattoriche hanno:almeno una saturazione >0,30. 354)L’intervista strutturata sicaratterizza per: il fattoche icontenuti e la sequenzacellecomande sono  prefissatiall’inizio. 
-355) Nel modellocelle equazionici LISRELci Joreskog e Sorbomacifferenzacelle equazionicell’EQSci bentler, sono previsti quanti tipi variabili? 4 variabili. 
-356)cos’è il metodocelcentroideci Thurstone: è un metodoci estrazionecei fattoriche si prestaai calcoli manuali 
-357) è semprecorretto interpretare il primo fattore estratto nell’analisi fattorialecome il fattore  generale? NO 
-358) Indicandocon y il valorecella nuova scala econ x quellocella vecchia scala la trasformazione  possibile tra la scalaa rapporto è… y=ax 
-359) i test non-verbali sono test predisposti… peranalfabeti 
-360) inanalisi fattoriale lacomunanza indica… la saturazioneal quadrato (???) 
-361) il processoci operazionalizzazioneci uncostruttoconsiste: nell’individuare gli indicatori comportamentaliche sonoconsiderati, sullabaseci una teoria psicologica, le sue manifestazioni operative 362)Nei modellici equazioni strutturali, per parametro libero si intendeche il valorecel… parametro può  variare 
-363)La validitàconvergente indica il gradociaccordo tracue o piu misurecello stessocostrutto 
-364) esiste unacorrelazione significativa tra lecimensionicel questionario SOS? Si, e lecorrelazioni sono  tutte positive e significative  
-365) se il punteggioci un testche misura la “ruminazione” ha un’elevatacorrelazione positivacon il  punteggioad unaltro testche misura…. Validitàconvergente  
-366) lacimensione svalutazionecel questionario SOScorrela significativamentecon la scalacel sonno nella SCL-90R? Si, e positivamente  
-367)ilcifferenziale semantico è un itemche prevede: scalebipolari 
-368) incosaconsiste la procedura split-half? Un test viene suddivisoa metà percalcolare lacorrelazione  tra lecue parti 
-369)checos’è lo Scree-plotcicattell? Un graficoche in ordinata ha gli eigenvalue e inascissa il numeroci  fattori generali 
-370) unocei problemi nelcalcolocell’attendibilità test-retest, è stabilire la lunghezzacell’intervallo tra  la prima e la seconda somministrazionece reattivo. Perché? Perché i soggetti possono ricordare le  risposte  
-371) Il punteggio vero ècatoca: il PRODOTTOcel punteggio osservato ecell’errore 
-372) il testci Rorschach è: un test proiettivo 
-373)cos’è unacomunanza ocomunalità, inanalisi fattoriale? È la sommacelle saturazionial quadrato per  leciverse variabili
-374) una trasformazione permissibile è: una nuova scalache mantiene inalterate le proprietàcella scala  originaria 
-375) la stimacel punteggio vero ècatacalla sommacei punteggi osservati: ecelcoefficienteci attendibilità  
-376) inanalisi fattoriale, il metodoci Procuste è una tecnicaci rotazione: obliquache sibasa su una  matricebersaglio 
-377) tra i vari response set, la semantica è unbias (domanda noncompleta)…. Il soggetto interpreta  l’item 
-378) nell’analisici regressione multiplacon punteggi standardizzati, ilcoefficientebeta: sempre ugualea  zero 
-379) nell’analisi fattorialeconfermativa, l’indice RMSEA:compreso tra 0,05 e 0,10 380) quale tra questecefinizionici fatica soggettiva è quellacorretta? Il lavoratore esprime unacadutaci  efficienza sebbene non manifesti nessuncriterio oggettivociaffaticamento  
-381) nel questionariocelbig-Five, lacimensionecell’amicalità misura: il livellocicooperativitàcelle  persone 
-382) nell’analisi fattoriale, uncatoci partenza ècostituitoca:calla matricecellecorrelazioni ocovarianze  tra le variabili
-`.split('\n');
+    currentAnswerIndex--;
+    setQuestion();
+}
+
+// window.onload = () => {
+//     for(let n=0;n<questions.length;n++) {
+//         const answerId = questions[n].title.substring(0,questions[n].title.indexOf(')'));
+    
+//         for(let i=0;i<answers.length;i++) {
+//             if(answers[i].substring(0,answers[i].indexOf(')')) == answerId) {
+//                 questions[n]['correctAnswer'] = answers[i];
+//             }
+//         }
+//     }
+    
+//     console.log(questions)
+// }

@@ -1876,3 +1876,385 @@ b)calla matricecelle mediecei punteggi
 c)calla matricecegli errori standard 
 d)calla matricecelle modalitàci risposta
 `;
+
+const answers = `
+1) PROCEDURA SPLIT-HALF:cividoa metà il test 
+2) L’attendibilità nella WAIS-R ècataca: metodo split-half tranne memoriacicifre e  
+ragionamentoaritmeticocalcolatecon test-retest  
+3) Esempioci procedura split-half:civisionea metàcel testcheconsente un’analisi fattoriale  
+4) Quali fattori misurano lacorrelazione tra 2 test: Spearmanbrown, pearson, phi tetracorico e  puntobiseriale  
+5) FORMULAcONcUI STABILIRE UN NUMERO MINIMOcI ITEM PERaVERE UN TEST VALIDO È  UNA VARIANTE:cella formulaci spearmanbrown 
+6) Quale test si usa per la significativitàcelcoefficientebravais-person? Tci Student  
+7) Formula tci studentcon r pearson: 
+1. Per verificare la significativitàcelcoefficientecicorrelazionecibravais-Person, si ricorre:al Tci  
+Student; 
+8)cOS’E’ L’IMPULSIONE? UN RESPONSE TEST 
+9)cOME SI RIDUCE UN RESPONSE TEST? Rendere il testci facile esecuzione 
+10) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata callacorrelazione:al quadrato tra predittori moltiplicata percento . 
+11) Nell’analisici regressione semplice la proporzioneci varianza spiegatacal modello ècata:callacorrelazioneal quadratocei predittori moltiplicata percento = ��2��100 
+12) Sottodimensionicella scalacella stabilità emotivacelbig Fivea paritàci varianza si  scartano item:con indicici fedeltàbassi  
+13) Ilbig five Questionnaire è: un reattivocompostoca 132 itemche misura 5 fattorici  personalità: estroversione, gradevolezza,coscienziosità, stabilità emotiva eapertura mentale; 14) Nelbig five Questionnaire, la scalacell’energia misura: Il livellocicinamismocel comportamento. 
+15) Scala ScrupolositàceibIG FIVEcosa misura? Il Sensocell’Ordinecel soggetto  
+(Coscienziosità) 
+16) La scalacella stabilità emotiva la ritroviamo: nelbig five questionaire  
+17) Nelbig Five Questionnaire, le sotto scalecellacoscienziosità sono: la scrupolosità e la  perseveranza. 
+18) Leattivitàcelbig Five:cooperatività tra le persone. 
+19) Manipolazione indipendente:creare un gruppocicontrollo e gruppo sperimentale.  20) Scala Likert: politomica, graduabile 
+21) SCALA THURSTONE:cicotomica 
+22) La formulaci Kunder Richardson serveacalcolare l’attendibilitàci un test:con risposte cicotomiche (KR-20). 
+23) KR-20:attendibiltà per gli itemcicotomici 
+24) Lacipendenza tra 2 variabili può essere rappresentata tramite:ciagrammacicispersione . 25)ciagrammacicispersione è: unciagrammacartesianoche rappresenta lacorrelazione tra  2 variabili. 
+26) La validità orientataalcriterio indica: il gradocicorrispondenza tra una misura e ilcriterio ci riferimento.  
+27)cos’è il fattore G nell’analisi fattoriale? È un fattore generalechecetermina il punteggio cel test (componente invariabile intelligenza) 
+28) Fattore Guttman: eigenvalue maggioreci 1  
+29) ICarroll ipotizza: esistenzaci un fattore generale G e 2 sottolivelli  
+30) Nel modelloacue fattori, inanalisi fattoriale, la matricecelle saturazioni ècomposta: calle variabili per riga ecai fattori generale e specifici percolonna. 
+31) Fattore g: Fattore generale 
+32) Nelle equazioni matricolaricos’è la variabile latente:costrutto psicologico 
+33) L’erroreci stimacel punteggio vero ècatocal prodottocell’errore standardci misuracon  la radice quadrata:cell’attendibilità  
+34)  
+1. Indica la formulacell’Erroreci Stimacel punteggio vero: 
+35) Nell’analisici regressione multipla R2:correlazione tra singoli predittori ecriterio  
+36) Nell’analisici regressione multipla, icoefficientibetacei predittoricel modelloci  
+regressionecorrispondono:al prodotto tra ibeta standardizzati per il rapporto tra la  
+deviazione standardcelcriterio e laceviazione standardcel predittore. 
+37) L’erroreci stimacel punteggio osservato è:catocallaceviazione standardcei punteggi  osservaticel test moltiplicata per la radice quadrataci uno meno il quadratocelcoefficienteci attendibilitàcel test 
+38)  
+1. Indicandocon “r” l’attendibilitàcel test e “����” laceviazione standardcei punteggi osservati, la  formulacell’erroreci stimacel punteggio osservato è: ������ ��; 
+39)cosa significa U nella formula profeticaci Spearman-Brown?a/p (item) 
+40) Quale metodo permetteci misurare lacimensionalitàcegli itemci un test:a paritàci  varianza si eliminano itemcon indicici fedeltàbassi  
+41)Con indicici fedeltà uguali vengono scartati: itemcon varianza più elevata  
+42) Indicici fedeltà quasi nulli: si utilizzano per eliminare gli itemcel test  
+43) Seca un test elimino gli itemcon indicici fedeltàbassi oconceviazioni standard elevate  posso ottenere un test:con un minor numeroci item ed un’attendibilità più elevata  
+44)aumentando la lunghezzacel testci ‘’m’’ volte: la varianzacei punteggi veriaumenta in  progressione geometrica (malla seconda volte) mentre la varianzacell’erroreci misura  
+aumenta in progressionearitmetica (m volte) 
+45)correlazione scala nominale: sicalcolacon phi tetracorico  
+46)cate le variabili 1 2 3 lacorrelazione parzialeconsentecicalcolare: la veracorrelazione tra  1 e 2 indipendentementeca 3. 
+47) UNcAMPIONE È MOLTObUONOcON: 500 soggetti. 
+48) Validitàci forma riguarda: il modo incui la somministrazionecel test stimola la  
+collaborazionecei soggetti . 
+49) LAcORRISPONDENZA TRA LEcIVERSE FORMEcIcIVERSI TEST: Il modo incui la  
+somministrazionecel test stimola lacollaborazione tra soggetti  
+50) Ilcampione usato per la validazionecella forma finalecella scala SOSaveva una percentualeci  soggetti maschili paria: 41,8 °/o  
+51) La scalaci Marlowecrowne usata per ilcampione nella validazionecel questionario SOS eracomposta ca: 9 item  
+52) Lecimensionicella scala SOScorrelanocon la scalaci Marlowe-Crowne: solo lecimensioni  Svalutazione, Logorio,cisagio 
+53) La scala SOS rivelaci essere uno strumento: moltoattendibile 
+54) Inche modo è statacalcolata l’attendibilitàcella scala SOS:con l’alfacicronbach; 
+55) Nell’analisi fattorialeconfermativacella scala SOS, GFI, NNFI,cFI sonoconsiderati significativi per  valori: superioria 0.90 
+56) I punti Tcellecimensionicella scala SOS hanno media eceviazione standard paria, rispettivamente: 
+50 e 10 in tutte lecimensioni 
+57) Ilcampione usato per la validazionecella forma finalecella scala SOS: 225 soggetti 
+58) Il modelloci regressione semplice, una voltacalcolata la pendenza (����) e una voltacalcolate le medie celcriterio (Y) ecel predittore (X), qual è la formulacorretta percalcolare l’intercetta (����)cel modello? ��0 = ��̅(media Y)− ��1��̅(media X); 
+59) La trasformazioneci Fisher genera una funzione:caratterizzataca unacistribuzione più uniformeche asimmetrica 
+60) Indicandocon r lacorrelazione, la trasformazioneci Fisher z’ci “r” ècatacall’equazione: ��′ = 1 ln 1+��2  1−�� 
+61)La trasformazioneci Fisherconsente:ci trasformare icoefficienticorrelazionali in punti z1che hanno  una varianza più omogenea. 
+62) Nella regressione multiplaabbiamo: uncriterio e più predittori;  
+63a) Nel modelloci regressione multipla, per stabilire la significativitàcei singoli predittori siceve  eseguire: t test per icoefficientibetacel modello 
+63b) Nel modelloci regressione multipla, per stabilire la significatività modellocompleto siceve eseguire:  un F test per la varianza spiegatacal modello 
+64) Nelcalcoloci regressione multipla esistono: numerosicoefficientibcacalcolare  65) Nel modelloci regressione multiplaa 5 predittoricon uncampioneci 20 soggetti i gradici libertà  sono: 14  
+66) r2 nella regressione multiplacorrisponde:alcoefficienteciceterminazionechea voltecoincidecon la  pendenzacella retta  
+67)cos’è la saturazionecella variabile? Un indiceche esprime lacorrelazione tra la variabile e il fattore  latente. 
+68) La formula ���� ������������, incui S�� è laceviazione standardcei punteggi osservati,costituisce:  laceviazione standardcell’erroreci misura;  
+69) Inanalisi fattorialecome si ottiene la percentualeci varianza spiegatacal fattore?cal rapporto tra  eigenvaluecel fattore ecal numeroci fattori estratti moltiplicato per 100  
+70) La formulacel punteggio ottenuto: PUNTEGGIO REALE + ERROREcI MISURA  
+71) Qual è l’itemche ha il valore medio piùbasso nella parte 3cel questionario SOS?: L’item 70; 
+72) Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario? 9 
+73) Il rango è una misura su scala: ordinale  
+74) LAcISORGANIZZAZIONE TEMPORALEcEL QUESTIONARIO SOS FORNISCE INFO INERENTIa: Gestione cel tempo lavorativo ed extra-lavorativo  
+75) L’attendibilitàcella scalacicisorganizzazione temporale, nella formacefinitivacel questionario SOS, corrispondead valore paria? 0.78 
+76) La scalacisorganizzazione temporale, nella formacefinitivacel questionario SOS,ca quanti item è composta? 9 
+77) L’A.F.cONFERMATIVA: Stabilisce quanto efficacemente i fattori riproducono la matricecelle correlazioni. 
+78) NELL’A.F LE VARIABILIcOMPLESSE SONO: Variabiliche misurano più fattoricontemporaneamente 
+79) NELL’A.F. SIcEVE EVITARE L’USOcI: Variabili empiricamente non indipendenti 
+80)cOSA MISURA ILcOEFFICIENTE R PUNTOb SERIALE? Risposte su una quantitativa, unacicotomica 
+81) Inanalisi fattorialecos’è una rotazione ortogonale?: una tecnicaci rotazionecegliassi fattoriali applicabile quando i fattori sono tra loro indipendenti; 
+82) Nell’analisi fattoriale per varimax si intende una tecnicaci : rotazione ortogonalecegliassi fattoriali 
+83) Inanalisi fattoriale il metodoci quartimax: è una tecnicaci rotazione ortogonaleche massimizza la  varianzacella saturazioneal quadrato per riga. 
+84) RICERCAc’ARCHIVIO: Ricerca non sperimentale 
+85) SCALAa INTERVALLO Oa RAPPORTO:coefficientecibravais- Pearson 
+86) Nelle scale primarie (principale)celcBA sono inclusi i seguenti test: lo state traitanxiety inventory e il  questionarioc. 
+87) Quando lo sforzo psicologico per raggiungere un obiettivo portaa risultaticostruttivi, positivi e appaganti, si parlaci: eustress  
+88) La fatica soggettiva è: fatica fisiologica e fatica patologica 
+89)chi è statoa studiare neglianni ’30, le risposte fisiologicheceglianimalici laboratorio? R. Selye  
+90) Nel modello ERI sforzo-ricompensa (Siegrist 2002) quale è lacomponente indicatacome fonteci  sforzo intrinseca in opposizionealle richiestecel lavoroche ne raffigurano quella estrinseca? la  motivazione individuale 
+91) LA SCALAcELcISAGIO SOS FORNISCE INFO RIGUARDO: INADEGUATEZZA PERSONALEcIRCA LO  SVOLGIMENTOcEL PROPRIO LAVORO 
+92) QUANTI ITEM HA LA SCALAcELcISAGIO? 11 
+93) Quale è la fasciacon frequenza piùalta riguardo l’anzianitàci servizio? 26-30 
+94)che problemi può generare l’usoci variabili troppo simili nell’analisi fattoriale: fattoricibasso livello  
+95) La scalaa rapporto sicifferenziacalla scalaa intervallo perchè? Ha uno zeroassoluto 
+96)comeciminuisce la fatica fisiologica? sonno e pause  
+97) La fatica patologicacel lavoratore sorge: quando la faticacura oltre i tentativi fisiologicici recupero  
+98) Secondo un puntoci vista fisiologico,alla presenzaci faticacorrisponde un oggettivo modificarsi:cei  parametribiochimici e fisiologici. 
+99) Lacimensionecisagio lavorativocel questionario SOScorrelacon le scaleclinichecella SCL90R? Si con tutte e lecorrelazioni sono positive; 
+344) Lacimensione svalutazionecel questionario SOScorrelacon le scaleclinichecella SLC-90R? sicon  tutte e lecorrelazioni sono positive 
+100)cimensione svalutazione questionario SOScorrispondecon la scalacsel sonno nel SCL90? Si  positivamente 
+101) Nelle tabellecelle scale troviamo: totalici scala, ranghi percentili e punti T. 
+102) L’analisicella varianza è stata effettuata su: punti Z  
+103)campioneci soggetti per la validazionecel questionario:225  
+104)checosa misura la scala Marlowe-Crowne (MC)? lacesiderabilità sociale (misurare la tendenzacei  soggettia mentire percare un’immagineci sé positiva e socialmenteaccettabile. 
+105) La situazioneci stress psicosociale se ripetuta e prolungata nel tempoaumenta il logoramento cell’individuo e producecanni: funzionali e strutturali. 
+106)coefficienteciattendibilità: Indica la proporzioneci varianzacei punteggi veri in relazionealla  varianzacei punteggi osservati  
+107) Ilcoefficienteciattendibilitàci un testcorrisponde:al rapporto tra la varianzacei punteggi veri e la  varianzacei punteggi osservati 
+108)  
+a L’errore standardci misuracorrisponde:al prodottocellaceviazione standardcei punteggi  osservati per la radice quadrataci uno meno ilcoefficienteciattendibilità s:  
+; 
+109) Per le scalea rapporto si usa ilcoefficiente: rbreavis-Pearson 
+110)cos'è la validitàcivergente? gradocicisaccordo tracue misure riguardo 2costrutticiversi 
+111) Quanti item ha un test per esserecefinitobasso? 50  
+112) Un’intervista psicologica va trascritta: in maniera integrale  
+113) NELLA RICERCA SPERIMENTALE SIcERCA: IL RAPPORTOcAUSA EFFETTO TRA VARIABILI 114)cosa sono i GDL? gradici libertàci una variabilealeatoria oci una statistica in genere esprimono il  numero minimocicati sufficientia valutare la quantitàc'informazionecontenuta nella statistica. 
+115) Nell’analisi fattoriale incatici partenza sonocostituiti:calla matricecicorrelazione ocovarianza tra  le variabili 
+116) L’indiceci efficienza E indica l’efficaciacella stima:cel punteggio vero sullabasecelcoefficienteci alienazione K. 
+117) Nel modelloci equazioni strutturali LISRELci Jokeskog e Sorbom, la matricecei residui è:  lacifferenza tra lacovarianza osservata neicati e lacovarianzaattesa. 
+118) Nel modelloci equazioni strutturali LISRELci Joreskog e Sorbom, i valori tcalcolati perciascun  parametro libero servono per stabilire: Se il parametro è significativamenteciversoca 0. 
+119) Equazioni strutturali LISRELci Joreskog, il Goodness of Fit Index è: un valoreche indica labontàci adattamentocell’intero modello. 
+120) Icalcoli matematici per eseguire un’analisi fattorialeconfermativa sibasano su modelli: equazioni  strutturali 
+121) Un modellocompletoci equazioni strutturali include: Sia variabili latentiche osservate. 
+122) L’approccio ingegneristico o tecnicocefinisce lo stresscome uno statoci: sollecitazionecontraria e  nocivacerivantecall’ambiente. 
+123) La scalacisagio lavorativo nella formacefinitivacel questionario SOSca quanti item ècomposta?  11; 
+124) Unocegliassuntibasecel modello psicometrico èche lacorrelazione tra: lacistribuzioneci errori casuali e quellacei punteggi veri sia nulla. 
+125) Un modo sempliceci manipolare la variabile indipendente:creare un gruppocicontrollo e uno  sperimentale. 
+126) Quale funzione regola la trasformazioneca una scalaall’altra?biunivoca  
+127)cue scaleci misuraad intervallo sono equivalenti: se esiste una funzionebiunivocache le lega 
+128) Le trasformazioni permissibili nella scala nominale sono: quelleche lasciano intatte le proprietàcella  scala originaria quindi il numerocicategorie King e king: short form viene utilizzata solo per finici ricerca . 
+129) I ranghi suche scala possiamo trovarli? ordinale  
+130) Se non hai i ranghi percentilicome faia trovarli:basta moltiplicare per 100 il nostrocato, trasformi i  punteggicei soggetti ocel QI. 
+131)cos'è un test soggettivo? Esecuzioneci prove ecompletamentoci frasi  
+132) Un’ INTERVISTA STRUTTURALE PREVEDE:cONTENUTO E SEQUENZAcELLEcOMANDE. 
+133)cefinizioneci saturazione:correlazioneciciascuna variabilecon il fattore 
+134) Qualeanalisi fattoriale se siconoscono in partenza i fattori e il numero: (AFC)analisi fattoriale confermativa 
+135) L’obiettivo principalecell’analisi fattorialeconfermativa (AFC) è quelloci: stabilire quanto  efficacemente i fattori latenti riproducano la matricecellecorrelazioni tra le variabili osservate 136) La Root Mean Squared Residuals è: la mediacei residuial quadratocell’analisi fattoriale confermativa. 
+137) Se lo psicologo sa precisamente quanti e quali sono i fattori latenti,cosa gliconviene fare? Un’analisi  fattorialeconfermativa. 
+138) Si usano rotazioni ortogonali: per fattori indipendenti  
+139) Nell’analisi fattorialecosa si intende per saturazionecoppia? quando più variabili saturano più  fattori 
+140) QIci rapporto: è il risultatocell’età mentale (EM)civiso l’etàcronologica (EC); 
+141) L’analisicel profilo è: ipsativo  
+142) Il fattore PPCOcibannaytine sibasa su:comprensione, vocabolario,analogie. 
+143)cos’è ilconcretismo? scarsacapacitàci generalizzazione eastrazione. 
+144) Indica lecapacità psichiche tipiche negli individui,cifferenziale semantico, suche scala:bipolare. 
+145)cos'è l’Alphacicronbach? Indicatore statistico per misurare l’attendibilità su scalaa  intervalli/rapporti, in genere valorialticiattendibilità sonocaconsiderarsi quelliche vannoca 0.70 in su. 146) Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?alfaci cronbach
+147) Riordinamentoci storie figuratecove si trova? Scalaci performancecella WAIS. 
+148)cove troviamo il test "casaceglianimali"? WPPSI (3-9anni) 
+149)cos'è l'analisi fattoriale?analisiceicati  
+150) Ilcoefficiente Rcosa rappresenta incasocianalisi multifattoriale?correlazione tracriterio e tutti i  predittori 
+151) La scalaad intervallo permetteci: Quantificare lecistanze tra gli elementi 
+152) Non poter misurare QI maggiorici 160 e inferioria 40 è: un puntocebolecella WAIS-R 
+153)come sicalcola la significativitàcel QI inassenzaci equazioneci regressione: sicalcolano i QIV e QIP  e si sommano. 
+154) Se ritroviamoche i punteggi ponderati vocabolario,costruzioneci oggetti,associazionici simbolia  numeri, i valori si spostano significativamentecalla media e i suoi puntici significatività sono superati  rispettivamenteca 28%, 12%, 29%, si puòaffermareche: solo lo scatter relativoa ricostruzioneci oggetti  risulta non particolarmente frequente nella popolazione normale. 
+155) Ilcalcolocello scatter sibasa su:cifferenza tra QIV E QIP. 
+156) Per il testcella norma statistica se ilcampione ha piccolecimensioni e la varianzacella popolazione  è ignotaallora si ricorre:al tci student  
+158) Secue itemci un test hanno uguale varianza: viene scartato quellocon minorecorrelazionecel test  intero/campione.  
+159) Indicandocon s^2x la varianzacei punteggi veri, se raddoppio la lunghezzacel test tale varianza civenta: 4 s^2 
+160) Varianzacomune Orsini e Laicardi? %ci varianzache è incomuneaciverse variabili. 
+161) Orsini e Laicardi utilizzano un metodocianalisi fattoriale:a 3 fattori  
+162) Orsini e Laicardi nella taratura suglianziani riportano nel subtestcicostruzioneci oggettiche  presenta specificitàadeguata in tutti i gruppic’ età laddove: i subtestcell’ordinamentoci storie figurate  ha specificità inadeguata solo nel gruppo 80-84.  
+163) La taratura italianaci Orsini e Laicardi è stata fatta su uncampionecel:centro sud. 
+164) La formulaconcui stabilire il numero minimoci item necessari peravere un test valido è una  variante:cella formulaci Spearman-Brown 
+165) Formulacel punteggio osservato? X=V+E 
+166) L’ERRORE STANDARD è: L’ ERROREcASUALE  
+167) Laciminuzionecell’errore: ècovuta soloall’ errorecasuale  
+168) Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la  sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test? Si rischia ciavere variabiliche non sono indipendenti tra loro. 
+169) Laceviazione standard indica: quanto un soggetto si scostacalla media. 
+170) Media eceviazione standard nei punteggi standardizzati: u=0; ò=1 
+171) Inanalisi fattorialecos’è una rotazione obliqua: una tecnicaci rotazionecegliassi fattoriali applicabile quando i fattori sono tra lorocorrelati. 
+172)cosa si intende per "comunalità" nell'analisi fattoriale: è la sommacelle saturazioni fattorialici uno  specifico test  
+173) Nella tecnica Rcell’analisi fattoriale la matricecati ècomposta:calle variabili per riga ecai fattori  percolonna 
+174) Inanalisi fattoriale il teorema fondamentaleci Thurstone stabilisceche: la matricecellecorrelazioni  tra variabili ècatacal prodotto tra la matricecelle saturazioni fattoriali e la sua trasposta. 175) Quali sono le Scaleciatteggiamento? Likert, Thurstone e Guttman (scalogramma). 176) Nell’analisi fattoriale, la matrice R è: una matrice quadrata simmetricacon i valoricellaciagonale  principale paria 0. 
+177) Nell’analisi fattorialecon fattori ortogonali si presupponeche? Lecimensioni fattoriali siano  reciprocamente indipendenti. 
+178) Inanalisi fattoriale nel metodocellecomponenti principali la proceduraci iterazionecelle 
+comunanze: X^2 = nr^2ᶲ  
+179) Fattori latenti riguardano: i fattori psichiciche guidano ilcomportamento processiche non possono  esserecirettamente osservati. 
+180) Nell’analisi fattoriale lo Scree-plot e la proceduraci Kaiser -Guttman possono indicare un numero civersoci fattorica estrarre? solo quando il numeroci fattori equivalea quellocelle variabili 181)cos’è lo Scree-plot e quali sono i valoriche prendiamo: è un grafico, fattori inascissa e eigenvalue in  ordinata. 
+182) I fattorici Horn sono: intelligenza fluida,cristallizzata, velocita e recupero 
+183) Il Subtestassociazioneci simbolia numeri presenta? Elevata saturazione sul fattore velocitàcel  modelloci Horn 
+184) Horn ecattellcosa intendono per PPRI: informazione, memoriacicifre, ragionamentoaritmetico  
+185)analisi fattoriale sugliadulti è statacalcolatacon: metodocei Fattori Principalia Rotazioneci  varimax (ortogonale) 
+186)fattori non intellettivicell’intelligenza generale sono: fattori indipendentica qualunqueabilità cognitiva  
+187)Per quanto riguarda i valoriciasimmetriacelle risposteal questionario, si puòcireche la cistribuzionecelle risposte è: simmetrica per tutti i fattori  
+188)Perché le tetradi siannullano? perché esprimono lacifferenza tra lecomposizionicelle saturazioni  fattoriali 
+189)Nella ricerca Qcell’analisi fattoriale l’obiettivo è: raggruppare i soggetti in pochi fattori  
+190)Il testci Kaiser-Meyer-Olkin (KMO) indicache ilcampione usato per lacostruzionecel questionario  SOS è:adeguato per l’analisi fattoriale  
+191)Betacon zeroacosa equivale nei punteggi standardizzati: Semprea 0 perchéb0= u1-B1u2, poiché  u1=u2=0b0= 0-B1 0 = 0  
+192)Il metodocheconsentecicalcolarebo eb1: metodo minimi quadrati  
+193)Con i punteggi standardizzati ilcoefficientebo: è sempre ugualea 0 e il numeroceicoefficientica calcolare è ugualeal numeroci predittori  
+194)Uncampione èconsiderato moltobuono per l’analisi fattoriale…: 500 soggetti  
+195)Nell’analisi fattoriale siceve evitare l’uso:ci variabili empiricamente non indipendenti 
+196)Nell’analisi fattoriale le variabilicomplesse sono: variabiliche misurano più fattori contemporaneamente  
+197)Qualeci queste NONcalcola la stimacell'attendibilità:, formula profetica Spearman-brown  
+198)Cosa indica uncoefficientecicorrelazione paria 0?• NON VI ècORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla)  
+•nulla tra le variabiliconsiderate  
+199)Quando si usa ilcoefficientecicorrelazione "rphi": QUANDO ENTRAMBE LE VARIABILI SONO SU  SCALA NOMINALE  
+200)Ilcoefficientecicorrelazione rci Spearman sicalcolacon punteggi su scala: ordinale 201)La formula �� − ��������costituisce: ilcoefficientecicorrelazione K  
+202)R^2?coefficienteciceterminazione R^2=r^2 
+203)Lacorrelazione lineare positiva:all’aumentarecei valori xaumentano i valori y 204)Lacorrelazione lineare negativa:all’aumentareci x si osserva unaciminuzioneci y  205)Betacon 1acosa equivale:coefficienteangolare (pendenza)
+206)Il punteggio x èca ritenersi nella media se: è ugualea 100  
+207)y=axcorrispondea: funzionececlinatacon β=0, poiché varia l’inclinazionecella retta. 208)correlazioneci Pearson (������������) è (n=numci soggetti 209)Quale scala ha il livello piùcompletoci operazioni possibili? SCALAa RAPPORTI  210)Cosa servono le scale L, F, K, nell’MMPI: ITEM VALIDAZIONE  
+211)Qualeci queste non è una scalaciatteggiamento: WPPSI  
+212)Il quoziente intellettivo totaleaumentacicirca 3 punti ogni 10anni: Effetto Flynn 
+213)La validitàcicostruttocipende: •dallacefinizione operativacelle proprietàcelcostrutto misurato  tramite il reattivo  
+•callacefinizione operazionalecelcostrutto 
+214)Cos'è la validitàcicontenuto? si riferiscealla popolazionea partirecalla quale sono stati selezionati  gli itemcel reattivo. Un reattivo ha validitàcicontenuto se ilcampione finaleci item è stato estratto cell’intera popolazioneci itemche possono essere validi indicatoricelcostrutto psicologico indagato.  
+215)Cos'è la validità PREDITTIVA? I punteggicel reattivo sono stati ottenuti in un secondo momento  precedente rispettoai valoricelcriterio  
+216)Sichiama validitàconcorrente se: i valoricelcriterio e i punteggicel reattivo sono stati ottenuti nello  stesso momento o periodoci tempo 
+217)r-pearson si usa su scala:a intervalli o rapporti, entrambe su scala quantitativa 
+218)Nella scala nominale: i soggetti sono ripartiti incategorie inbaseaceterminatecaratteristiche  219)La scalacell’amicalità: misura il gradoci socievolezza ed empatia  
+220)La scalac misura: lacepressione  
+221)La scalaa intervallo permette:ci quantificare lacistanza tra gli elementi  
+222)I subtest ordinamentoci storie figurate…: scala performance 
+223)Un itemcon rispostaci tipo Likert è un itemcon risposta?chiusa e politomica 
+224)Nell’ MMPI la scalaback F serve per: misurare il mantenimentocell’attenzionecurante la compilazionecel test  
+225)Quando si usa l'r-pears: entrambe scale quantitative 
+226)Con le scale whechsler: i QI hanno lo stesso significatocibasea prescinderecall’ età 
+227)Per variabile indipendente si intende: quell’oggetto o evento manipolatocallo sperimentatore per  suscitare una reazione nelle persone  
+228)Ilcisegnocorrelazionale siapplica? Quando risulta impossibile stabilire quale variabileassume il ruolo ci variabile indipendente e quale quelloci variabilecipendente. Unicocompitocel ricercatore è stabilire se  esiste una qualche formaci relazione tra le variabilici interesse 
+229)La psicologia sperimentale ha lo scopoci:ceterminare la relazionecausa-effetto tra la variabile  indipendente e variabilecipendente  
+230)Indicare quale può essere un inconvenientecella procedura Test-Retest: I soggettiapprendono le  risposteaumentando l’attendibilità  
+231)Il testcisegnocon icubiappartiene: QIP (proveci performance)  
+232)Item Likert: L F K  
+233)I punteggicella WAIS subisconocecremento:con l’aumentarecell’età 
+234)L’intervista qualitativa è: menocirettivacella quantitativa, meno standardizzata 
+235)Ilcolloquio permetteci: raccoglierecati relativialcontenuto ecati relativial personale  
+236)Il termine Mastering indica: una situazioneci padronanza,cicontrollo e poterecell’individua sulla  situazione 
+237)Qualicaratteristiche prende inconsiderazione il modello JD-Rcibakker ecemerouti? Lecimensioni  positive e negativechecaratterizzano ilbenessere e ilcisagio lavorativo 
+238)Cos’e l’impulsione? Una formaci Response set  
+239)Il ricercatoreceve: mostrare il materiale soloal momentocella prova  
+240)Ilcampionamento stratificato prevedeche gli individui siano estratticalla popolazione? In modoca  presentare in misura equivalenteceterminatecaratteristiche,che si suppone possano influenzare il  punteggiocel singoloal reattivo  
+241)Che tipoci test è il TAT? TEST PROIETTIVIcI NARRATIVA OcONTENUTO  
+242)Che tipoci test sono le matrici progressive: QI intelligenza fluida  
+243)Cos'è un test minima performance? Indica lecapacità psichiche tipichecel soggetto  
+244)QI verbalecomprende il seguente test: ragionamentoaritmetico  
+245)Cos’è un testci massima performance? Testci intelligenza,attitudinali eci rendimento  
+246)Il test – retestcos’è? somministrare in 2 sessioniciverse lo stesso test  
+247)I test proiettivi: presentare stimoliambigui ed evocare risposte inconsce  
+248)Cosa si intende per normaci un test psicologico:costruzionecei parametriciapplicazione  
+249)Testci Rorshach: test proiettivo  
+250)Il test oggettivo è: un test incui prevedono rispostea scelta multipla  
+251)Il testci intelligenza è: un testcognitivo  
+252)I punteggi grezzicella WAIS vannoca 0a un massimoci:civersoca subtesta subtest  
+253)Il subtestcicomprensioneappartiene: QIV (verbale) 
+254)Cos'è il KR20? La formulaci Kuder-Richardsonè vieneapplicataai testcon item omogenei, èadattaa  valutare lacoerenza internaci test formatica itemcicotomici (misuraattendibilità) 
+255)Qual è lacaratteristicacelle interviste strutturate? ilcontenuto e la strutturacellecomande sono cecisecall'inizio 
+256)Indicanocon “ratt” lacorrelazionecel testciarrivo,con “r part” lacorrelazionecel testci partenza  econ “u” il numeroci parti incui è statociviso il test, la formulacorrettacell’equazioneci Spearmanbrown è: ������������ �������� = 1+(��−1) ���������� 
+257)Un testci tipica performance misura:ciòche è tipico nei soggetti  
+258)Un test ha validità esterna se: può essereapplicato inciversicontesti spaziali e temporali  
+259)Il testci velocità prevede: un intervalloci tempo prestabilito ed uguale per tutti i soggetti 
+260)Differenzacei punteggicell'intelligenzacalcolaticabinet ecalla WAIS: QI rapporto mente, l’altro QI ceviazione  
+261)Il gradoci intelligenzaci una persona è una variabileciscreta ocontinua?continua 
+262)Come sicefinisce il gruppocicontrollo: situazione neutra  
+263)Il punteggio spaziale PPSP ècatoca:completamentoci figure,cisegnocon icubi e ricostruzioneci  oggetti  
+264)Uncifettocella WM: problem solving siattribuiscea:canno neurologico  
+265)QIV misura: intelligenzacristallizzata 
+266)Icubi nella WAIS misurano: intelligenza generale o fluida  
+267)Nelcalcolocel QI: (trasformazionici punteggi grezzi in ponderati) 
+268)Lacimensionecisagiocel questionario SOScorrelacon le scaleclinichecella SCL-90R? Sicon tutte e  lecorrelazioni sono positive  
+269)Il modello più utilizzato, tra i modelli interazionalicello stress (SOS), è quelloci: Karasek (modello comandacontrollo)  
+270)Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? Il metodo empirico 
+271)Alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto? Se gli è sembrato  interessante  
+272)La scalaci svalutazionecel questionario SOS fornisce informazioni riguardanti:  l’organizzazionecel lavoroall’internocell’azienda  
+273)La Scalacicisagiocel questionario SOS fornisce informazioni riguardo: l’inadeguatezza personale circa lo svolgimentocel proprio lavoro  
+274)…temporalecel questionario SOS fornisce informazioni inerentialla: gestionecel tempo lavorativo ed  extra-lavorativo  
+275)Il questionario Stress Organizzativo e Salute (SOS), nella forma finale, p suddiviso in: tre sezioni ed è compostoca 70 item  
+276)Per i modelli transazionalicello stress, lo stress èconsideratocome: Uno stato psicologico negativo checomprende siaaspetticognitiviche emotivi  
+277)Nei lavoratoribancari il tassoci mentalizzazionecei processiceve essere:alto  
+278)L’insorgenzacello stress si verificherebbe quandoc’è uno squilibrio tra lacomanda percepita e la  percezionecelle propriecapacitàci reagiread essa; questacondizione ècefinitacal termine: imbalance  (nonbilancio) 
+279)Il modellocemand-Controlci Karasekconcepisce lo stresscome:causatoca un’altacomanda  lavorativaca partecell’organizzazione e unbassocontrollocel lavoroca partecel lavoratore 
+280)Nel modellocella sindrome generaleciadattamentoci Selye la rispostacell’organismoceve essere: aspecifica e qualsiasi 
+281)Cosa si intende per job resources? Risorsecel lavoro  
+282)La psicologiacel lavoro hacome fine nella WAIS: la sceltacel personale  
+283)Ilcoping ècefinitocome: Uncambiamentocell’ambienteca partecel soggettoche non si identifica  nel risultato ma negli sforziattuati per il suo raggiungimento 
+284)Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezionecelle  risorse possedute, tanto piùalta sarà la motivazione  
+285)Xanthopolou,bakker,cemerouti e Shaufeli (2007) hanno esaminato il ruoloci tre risorse personali  nel predire l’esaurimento ed ilcoinvolgimento lavorativo, esse sono:autostima, ottimismo e self-efficacy 
+286)Secondo la teoriacella rispostac’organoappresaca Favretto, la malattia psicosomatica è ceterminataca: Uno stimoloappreso  
+287)Differenza tra punteggio ipsativo e normativo: Il primo è il punteggiocel soggetto, il secondo indica il  rapporto tra il suo punteggio e la popolazione  
+288)La ricerca neicatic’archivio è un metodo:cisegnoci ricerca NON sperimentale  
+289)Un’intervista strutturata prevede:comande prestabilite sia nella formache nelcontenuto fin call’inizio  
+290)Response set: la tendenzacel soggettoa fornire risposte uguali in maniera meccanica  
+291)PPACcosa rappresenta: punti ponderaticiattenzione econcentrazione 
+292)Itemcon targetcistrattori prevedono: risposte politomiche  
+293)Per la taraturaanziani si usano: punteggi ponderati per età 
+294)Tra gli effetti più significativiceterminaticall’azionecondivisacei lavoratori ecell’azienda vi sono: un miglioramentocell’immagineaziendale  
+295)L’errore standard indica: la varianzacellacistribuzionecampionariacelle medie 
+296)La trasformataci Fisherconsenteci trasformare: icoefficienticicorrelazioni in punti z’che hanno  varianza più omogenea 
+297)Il questionario SOS è statocostituito specificatamente per: gli operatoribancari 
+298)Nella tecnica Pcell’analisi fattoriale la matriceceicati ècatacai punteggicello stesso soggetto: misurati in momenticiversi su più variabili 
+299)Inanalisi fattoriale, l’eingevaule è la somma:celle saturazionial quadratoceiciversi fattori 
+300)Le scalecicontrollo nell’MMPI servono: per valutare la validitàcelle rispostecei soggetti 
+301)Il testci velocità prevede : un intervalloci tempo prestabilito ed uguale per tutti i soggetti 
+302)Funzionecorticotropina: inibisce le funzioni vegetative quali l’alimentazione e la riproduzione  303)Il ragionamentoaritmetico è un sottoscala:cella WAIS 
+304)L’erroreci sostituzione ècatocal prodottocell’errore standardci misuracon la radice quadrata:cell’attendibilità 
+305)Lo stress èconsideratocome uno statocaratterizzatoca:alti livellici eccitazione eansia spesso accompagnatica sensoci inadeguatezza 
+306)Gli itemcon target ecistrattori prevedono risposteci tipo: politomico 
+307)La formula perconcui stabilire il numero minimoci item necessari peravere un test valido è una  variante?cella formulaci Spearman-Brown  
+308)Il teoremaci rappresentazione, nell’ambitocella teoriaci misurazione, stabilisceche: è possibile associare una struttura empirica,conceterminate proprietà,ad una numericacon uguali proprietà 
+309)Secevo stabilire l’esistenzaci unacifferenza significativa tra le mediecicuecampioni tramite il test cei punti z quale tra le seguenti formulecevoapplicare? 
+: 
+Formulacorrettaacronbach:  
+Lacorretta relazione tra ilcoefficiente phi  
+Itemche ha ricevuto più risposte nella sezione 3 
+312)Un testci massima performance serve per: Misurare lecaratteristiche psicologiche spingendo i  soggettiacare il meglioci se. 
+313) Lacimensione Logoriocel questionario SOScorrelacon le scaleclinichecella SCL-90R? Sicon tutte e  lecorrelazioni sono positive. 
+314) Quale metodo è stato utilizzato per lacostruzionecel questionario SOS? Il metodo empirico 
+315)La maggior partecei soggetti hacome titoloci studio: media superiore 
+316)Il testci Rorschach è: un test proiettivo 
+317)Trasformazione permissibilea rapporto:cescrivono l’equazione y=ax 
+318)Matriceci saturazione: riporta i valoriciciascuna variabilecon icostrutti 
+319)Test-retest: somministrare in 2 sessioniciverse lo stesso test 
+320)R-phi: entrambe le variabili su scala nominale  
+321)Confrontocel punteggiocon la mediacel gruppocei soggettica un punteggio: normativo 
+322)Teoriacella rappresentazione: stabilisceche l’assegnazionecei numeriagli elementi empiriciceve  essere taleca preservare la proprietàcelle relazioni ocelle operazioni 
+323)Quale metodo permetteci misurare lacimensionalitàcegli itemci un test: forme parallele 
+324)I valoricell’Adjusted Goodness Fit Index variano:ca 0ad 1  
+325)Cos’è la matricecei residui, inanalisi fattoriale? La matricecellecifferenze tracorrelazioni osservate e correlazioni ricavatecalle saturazioni  
+326)Per stabilire se un soggetto rientra nella norma statistica, occorre fare un test statistico…grandi cimensioni,allora si può ricorrere:al testcei punti z  
+327)Le scalecicontrollo nell’MMPI servono: Per valutare la validitàcelle rispostecei soggetti  
+328)Nell’analisi fattoriale esplorativacel questionario SOS, quanti fattori latenti: 3  
+329)L’impulsione è una formaci: Response set  
+330)Ilcoping ècefinitocome: Uncambiamentocell’ambienteca partecel soggetto…il suo raggiungimento  
+331)Il modello JD-Rcibakker ecemerouticeriva:call’unionecel modellocemand-Controlci Karasek ecal  modello Effort-Reward Imbalanceci Siegrist  
+332)Un modo per ridurre i response set è: Rendere il testci facile esecuzione  
+333)Inanalisi fattoriale, se sicivide l’eigenvalueci uncato fattore per il numeroci tutti: La proporzioneci  varianza spiegata soloca quel fattore  
+334)Seabbiamo le misureci un testciabilità verbale,ci un testciabilità numerica eci un testche è la  sommacei primicue,che rischioci errore sicorre se si vuole fare l’analisi fattoriale sui tre test?: Si  rischiaciavere variabiliche non sono indipendenti tra loro;  
+335)Qualecelle seguenti opzioni non è una procedura per la stimacell’attendibilitàcel test?: la  proceduraci Sperman-Brown;  
+336)Il test – retestcos’è?: somministrare in 2 sessioniciverse lo stesso test perconfermarne l’attendibilità;  
+337)I test proiettivi: presentare stimoliambigui ed evocare rispostecreative perattivare meccanismici cifesa ed ottenere risposte più “genuine”;  
+338)Il testci intelligenza è: un testcognitivo;  
+339)Il test oggettivo è: un test incui prevedono rispostea scelta multipla;  
+340)Testci Rorshach: test proiettivo;  
+341)Icubi nella WAIS misurano: l’intelligenza generale o fluida;  
+342)Alla finecella somministrazionecel questionario SOScosa sichiedeal soggetto?: Se gli è sembrato  interessante;  
+343)Nella versionecefinitivacel questionario SOS, quanti sono gli itemcella parte 3cel questionario?: 9;  
+345)Tracarico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezionecelle  risorse possedute, tanto piùalta sarà la motivazione;  
+346)Itemche ha ricevuto più risposte nella parte 3cel questionario SOS: 64; 
+347)Calcoloci R trasformazione: punteggi grezzi in punti ponderati  
+348)Secondo il modello Effort-Reward Imbalanceci Siergrist,cosacausa lo stress lavorativo? Lo squilibrio  tra lo sforzo lavorativo richiestocall’organizzazione e la ricompensacataal lavoratore. 349)Le tetradi, inanalisi fattoriale, siannullano perchécorrispondono:allacifferenza tra i prodotticelle  stesse saturazioni.  
+350)Nell’intervista psicologica lecomande primarie sono: quelleche introducono un nuovo temacurante  l’intervista. 
+351)Inbaseaicati ottenuticall’analisi fattoriale esplorativa, il numeroci itemcella Parte 1cel  questionario SOS è stato ridottoa: 50  
+352)Un elevato livelloci mindfulness èassociatoa:alti livellicognitivi ed emotivici sensibilitàall’errore. 
+353)Inanalisi fattoriale, la procedura per l’estrazioneci fattoribasata sulle saturazioni maggiorici 0,30  stabilisceche il numeroci fattoricorrispondea tutti i fattoriche hanno:almeno una saturazione >0,30. 354)L’intervista strutturata sicaratterizza per: il fattoche icontenuti e la sequenzacellecomande sono  prefissatiall’inizio. 
+355) Nel modellocelle equazionici LISRELci Joreskog e Sorbomacifferenzacelle equazionicell’EQSci bentler, sono previsti quanti tipi variabili? 4 variabili. 
+356)cos’è il metodocelcentroideci Thurstone: è un metodoci estrazionecei fattoriche si prestaai calcoli manuali 
+357) è semprecorretto interpretare il primo fattore estratto nell’analisi fattorialecome il fattore  generale? NO 
+358) Indicandocon y il valorecella nuova scala econ x quellocella vecchia scala la trasformazione  possibile tra la scalaa rapporto è… y=ax 
+359) i test non-verbali sono test predisposti… peranalfabeti 
+360) inanalisi fattoriale lacomunanza indica… la saturazioneal quadrato (???) 
+361) il processoci operazionalizzazioneci uncostruttoconsiste: nell’individuare gli indicatori comportamentaliche sonoconsiderati, sullabaseci una teoria psicologica, le sue manifestazioni operative 362)Nei modellici equazioni strutturali, per parametro libero si intendeche il valorecel… parametro può  variare 
+363)La validitàconvergente indica il gradociaccordo tracue o piu misurecello stessocostrutto 
+364) esiste unacorrelazione significativa tra lecimensionicel questionario SOS? Si, e lecorrelazioni sono  tutte positive e significative  
+365) se il punteggioci un testche misura la “ruminazione” ha un’elevatacorrelazione positivacon il  punteggioad unaltro testche misura…. Validitàconvergente  
+366) lacimensione svalutazionecel questionario SOScorrela significativamentecon la scalacel sonno nella SCL-90R? Si, e positivamente  
+367)ilcifferenziale semantico è un itemche prevede: scalebipolari 
+368) incosaconsiste la procedura split-half? Un test viene suddivisoa metà percalcolare lacorrelazione  tra lecue parti 
+369)checos’è lo Scree-plotcicattell? Un graficoche in ordinata ha gli eigenvalue e inascissa il numeroci  fattori generali 
+370) unocei problemi nelcalcolocell’attendibilità test-retest, è stabilire la lunghezzacell’intervallo tra  la prima e la seconda somministrazionece reattivo. Perché? Perché i soggetti possono ricordare le  risposte  
+371) Il punteggio vero ècatoca: il PRODOTTOcel punteggio osservato ecell’errore 
+372) il testci Rorschach è: un test proiettivo 
+373)cos’è unacomunanza ocomunalità, inanalisi fattoriale? È la sommacelle saturazionial quadrato per  leciverse variabili
+374) una trasformazione permissibile è: una nuova scalache mantiene inalterate le proprietàcella scala  originaria 
+375) la stimacel punteggio vero ècatacalla sommacei punteggi osservati: ecelcoefficienteci attendibilità  
+376) inanalisi fattoriale, il metodoci Procuste è una tecnicaci rotazione: obliquache sibasa su una  matricebersaglio 
+377) tra i vari response set, la semantica è unbias (domanda noncompleta)…. Il soggetto interpreta  l’item 
+378) nell’analisici regressione multiplacon punteggi standardizzati, ilcoefficientebeta: sempre ugualea  zero 
+379) nell’analisi fattorialeconfermativa, l’indice RMSEA:compreso tra 0,05 e 0,10 380) quale tra questecefinizionici fatica soggettiva è quellacorretta? Il lavoratore esprime unacadutaci  efficienza sebbene non manifesti nessuncriterio oggettivociaffaticamento  
+381) nel questionariocelbig-Five, lacimensionecell’amicalità misura: il livellocicooperativitàcelle  persone 
+382) nell’analisi fattoriale, uncatoci partenza ècostituitoca:calla matricecellecorrelazioni ocovarianze  tra le variabili
+`.split('\n');

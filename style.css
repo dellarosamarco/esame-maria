@@ -1,13 +1,46 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(23, 23, 23);
 }
 
 #main-container {
-    width: 50%;
+    width: 30%;
 
     h1 {
         text-align: center;
+        color: white;
     }
+
+    p {
+        color: white;
+    }
+}
+
+.buttons-container {
+    margin-top: 20px;
+    gap: 20px;
+    display: flex;
+}
+
+.default-button {
+    border: none;
+    outline: none;
+    color: white;
+    padding: 10px;
+    border-radius: 7.5px;
+    cursor: pointer;
+}
+
+.back-button {
+    background-color: red;
+}
+
+.forward-button {
+    background-color: green;
 }
