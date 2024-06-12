@@ -630,7 +630,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● B) Deviazione standard dei punteggi osservati 
 ● C) Devianza tra i punteggi veri e osservati 
 ● D) Differenza tra la media e la moda della distribuzione
-134) Quale analisi fattoriale se si conoscono in partenza i fattori e il numero? ● A) Analisi fattoriale esplorativa 
+134) Quale analisi fattoriale se si conoscono in partenza i fattori e il numero? 
+● A) Analisi fattoriale esplorativa 
 ● B) Analisi fattoriale confermativa 
 ● C) Analisi fattoriale descrittiva 
 ● D) Analisi fattoriale predittiva 
@@ -640,7 +641,9 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● C) Valutare la correlazione tra variabili indipendenti e dipendenti 
 ● D) Calcolare la varianza spiegata dai fattori latenti 
 136) La Root Mean Squared Residuals è: 
-● A) La media dei residui al quadrato dell’analisi fattoriale confermativa ● B) La radice quadrata della media dei residui dell’analisi fattoriale ● C) La deviazione standard dei residui dell’analisi fattoriale 
+● A) La media dei residui al quadrato dell’analisi fattoriale confermativa 
+● B) La radice quadrata della media dei residui dell’analisi fattoriale 
+● C) La deviazione standard dei residui dell’analisi fattoriale 
 ● D) La somma dei residui al quadrato dell’analisi fattoriale confermativa 
 137) Se lo psicologo sa precisamente quanti e quali sono i fattori latenti, cosa gli conviene fare? 
 ● A) Effettuare un’analisi fattoriale esplorativa 
@@ -706,7 +709,8 @@ C) Un indice che esprime la correlazione tra la variabile e altre variabili nel 
 ● B) Un metodo per trovare le variabili indipendenti 
 ● C) Un metodo per analizzare dati 
 ● D) Un metodo per valutare la validità di un test 
-150) Il coefficiente R cosa rappresenta in caso di analisi multifattoriale? A) La correlazione tra criterio e tutti i predittori 
+150) Il coefficiente R cosa rappresenta in caso di analisi multifattoriale? 
+A) La correlazione tra criterio e tutti i predittori 
 B) La correlazione tra criterio e il predittore principale 
 C) La varianza spiegata dal modello 
 D) L'indice di attendibilità del test 
@@ -715,7 +719,8 @@ a) Misurare solo le differenze qualitative tra gli elementi
 b) Quantificare le distanze tra gli elementi 
 c) Classificare gli elementi in categorie 
 d) Misurare solo gli elementi nominali
-152) Non poter misurare QI maggiori di 160 e inferiori a 40 è: a) Un punto debole della WAIS-R 
+152) Non poter misurare QI maggiori di 160 e inferiori a 40 è: 
+a) Un punto debole della WAIS-R 
 b) Un punto di forza della WAIS-R 
 c) Irrelavante per la WAIS-R 
 d) Un errore di misurazione 
@@ -741,7 +746,8 @@ c) All'ANOVA
 d) Alla correlazione
 157) Se due item di un test hanno uguale varianza: 
 a) Vengono entrambi eliminati dal test 
-b) Viene scartato quello con minore correlazione del test intero/campione c) Vengono entrambi considerati affidabili 
+b) Viene scartato quello con minore correlazione del test intero/campione 
+c) Vengono entrambi considerati affidabili 
 d) Viene scelto casualmente quale scartare 
 158) Indicando con s^2x la varianza dei punteggi veri, se raddoppio la lunghezza del test tale varianza diventa: 
 a) 2 s^2 
@@ -753,14 +759,18 @@ a) Percentuale di varianza che è in comune a diverse variabili
 b) Percentuale di varianza unica a una singola variabile 
 c) Indice di attendibilità del test 
 d) Varianza totale del campione 
-160) Orsini e Laicardi utilizzano un metodo di analisi fattoriale a) A 2 fattori 
+160) Orsini e Laicardi utilizzano un metodo di analisi fattoriale 
+a) A 2 fattori 
 b) A 4 fattori 
 c) A 3 fattori 
 d) A 5 fattori 
-161) Orsini e Laicardi nella taratura sugli anziani riportano nel subtest di costruzione di oggetti che presenta specificità adeguata in tutti i gruppi d’età laddove: a) I subtest dell’ordinamento di storie figurate ha specificità inadeguata solo nel gruppo 80-84 
+161) Orsini e Laicardi nella taratura sugli anziani riportano nel subtest di costruzione di oggetti che presenta specificità adeguata in tutti i gruppi d’età laddove: 
+a) I subtest dell’ordinamento di storie figurate ha specificità inadeguata solo nel gruppo 80-84 
 b) I subtest dell’ordinamento di storie figurate ha specificità adeguata in tutti i gruppi d’età 
-c) Il subtest di costruzione di oggetti ha specificità inadeguata in tutti i gruppi d’età d) Tutti i subtest hanno specificità adeguata 
-162) La taratura italiana di Orsini e Laicardi è stata fatta su un campione del: a) Nord Italia 
+c) Il subtest di costruzione di oggetti ha specificità inadeguata in tutti i gruppi d’età 
+d) Tutti i subtest hanno specificità adeguata 
+162) La taratura italiana di Orsini e Laicardi è stata fatta su un campione del: 
+a) Nord Italia 
 b) Centro Italia 
 c) Centro-Sud Italia 
 d) Sud Italia
@@ -769,7 +779,8 @@ a) Della formula di Spearman-Brown
 b) Della formula di Pearson 
 c) Della formula di Fisher 
 d) Della formula di Wilcoxon 
-164) Formula del punteggio osservato? a) X = V + E 
+164) Formula del punteggio osservato? 
+a) X = V + E 
 b) X = V - E 
 c) X = V * E 
 d) X = V / E 
@@ -800,17 +811,21 @@ a) Una tecnica di rotazione degli assi fattoriali applicabile quando i fattori s
 b) Una tecnica che non viene mai utilizzata 
 c) Una tecnica per eliminare i fattori non significativi 
 d) Una tecnica per analizzare i dati non normalmente distribuiti 
-171) Cosa si intende per "comunalità" nell'analisi fattoriale: a) La somma delle saturazioni fattoriali di uno specifico test 
+171) Cosa si intende per "comunalità" nell'analisi fattoriale: 
+a) La somma delle saturazioni fattoriali di uno specifico test 
 b) La varianza dei dati 
 c) Il coefficiente di correlazione 
 d) Il numero di osservazioni 
-172) Nella tecnica R dell’analisi fattoriale la matrice dati è composta: a) Dalle variabili per riga e dai fattori per colonna 
+172) Nella tecnica R dell’analisi fattoriale la matrice dati è composta: 
+a) Dalle variabili per riga e dai fattori per colonna 
 b) Dalle variabili per colonna e dai fattori per riga 
 c) Dalle osservazioni per riga e dai fattori per colonna 
 d) Dalle osservazioni per colonna e dai fattori per riga 
-173) In analisi fattoriale il teorema fondamentale di Thurstone stabilisce che: a) La matrice delle correlazioni tra variabili è data dal prodotto tra la matrice delle saturazioni fattoriali e la sua trasposta 
+173) In analisi fattoriale il teorema fondamentale di Thurstone stabilisce che: 
+a) La matrice delle correlazioni tra variabili è data dal prodotto tra la matrice delle saturazioni fattoriali e la sua trasposta 
 b) La matrice delle correlazioni tra variabili è identica alla matrice delle saturazioni fattoriali 
-c) La matrice delle correlazioni tra variabili è uguale alla matrice dei residui d) La matrice delle correlazioni tra variabili è uguale alla matrice dei fattori 
+c) La matrice delle correlazioni tra variabili è uguale alla matrice dei residui 
+d) La matrice delle correlazioni tra variabili è uguale alla matrice dei fattori 
 174) Quali sono le Scale di Atteggiamento? 
 a) Likert, Thurstone e Guttman (scalogramma) 
 b) Likert, Spearman e Pearson 
@@ -824,7 +839,8 @@ d) Una matrice triangolare
 b) Le dimensioni fattoriali siano tra loro correlati 
 c) I fattori siano indipendenti dalle variabili 
 d) I fattori siano correlati alle variabili
-177) In analisi fattoriale nel metodo delle componenti principali la procedura di iterazione delle comunanze: a) X^2 = nr^2ᶲ 
+177) In analisi fattoriale nel metodo delle componenti principali la procedura di iterazione delle comunanze: 
+a) X^2 = nr^2ᶲ 
 b) X^2 = nr^2 
 c) X^2 = n 
 d) X^2 = r^2 
@@ -835,7 +851,9 @@ c) I fattori che sono facilmente misurabili
 d) I fattori che emergono solo in situazioni specifiche 
 179) Nell’analisi fattoriale lo Scree-plot e la procedura di Kaiser-Guttman possono indicare un numero diverso di fattori da estrarre? 
 a) Solo quando il numero di fattori equivale a quello delle variabili 
-b) Solo quando il numero di fattori è maggiore del numero delle osservazioni c) Solo quando il numero di fattori è minore del numero delle osservazioni d) Sì, in base alla struttura dei dati 
+b) Solo quando il numero di fattori è maggiore del numero delle osservazioni 
+c) Solo quando il numero di fattori è minore del numero delle osservazioni 
+d) Sì, in base alla struttura dei dati 
 180) Cos’è lo Scree-plot e quali sono i valori che prendiamo: 
 a) Un grafico con i fattori in ascissa e gli eigenvalue in ordinata 
 b) Un grafico con le variabili in ascissa e gli eigenvalue in ordinata 
@@ -848,7 +866,9 @@ c) Creatività, memoria, e apprendimento
 d) Velocità di elaborazione, memoria di lavoro, e abilità esecutive 
 182) Il Subtest associazione di simboli a numeri presenta? 
 a) Elevata saturazione sul fattore velocità del modello di Horn 
-b) Elevata saturazione sul fattore intelligenza cristallizzata del modello di Horn c) Elevata saturazione sul fattore intelligenza fluida del modello di Horn d) Elevata saturazione sul fattore memoria di lavoro del modello di Horn 
+b) Elevata saturazione sul fattore intelligenza cristallizzata del modello di Horn 
+c) Elevata saturazione sul fattore intelligenza fluida del modello di Horn 
+d) Elevata saturazione sul fattore memoria di lavoro del modello di Horn 
 183) Horn e Cattell cosa intendono per PPRI: 
 a) Informazione, memoria di cifre, ragionamento aritmetico 
 b) Creatività, abilità verbale, memoria 
@@ -870,7 +890,8 @@ b) Asimmetrica per tutti i fattori
 c) Simmetrica solo per alcuni fattori 
 d) Asimmetrica solo per alcuni fattori 
 187) Perché le tetradi si annullano? 
-a) Esprimono la differenza tra le composizioni delle saturazioni fattoriali b) Sono misure non affidabili 
+a) Esprimono la differenza tra le composizioni delle saturazioni fattoriali 
+b) Sono misure non affidabili 
 c) Sono misure casuali 
 d) Esprimono la differenza tra le correlazioni 
 188) Nella ricerca Q dell’analisi fattoriale l’obiettivo è: 
@@ -883,7 +904,8 @@ a) Adeguato per l’analisi fattoriale
 b) Inadeguato per l’analisi fattoriale 
 c) Adeguato per l'analisi di regressione 
 d) Inadeguato per l'analisi dei cluster 
-190) Beta con zero a cosa equivale nei punteggi standardizzati: a) Sempre a 0 perché B0= u1-B1u2 
+190) Beta con zero a cosa equivale nei punteggi standardizzati: 
+a) Sempre a 0 perché B0= u1-B1u2 
 b) Sempre a 1 perché B0= u1-B1u2 
 c) Sempre a -1 perché B0= u1-B1u2 
 d) Sempre a -0.5 perché B0= u1-B1u2
@@ -926,7 +948,8 @@ a) Quando entrambe le variabili sono su scala nominale
 b) Quando entrambe le variabili sono su scala ordinale 
 c) Quando entrambe le variabili sono su scala intervallo 
 d) Quando entrambe le variabili sono su scala di rapporto
-199) Il coefficiente di correlazione r di Spearman si calcola con punteggi su scala: a) Ordinale 
+199) Il coefficiente di correlazione r di Spearman si calcola con punteggi su scala: 
+a) Ordinale 
 b) Nominale 
 c) Intervallo 
 d) Di rapporto 
@@ -1004,15 +1027,18 @@ d) Di rapporto
 ● C) Validità predittiva 
 ● D) I punteggi del reattivo sono stati ottenuti in un secondo momento precedente rispetto ai valori del criterio 
 216) Si chiama validità concorrente se: 
-● A) I punteggi del reattivo sono stati ottenuti in un secondo momento ● B) I valori del criterio e i punteggi del reattivo sono stati ottenuti nello stesso momento 
-● C) I punteggi del reattivo sono stati ottenuti dopo i valori del criterio ● D) I valori del criterio sono stati ottenuti in un secondo momento 
+● A) I punteggi del reattivo sono stati ottenuti in un secondo momento 
+● B) I valori del criterio e i punteggi del reattivo sono stati ottenuti nello stesso momento 
+● C) I punteggi del reattivo sono stati ottenuti dopo i valori del criterio 
+● D) I valori del criterio sono stati ottenuti in un secondo momento 
 217) r-pearson si usa su scala: 
 ● A) Nominale 
 ● B) Ordinale 
 ● C) Intervallo o Rapporti, entrambe su scala quantitativa 
 ● D) Rapporti 
 218) Nella scala nominale: 
-● A) I soggetti sono ripartiti in categorie in base a determinate caratteristiche ● B) I soggetti sono classificati in base a un punteggio 
+● A) I soggetti sono ripartiti in categorie in base a determinate caratteristiche 
+● B) I soggetti sono classificati in base a un punteggio 
 ● C) I soggetti sono misurati in unità di misura standard 
 ● D) I soggetti sono valutati in base a una scala di intensità 
 219) La scala dell’amicalità: 
@@ -1042,7 +1068,8 @@ d) Di rapporto
 ● D) Dicotomica 
 224) Nell’ MMPI la scala Back F serve per: 
 ● A) Misurare la personalità 
-● B) Misurare il mantenimento dell'attenzione durante la compilazione del test ● C) Misurare la sincerità delle risposte 
+● B) Misurare il mantenimento dell'attenzione durante la compilazione del test 
+● C) Misurare la sincerità delle risposte 
 ● D) Misurare la memoria 
 225) Quando si usa l'r-pears: 
 ● A) Su scala nominale 
@@ -1050,7 +1077,8 @@ d) Di rapporto
 ● C) Su scala intervallo 
 ● D) Su entrambe le scale quantitative 
 226) Con le scale Wechsler: 
-● A) I QI hanno lo stesso significato di base a prescindere dall’età ● B) I QI cambiano significato in base all'età 
+● A) I QI hanno lo stesso significato di base a prescindere dall’età 
+● B) I QI cambiano significato in base all'età 
 ● C) I QI sono utilizzati solo in adulti 
 ● D) I QI non sono considerati affidabili
 227) Per variabile indipendente si intende: 
@@ -1336,11 +1364,13 @@ a) Una strategia di adattamento ai cambiamenti lavorativi
 b) Un cambiamento dell'ambiente lavorativo da parte del soggetto che non si identifica nel risultato ma negli sforzi attuati per il suo raggiungimento 
 c) Uno stato di benessere psicologico 
 d) Gli sforzi attuati per gestire lo stress e risolvere i problemi 
-284) Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: a) Maggiore è il carico lavorativo, minore sarà la motivazione 
+284) Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: 
+a) Maggiore è il carico lavorativo, minore sarà la motivazione 
 b) Maggiore è la percezione delle risorse possedute, tanto più alta sarà la motivazione 
 c) Il carico lavorativo e la motivazione non sono correlati 
 d) Maggiore è la competizione, maggiore sarà la motivazione 
-285) Xanthopolou, Bakker, Demerouti e Shaufeli (2007) hanno esaminato il ruolo di tre risorse personali nel predire l’esaurimento ed il coinvolgimento lavorativo, esse sono: a) Capacità cognitive, competenze tecniche, esperienza lavorativa 
+285) Xanthopolou, Bakker, Demerouti e Shaufeli (2007) hanno esaminato il ruolo di tre risorse personali nel predire l’esaurimento ed il coinvolgimento lavorativo, esse sono: 
+a) Capacità cognitive, competenze tecniche, esperienza lavorativa 
 b) Autostima, intelligenza emotiva, assertività 
 c) Autostima, ottimismo e self-efficacy 
 d) Intelligenza, creatività, flessibilità 
