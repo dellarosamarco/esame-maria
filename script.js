@@ -59,7 +59,10 @@ const text = `1) PROCEDURA SPLIT-HALF:
 ● C) Con correlazioni elevate 
 ● D) Con correlazioni basse
 13) Il Big five Questionnaire è: 
-● A) Un reattivo composto da 132 item che misura 5 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale ● B) Un reattivo composto da 50 item che misura 3 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale ● C) Un reattivo composto da 200 item che misura 7 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale ● D) Un reattivo composto da 80 item che misura 4 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale 
+● A) Un reattivo composto da 132 item che misura 5 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale 
+● B) Un reattivo composto da 50 item che misura 3 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale 
+● C) Un reattivo composto da 200 item che misura 7 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale 
+● D) Un reattivo composto da 80 item che misura 4 fattori di personalità estroversione, gradevolezza, coscienziosità, stabilità emotiva e apertura mentale 
 14) Nel big five Questionnaire, la scala dell’energia misura: 
 ● A) Il livello di dinamismo del comportamento. 
 ● B) Il livello di intelligenza emotiva. 
