@@ -3779,7 +3779,28 @@ for(let n=0;n<questions.length;n++) {
 let currentAnswerIndex = 0;
 
 window.onload = () => {
-    setQuestion()
+    setQuestion();
+
+    let txt = '';
+    for(let n=0;n<questions.length;n++) {
+        txt += `
+            <option value='${questions[n].title}'>`+questions[n].title+`</option>
+        `;
+    }
+
+    document.getElementById('change-question').innerHTML = txt;
+}
+
+const onSelectQuestion = () => {
+    const title = document.getElementById('change-question').value;
+
+    for(let n=0;n<questions.length;n++) {
+        if(questions[n].title == title) {
+            currentAnswerIndex = n;
+            break;
+        }
+    }
+    setQuestion();
 }
 
 const setQuestion = () => {
@@ -3787,15 +3808,15 @@ const setQuestion = () => {
 
     document.getElementById('question-title').innerHTML = question.title;
  
-     let txt = '';
-     for(let n=0;n<question.answers.length;n++) {
-         txt += `
-             <div style="display:flex; justify-content:space-between;">
-                 <p>`+question.answers[n]+`</p>
-                 <input type="radio" name=x>
-             </div>
-         `
-     }
+    let txt = '';
+    for(let n=0;n<question.answers.length;n++) {
+        txt += `
+            <div style="display:flex; justify-content:space-between;">
+                <p>`+question.answers[n]+`</p>
+                <input type="radio" name=x>
+            </div>
+        `
+    }
  
     document.getElementById('questions-container').innerHTML = txt;
 }
