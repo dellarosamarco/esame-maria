@@ -1143,13 +1143,20 @@ d) Di rapporto
 ● C) Comprensione 
 ● D) Ordinamento di storie figurate
 245) Cos’è un test di massima performance? 
-● A) Un test che misura le abilità al massimo delle capacità del soggetto ● B) Un test che misura le abilità al di sotto delle capacità del soggetto ● C) Un test che misura le abilità tipiche del soggetto 
-● D) Un test che misura le abilità medie della popolazione 246) Il test – retest cos’è? 
+● A) Un test che misura le abilità al massimo delle capacità del soggetto 
+● B) Un test che misura le abilità al di sotto delle capacità del soggetto 
+● C) Un test che misura le abilità tipiche del soggetto 
+● D) Un test che misura le abilità medie della popolazione 
+246) Il test – retest cos’è? 
 ● A) Somministrare in 2 sessioni diverse lo stesso test 
 ● B) Somministrare test diversi alla stessa persona 
 ● C) Somministrare lo stesso test a due gruppi diversi 
-● D) Somministrare lo stesso test due volte nello stesso giorno 247) I test proiettivi: 
-● A) Presentano stimoli ambigui ed evocano risposte inconsce ● B) Presentano stimoli chiari ed evocano risposte consce ● C) Presentano stimoli ambigui ed evocano risposte consce ● D) Presentano stimoli chiari ed evocano risposte inconsce 
+● D) Somministrare lo stesso test due volte nello stesso giorno 
+247) I test proiettivi: 
+● A) Presentano stimoli ambigui ed evocano risposte inconsce 
+● B) Presentano stimoli chiari ed evocano risposte consce 
+● C) Presentano stimoli ambigui ed evocano risposte consce 
+● D) Presentano stimoli chiari ed evocano risposte inconsce 
 248) Cosa si intende per norma di un test psicologico: 
 ● A) Standardizzazione dei punteggi 
 ● B) Costruzione dei parametri di applicazione 
@@ -1163,7 +1170,8 @@ d) Di rapporto
 250) Il test oggettivo è: 
 ● A) Un test in cui le risposte sono soggettive 
 ● B) Un test che prevede risposte a scelta multipla 
-● C) Un test in cui le risposte sono obiettive e valutabili oggettivamente ● D) Un test che richiede risposte basate sull'opinione personale 
+● C) Un test in cui le risposte sono obiettive e valutabili oggettivamente 
+● D) Un test che richiede risposte basate sull'opinione personale 
 251) Il test di intelligenza è: 
 ● A) Un test cognitivo 
 ● B) Un test di personalità 
@@ -1187,7 +1195,8 @@ d) Di rapporto
 255) Qual è la caratteristica delle interviste strutturate? 
 ● A) Le domande sono decise durante l'intervista 
 ● B) Il contenuto delle domande è deciso durante l'intervista 
-● C) Il contenuto e la struttura delle domande sono decise dall'inizio ● D) Le domande sono aperte e non strutturate 
+● C) Il contenuto e la struttura delle domande sono decise dall'inizio ● 
+D) Le domande sono aperte e non strutturate 
 256) Indicano con “r att” la correlazione del test di arrivo, con “r part” la correlazione del test di partenza e con “u” il numero di parti in cui è stato diviso il test, la formula corretta dell’equazione di Spearman-Brown è: a) rpart=1+(u−1)rattr_{part} = 1 + (u - 1) r_{att}rpart=1+(u−1)ratt 
 b) ratt=1+(u−1)rpartr_{att} = 1 + (u - 1) r_{part}ratt=1+(u−1)rpart 
 c) rpart=1−(u−1)rattr_{part} = 1 - (u - 1) r_{att}rpart=1−(u−1)ratt 
@@ -1207,11 +1216,13 @@ a) Un intervallo di tempo variabile per tutti i soggetti
 b) Un intervallo di tempo prestabilito e uguale per tutti i soggetti 
 c) Nessun intervallo di tempo 
 d) Una fase di preparazione preliminare 
-260) Differenza dei punteggi dell'intelligenza calcolati da Binet e dalla WAIS: a) QI rapporto mente, l’altro QI deviazione 
+260) Differenza dei punteggi dell'intelligenza calcolati da Binet e dalla WAIS: 
+a) QI rapporto mente, l’altro QI deviazione 
 b) QI emotivo, l’altro QI cognitivo 
 c) QI verbale, l’altro QI non verbale 
 d) QI fluido, l’altro QI cristallizzato 
-261) Il grado di intelligenza di una persona è una variabile discreta o continua? a) Discreta 
+261) Il grado di intelligenza di una persona è una variabile discreta o continua? 
+a) Discreta 
 b) Continua 
 c) Variabile 
 d) Costante 
@@ -1221,7 +1232,8 @@ b) Situazione sperimentale
 c) Gruppo di confronto 
 d) Variabile dipendente 
 263) Il punteggio spaziale PPSP è dato da: 
-a) Completamento di figure, disegno con cubi e ricostruzione di oggetti b) Disegno con i cubi 
+a) Completamento di figure, disegno con cubi e ricostruzione di oggetti 
+b) Disegno con i cubi 
 c) Ricostruzione di oggetti 
 d) Tutte le risposte sopra 
 264) Un difetto della WM: problem solving si attribuisce a: 
@@ -1249,11 +1261,13 @@ a) Sì, con correlazioni negative
 b) Sì,con tutto e le correlazioni sono positive 
 c) No, non c'è correlazione 
 d) Dipende dal contesto 
-269) Il modello più utilizzato, tra i modelli interazionali dello stress (SOS), è quello di: a) Karasek (modello domanda-controllo) 
+269) Il modello più utilizzato, tra i modelli interazionali dello stress (SOS), è quello di: 
+a) Karasek (modello domanda-controllo) 
 b) Selye (modello della sindrome generale di adattamento) 
 c) Lazarus e Folkman (modello transazionale del coping) 
 d) Maslach e Jackson (modello della sindrome da burnout) 
-270) Quale metodo è stato utilizzato per la costruzione del questionario SOS? a) Metodo sperimentale 
+270) Quale metodo è stato utilizzato per la costruzione del questionario SOS? 
+a) Metodo sperimentale 
 b) Metodo clinico 
 c) Metodo empirico 
 d) Metodo deduttivo 
@@ -1262,15 +1276,18 @@ a) Se ha risposto sinceramente
 b) Se ha capito le domande 
 c) Se gli è sembrato interessante 
 d) Se desidera partecipare ad altri studi 
-272) La scala di svalutazione del questionario SOS fornisce informazioni riguardanti: a) Le condizioni di lavoro dell'azienda 
+272) La scala di svalutazione del questionario SOS fornisce informazioni riguardanti: 
+a) Le condizioni di lavoro dell'azienda 
 b) Il benessere psicologico dei dipendenti 
 c) L'organizzazione del lavoro all'interno dell'azienda 
 d) La soddisfazione lavorativa dei dipendenti 
-273) La Scala di Disagio del questionario SOS fornisce informazioni riguardo: a) L'efficacia delle politiche aziendali 
+273) La Scala di Disagio del questionario SOS fornisce informazioni riguardo: 
+a) L'efficacia delle politiche aziendali 
 b) L'inadeguatezza personale circa lo svolgimento del lavoro 
 c) La soddisfazione dei dipendenti 
 d) La qualità delle relazioni interpersonali sul posto di lavoro 
-274) Il dominio temporale del questionario SOS fornisce informazioni inerenti alla: a) Gestione del tempo lavorativo ed extra-lavorativo 
+274) Il dominio temporale del questionario SOS fornisce informazioni inerenti alla: 
+a) Gestione del tempo lavorativo ed extra-lavorativo 
 b) Distribuzione delle risorse aziendali 
 c) Qualità delle relazioni con i colleghi 
 d) Percezione dello stress sul posto di lavoro
