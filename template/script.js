@@ -1394,15 +1394,15 @@ const questions = [
             "d) Alla correlazione"
         ]
     },
-    // {
-    //     "title": "157) Se due item di un test hanno uguale varianza: ",
-    //     "answers": [
-    //         "a) Vengono entrambi eliminati dal test ",
-    //         "b) Viene scartato quello con minore correlazione del test intero/campione ",
-    //         "c) Vengono entrambi considerati affidabili ",
-    //         "d) Viene scelto casualmente quale scartare "
-    //     ]
-    // },
+    {
+        "title": "157) Se due item di un test hanno uguale varianza: ",
+        "answers": [
+            "a) Vengono entrambi eliminati dal test ",
+            "b) Viene scartato quello con minore correlazione del test intero/campione ",
+            "c) Vengono entrambi considerati affidabili ",
+            "d) Viene scelto casualmente quale scartare "
+        ]
+    },
     {
         "title": "158) Indicando con s^2x la varianza dei punteggi veri, se raddoppio la lunghezza del test tale varianza diventa: ",
         "answers": [
@@ -3548,7 +3548,7 @@ const list = `1) PROCEDURA SPLIT-HALF: Divido a metà il test
 153) Come si calcola la significatività del QI in assenza di equazione di regressione: si calcolano i QIV e QIP  e si sommano. 
 154) Se ritroviamo che i punteggi ponderati vocabolario, costruzione di oggetti, associazioni di simboli a  numeri, i valori si spostano significativamente dalla media e i suoi punti di significatività sono superati  rispettivamente da 28%, 12%, 29%, si può affermare che: solo lo scatter relativo a ricostruzione di oggetti  risulta non particolarmente frequente nella popolazione normale. 
 155) Il calcolo dello scatter si basa su: differenza tra QIV E QIP. 
-156) Per il test della norma statistica se il campione ha piccole dimensioni e la varianza della popolazione  è ignota allora si ricorre: al t di student  
+156) Per il test della norma statistica se il campione ha piccole dimensioni e la varianza della popolazione  è ignota allora si ricorre: al t di student
 158) Se due item di un test hanno uguale varianza: viene scartato quello con minore correlazione del test  intero/campione.  
 159) Indicando con s^2x la varianza dei punteggi veri, se raddoppio la lunghezza del test tale varianza  diventa: 4 s^2 
 160) Varianza comune Orsini e Laicardi? % di varianza che è in comune a diverse variabili. 
@@ -3589,8 +3589,9 @@ const list = `1) PROCEDURA SPLIT-HALF: Divido a metà il test
 195)Nell’analisi fattoriale si deve evitare l’uso: di variabili empiricamente non indipendenti 
 196)Nell’analisi fattoriale le variabili complesse sono: variabili che misurano più fattori  contemporaneamente  
 197)Quale di queste NON calcola la stima dell'attendibilità:, formula profetica Spearman-brown  
-198)Cosa indica un coefficiente di correlazione pari a 0?• NON VI è CORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla) •nulla tra le variabili considerate  
-199)Quando si usa il coefficiente di correlazione "rphi": QUANDO ENTRAMBE LE VARIABILI SONO SU  SCALA NOMINALE  
+198)Cosa indica un coefficiente di correlazione pari a 0?• NON VI è CORRELAZIONE TRA LE 2 VARIABILI  (correlazione nulla) •nulla tra le variabili considerate
+199)Quando si usa il coefficiente di correlazione "rphi": QUANDO ENTRAMBE LE VARIABILI SONO SU  SCALA NOMINALE
+200)Il coefficiente di correlazione r di Spearman si calcola con punteggi su scala: ordinale
 201)La formula �� − �������� costituisce: il coefficiente di correlazione K  
 202)R^2? Coefficiente di Determinazione R^2=r^2 
 203)La correlazione lineare positiva: all’ aumentare dei valori x aumentano i valori y 
@@ -3731,7 +3732,6 @@ const list = `1) PROCEDURA SPLIT-HALF: Divido a metà il test
 341)I cubi nella WAIS misurano: l’intelligenza generale o fluida;  
 342)Alla fine della somministrazione del questionario SOS cosa si chiede al soggetto?: Se gli è sembrato  interessante;  
 343)Nella versione definitiva del questionario SOS, quanti sono gli item della parte 3 del questionario?: 9;  
-344) La dimensione svalutazione del questionario SOS correla con le scale cliniche della SLC-90R? si con  tutte e le correlazioni sono positive 
 345)Tra carico lavorativo e motivazione vi è una mutua relazione ovvero: maggiore è la percezione delle  risorse possedute, tanto più alta sarà la motivazione;  
 346)Item che ha ricevuto più risposte nella parte 3 del questionario SOS: 64; 
 347)Calcolo di R trasformazione: punteggi grezzi in punti ponderati  
@@ -3775,6 +3775,8 @@ const list = `1) PROCEDURA SPLIT-HALF: Divido a metà il test
 for(let n=0;n<questions.length;n++) {
     questions[n]['correctAnswer'] = list[n]
 }
+
+console.log(questions)
 
 let currentAnswerIndex = 0;
 
